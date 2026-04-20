@@ -1,0 +1,121 @@
+[
+    {
+        "id": "NYC",
+        "countryId": "USA",
+        "slug": "new-york",
+        "name": "New York City",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/new-york.jpg",
+        "seoDescription": "Is New York City safe for tourists? Manhattan and popular attractions are highly secure, but visitors should remain vigilant against petty theft in crowded areas.",
+        "touristAdvisory": "New York City is consistently ranked as one of the safest large cities in the US. The main tourist areas, including Times Square, Central Park, and most parts of Manhattan, are heavily patrolled and very secure. However, visitors should remain aware of their surroundings. Pickpocketing and petty theft can occur in crowded areas, popular tourist landmarks, and on the subway system. It is advisable to avoid desolate areas or unlit parks at night. Always use official yellow cabs, authorized transit, or reputable ride-sharing apps rather than unlicensed taxis. Pay attention to your belongings in restaurants and cafes.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 20,
+            "politicalStability": 15,
+            "naturalDisaster": 30
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "NYC",
+        "countryId": "USA",
+        "slug": "new-york",
+        "name": "New York City",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/new-york.jpg",
+        "seoDescription": "Is New York City safe for tourists? Manhattan and popular attractions are highly secure, but visitors should remain vigilant against petty theft in crowded areas.",
+        "touristAdvisory": "New York City is consistently ranked as one of the safest large cities in the US. The main tourist areas, including Times Square, Central Park, and most parts of Manhattan, are heavily patrolled and very secure. However, visitors should remain aware of their surroundings. Pickpocketing and petty theft can occur in crowded areas, popular tourist landmarks, and on the subway system. It is advisable to avoid desolate areas or unlit parks at night. Always use official yellow cabs, authorized transit, or reputable ride-sharing apps rather than unlicensed taxis. Pay attention to your belongings in restaurants and cafes.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "LAX",
+        "countryId": "USA",
+        "slug": "los-angeles",
+        "name": "Los Angeles",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/los-angeles.jpg",
+        "seoDescription": "Planning a trip to Los Angeles? Discover safety tips, navigate safe zones like Santa Monica, and learn which areas to avoid after dark.",
+        "touristAdvisory": "Los Angeles is a sprawling metropolis where safety varies drastically by neighborhood. Popular destinations like Santa Monica, Beverly Hills, and West Hollywood are generally safe and tourist-friendly. However, certain areas such as Skid Row, parts of Downtown LA (DTLA) at night, and specific neighborhoods in South LA have higher crime rates and significant homeless populations. Tourists are highly advised to rent a car or use ride-sharing services, as public transportation can be unpredictable and sometimes feel unsafe late at night. Always lock your car doors and never leave valuables visible inside your vehicle to prevent smash-and-grab thefts.",
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 80,
+            "politicalStability": 80,
+            "naturalDisaster": 30
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "LAS",
+        "countryId": "USA",
+        "slug": "las-vegas",
+        "name": "Las Vegas",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/las-vegas.jpg",
+        "seoDescription": "Is the Las Vegas Strip safe? Learn about tourist safety in Vegas, including casino security and areas to avoid off the main tourist corridors.",
+        "touristAdvisory": "The Las Vegas Strip and the Fremont Street Experience are heavily surveilled and feature a massive security and police presence, making them extremely safe for tourists at almost any hour. The major resorts and casinos invest heavily in the safety of their patrons. The primary risks for visitors involve excessive alcohol consumption, dehydration due to the extreme desert heat, and opportunistic crimes like pickpocketing or hotel room theft. It is highly recommended to stay within the well-lit, populated tourist corridors. Venturing off the Strip into certain residential neighborhoods of North or East Las Vegas, especially walking at night, should be avoided.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "MIA",
+        "countryId": "USA",
+        "slug": "miami",
+        "name": "Miami",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/miami.jpg",
+        "seoDescription": "Miami safety guide for travelers. Find out which neighborhoods to enjoy, like South Beach, and which areas require extra caution during your visit.",
+        "touristAdvisory": "Miami offers a vibrant mix of culture and nightlife, and its main tourist hubs like South Beach, Brickell, and Coral Gables are generally safe during the day and early evening. However, tourists should remain cautious as petty theft, such as bag snatching, is common on crowded beaches and in busy nightlife districts. Never leave drinks unattended in clubs or bars. Certain inland neighborhoods, such as Overtown and Liberty City, have higher rates of violent crime and are best avoided by tourists. Additionally, visitors should monitor local weather reports, particularly during the Atlantic hurricane season which runs from June through November.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 80,
+            "politicalStability": 80,
+            "naturalDisaster": 20
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "SFO",
+        "countryId": "USA",
+        "slug": "san-francisco",
+        "name": "San Francisco",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/san-francisco.jpg",
+        "seoDescription": "Traveling to San Francisco? Read our comprehensive safety advice regarding car break-ins, safe neighborhoods, and navigating the city effectively.",
+        "touristAdvisory": "San Francisco is an iconic and beautiful destination, but it currently faces significant challenges with property crime, particularly vehicular smash-and-grabs. It is absolutely critical that tourists never leave any bags, luggage, or valuables visible in a parked car anywhere in the city, even for a few minutes. While violent crime targeting tourists is relatively low, areas like the Tenderloin, parts of the Mission District, and the Mid-Market area have visible drug use and large homeless encampments, which can be unpredictable. Stick to popular, well-traveled areas like Fisherman's Wharf, the Marina, and North Beach, and remain alert when walking at night.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 75,
+            "politicalStability": 75,
+            "naturalDisaster": 35
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "MCO",
+        "countryId": "USA",
+        "slug": "orlando",
+        "name": "Orlando",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/orlando.jpg",
+        "seoDescription": "Is Orlando safe for a family vacation? Explore safety tips for theme parks, the International Drive area, and general advice for Florida tourists.",
+        "touristAdvisory": "Orlando is one of the premier family tourist destinations in the world. The massive resort areas encompassing Walt Disney World, Universal Studios, and International Drive are exceptionally safe, featuring robust private security forces and strong local police presence. Inside these 'tourist bubbles,' the main threats are usually health-related: heat exhaustion, severe sunburn, and dehydration. You should also be prepared for intense afternoon thunderstorms accompanied by lightning during the summer months. While the resort areas are highly secure, visitors should exercise normal urban precautions if traveling into downtown Orlando late at night or exploring less tourist-focused areas of the broader Orange County.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    }
+]
