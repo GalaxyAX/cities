@@ -9,23 +9,6 @@
         "seoDescription": "Is New York City safe for tourists? Manhattan and popular attractions are highly secure, but visitors should remain vigilant against petty theft in crowded areas.",
         "touristAdvisory": "New York City is consistently ranked as one of the safest large cities in the US. The main tourist areas, including Times Square, Central Park, and most parts of Manhattan, are heavily patrolled and very secure. However, visitors should remain aware of their surroundings. Pickpocketing and petty theft can occur in crowded areas, popular tourist landmarks, and on the subway system. It is advisable to avoid desolate areas or unlit parks at night. Always use official yellow cabs, authorized transit, or reputable ride-sharing apps rather than unlicensed taxis. Pay attention to your belongings in restaurants and cafes.",
         "riskBreakdown": {
-            "crimeLevel": 45,
-            "healthEpidemic": 20,
-            "politicalStability": 15,
-            "naturalDisaster": 30
-        },
-        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
-    },
-    {
-        "id": "NYC",
-        "countryId": "USA",
-        "slug": "new-york",
-        "name": "New York City",
-        "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/new-york.jpg",
-        "seoDescription": "Is New York City safe for tourists? Manhattan and popular attractions are highly secure, but visitors should remain vigilant against petty theft in crowded areas.",
-        "touristAdvisory": "New York City is consistently ranked as one of the safest large cities in the US. The main tourist areas, including Times Square, Central Park, and most parts of Manhattan, are heavily patrolled and very secure. However, visitors should remain aware of their surroundings. Pickpocketing and petty theft can occur in crowded areas, popular tourist landmarks, and on the subway system. It is advisable to avoid desolate areas or unlit parks at night. Always use official yellow cabs, authorized transit, or reputable ride-sharing apps rather than unlicensed taxis. Pay attention to your belongings in restaurants and cafes.",
-        "riskBreakdown": {
             "crimeLevel": 75,
             "healthEpidemic": 85,
             "politicalStability": 85,
