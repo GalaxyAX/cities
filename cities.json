@@ -406,5 +406,107 @@
             "naturalDisaster": 80
         },
         "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
+    },
+    {
+        "id": "PAR",
+        "countryId": "FRA",
+        "slug": "paris",
+        "name": "Paris",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/paris.jpg",
+        "seoDescription": "Is Paris safe for tourists? Discover safety tips for navigating the Metro, avoiding common tourist scams near the Eiffel Tower, and dealing with protests.",
+        "touristAdvisory": "Paris is one of the most visited cities in the world, and while violent crime against tourists is rare, petty crime is a major issue. Pickpockets are highly active in crowded areas, especially around the Eiffel Tower, the Louvre, Montmartre, and on the Metro (particularly Line 1 and Line 4). Tourists should be hyper-aware of common scams, such as the 'petition signature' scam, the 'gold ring' trick, or aggressive bracelet vendors at Sacré-Cœur. France also has a strong culture of protests and strikes (grèves), which are usually heavily policed but can cause significant public transport disruptions and occasionally turn chaotic. Tourists should generally avoid the outer suburbs (banlieues) to the north and east late at night, and stay vigilant around major train stations like Gare du Nord after dark.",
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 85,
+            "politicalStability": 65,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
+    },
+    {
+        "id": "NCE",
+        "countryId": "FRA",
+        "slug": "nice",
+        "name": "Nice",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nice.jpg",
+        "seoDescription": "Traveling to Nice? Read our comprehensive safety guide covering the Promenade des Anglais, Old Town security, and Riviera weather hazards.",
+        "touristAdvisory": "Nice is the crown jewel of the French Riviera and is heavily surveilled with a vast network of CCTV cameras and a very visible police presence, making it quite safe for visitors. Popular areas like the Promenade des Anglais, Place Masséna, and Vieux Nice (Old Town) are safe to explore day and night. The most common crime affecting tourists is bag snatching or theft of belongings left unattended on the beaches. Visitors should also be prepared for aggressive local driving and use caution at pedestrian crossings. During the peak summer months, extreme heatwaves and the risk of wildfires in the surrounding Mediterranean hills are the primary natural hazards.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
+    },
+    {
+        "id": "LYS",
+        "countryId": "FRA",
+        "slug": "lyon",
+        "name": "Lyon",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/lyon.jpg",
+        "seoDescription": "Is Lyon safe for visitors? Learn about safety in France's gastronomic capital, from exploring Vieux Lyon to navigating public transport securely.",
+        "touristAdvisory": "Lyon, renowned as the gastronomic capital of France, is a very welcoming and generally safe city for travelers. The main historic and tourist districts, including Vieux Lyon, the Presqu'île, and Fourvière, are completely safe to walk around, even in the evening. Violent crime is rare, but standard city rules apply: watch out for pickpockets on the TCL public transport network (trams and metro) during rush hour. Late at night, tourists might want to exercise a bit more caution or avoid walking alone in the Guillotière neighborhood and the immediate surroundings of the Part-Dieu train station, which can attract loiterers and opportunistic thieves.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 90,
+            "politicalStability": 80,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
+    },
+    {
+        "id": "MRS",
+        "countryId": "FRA",
+        "slug": "marseille",
+        "name": "Marseille",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/marseille.jpg",
+        "seoDescription": "Marseille safety guide. Discover how to safely enjoy the Vieux-Port and Calanques while knowing which neighborhoods to avoid in this bustling port city.",
+        "touristAdvisory": "Marseille is a vibrant, culturally diverse, and historic Mediterranean port city, but it also carries a gritty reputation. Tourist hubs like the Vieux-Port (Old Port), Le Panier, and the stunning Calanques National Park are heavily policed and safe during the day. However, tourists should be highly vigilant regarding bag snatching, particularly by thieves on scooters. The city struggles with drug-related gang violence; while this rarely targets tourists, it is heavily concentrated in the Northern Districts (Quartiers Nord), which visitors should strictly avoid. Stay alert around the Saint-Charles train station, especially at night, and avoid flashing expensive jewelry or cameras in crowded markets.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 85,
+            "politicalStability": 70,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
+    },
+    {
+        "id": "BOD",
+        "countryId": "FRA",
+        "slug": "bordeaux",
+        "name": "Bordeaux",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/bordeaux.jpg",
+        "seoDescription": "Planning a wine trip to Bordeaux? Read our tourist safety guide for this wealthy, historic city, including tips on evening strolls and transport.",
+        "touristAdvisory": "Bordeaux is a highly affluent, clean, and extremely pedestrian-friendly city, consistently ranking as one of the safest major cities in France. The entire city center, recognized as a UNESCO World Heritage site, is safe to wander around at all hours. The magnificent quays along the Garonne River and areas like the Triangle d'Or are very secure. The main annoyances for tourists are the occasional bicycle theft and minor pickpocketing around the bustling Rue Sainte-Catherine. Late at night, the area immediately surrounding the Gare Saint-Jean train station and the nearby Place de la Victoire can get rowdy with late-night drinkers, so simple situational awareness is advised.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
+    },
+    {
+        "id": "SXB",
+        "countryId": "FRA",
+        "slug": "strasbourg",
+        "name": "Strasbourg",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/strasbourg.jpg",
+        "seoDescription": "Is Strasbourg safe for a city break? Find out how to safely enjoy the Alsace region and navigate the massive crowds during the Christmas Market.",
+        "touristAdvisory": "Strasbourg, the capital of the Alsace region and the official seat of the European Parliament, is a very peaceful and safe destination. The historic center, the Grande Île, is heavily pedestrianized and feels incredibly secure day and night. The city's safety profile changes slightly during December when millions visit its famous Christmas Market (Marché de Noël). While the event has massive counter-terrorism security (Operation Sentinelle) making violent crime nearly impossible, the dense, slow-moving crowds create a paradise for professional pickpockets. Keep wallets in front pockets and bags zipped. Additionally, winter temperatures can drop below freezing, so dressing warmly to prevent hypothermia during outdoor excursions is essential.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
     }
 ]
