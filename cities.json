@@ -107,7 +107,7 @@
         "slug": "toronto",
         "name": "Toronto",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/toronto.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/toronto.jpg",
         "seoDescription": "Is Toronto safe for tourists? Discover safety tips for Canada's largest city, including advice on public transit and areas to stay alert.",
         "touristAdvisory": "Toronto is widely considered one of the safest major cities in North America. Tourist areas such as the CN Tower, Ripley's Aquarium, the Distillery District, and the Eaton Centre are heavily foot-trafficked and very secure. Violent crime targeting tourists is exceedingly rare. However, visitors should exercise standard urban precautions regarding pickpocketing in crowded areas or on the TTC (public transit) during rush hour. While downtown is generally safe at night, it is best to avoid poorly lit areas or certain outer suburbs late at night. The main natural risk involves severe winter storms that can cause icy conditions and transit delays.",
         "riskBreakdown": {
@@ -124,7 +124,7 @@
         "slug": "vancouver",
         "name": "Vancouver",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/vancouver.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/vancouver.jpg",
         "seoDescription": "Traveling to Vancouver? Read our comprehensive safety guide covering property crime, safe neighborhoods, and navigating the Downtown Eastside.",
         "touristAdvisory": "Vancouver is incredibly scenic and generally safe for tourists, especially in areas like Stanley Park, Yaletown, and Gastown during the day. However, the city struggles significantly with property crime. Tourists must never leave any bags, electronics, or valuables visible in a parked car, as smash-and-grab thefts are highly common. Additionally, visitors should be aware of the Downtown Eastside (DTES) neighborhood (around East Hastings Street), which suffers from severe drug addiction, homelessness, and mental health crises. While violent crime against tourists here is relatively low, the area can be deeply distressing and unpredictable, so it is best avoided, especially at night. Natural risks include poor air quality during summer wildfire seasons and a moderate earthquake risk.",
         "riskBreakdown": {
@@ -141,7 +141,7 @@
         "slug": "montreal",
         "name": "Montreal",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/montreal.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/montreal.jpg",
         "seoDescription": "Is Montreal safe to visit? Learn about tourist safety in Old Montreal, advice for winter travel, and how to avoid petty theft during festivals.",
         "touristAdvisory": "Montreal is a vibrant, culturally rich city with a remarkably low violent crime rate, making it very safe for tourists. Exploring neighborhoods like Old Montreal (Vieux-Montréal), Le Plateau-Mont-Royal, and downtown is generally safe at all hours. The most common issues for tourists are opportunistic crimes like pickpocketing, particularly during the busy summer festival season (such as the Jazz Festival) or on the Metro. The primary hazard in Montreal is actually the weather. Winters are brutally cold with heavy snowfall, and icy sidewalks pose a significant risk of slipping and injury. Proper footwear and winter gear are essential if visiting between December and March.",
         "riskBreakdown": {
@@ -158,7 +158,7 @@
         "slug": "quebec-city",
         "name": "Quebec City",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/quebec-city.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/quebec-city.jpg",
         "seoDescription": "Quebec City safety guide for travelers. Find out why this historic walled city is considered one of the safest tourist destinations in North America.",
         "touristAdvisory": "Quebec City is exceptionally safe and consistently ranks as one of the most secure cities in Canada and North America. The historic Old Quebec (Vieux-Québec) area, where most tourists spend their time, is heavily pedestrianized, well-lit, and very safe to walk around, even late at night. Crime rates are incredibly low, with petty theft being the only minor concern in crowded areas. The most significant threat to visitors is the extreme winter weather. Temperatures can drop dangerously low, and the steep, cobblestone streets of the old city become extremely slippery and hazardous when covered in ice and snow.",
         "riskBreakdown": {
@@ -175,7 +175,7 @@
         "slug": "calgary",
         "name": "Calgary",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/calgary.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/calgary.jpg",
         "seoDescription": "Is Calgary safe for visitors? Discover essential safety tips, navigating the downtown core, and weather advisories for your trip to Alberta.",
         "touristAdvisory": "Calgary is a clean, welcoming, and very safe city for travelers. The downtown core, the Calgary Tower area, and neighborhoods surrounding the Bow River are highly secure during the day. During the annual Calgary Stampede in July, the city sees a massive influx of tourists; while the event is well-policed, tourists should watch for pickpockets and alcohol-related rowdiness. Late at night, some CTrain (light rail) stations and parts of the East Village can feel sketchy due to visible homelessness and substance abuse, so caution is advised. Calgary's weather can change incredibly fast due to 'Chinook' winds, and summer wildfire smoke from neighboring regions can occasionally degrade air quality.",
         "riskBreakdown": {
@@ -192,7 +192,7 @@
         "slug": "ottawa",
         "name": "Ottawa",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/ottawa.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/ottawa.jpg",
         "seoDescription": "Planning a trip to Ottawa? Read our tourist safety guide for Canada's capital, including advice on ByWard Market and winter travel.",
         "touristAdvisory": "As the capital city of Canada, Ottawa is heavily policed, well-maintained, and extremely safe for tourists. Areas around Parliament Hill, the Rideau Canal, and the major national museums are highly secure. The ByWard Market is a popular tourist destination for dining and shopping during the day; however, visitors should be aware that it can become rowdy late at night on weekends, and there is a visible homeless population in the immediate vicinity. Property crime is relatively low but not nonexistent, so lock your vehicles. Like much of eastern Canada, Ottawa experiences severe winters, making frostbite and icy driving conditions the most practical risks for winter visitors.",
         "riskBreakdown": {
@@ -209,7 +209,7 @@
         "slug": "cancun",
         "name": "Cancun",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cancun.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cancun.jpg",
         "seoDescription": "Is Cancun safe for tourists? Discover safety tips for the Hotel Zone, areas to avoid in downtown, and advice on hurricane season and beach safety.",
         "touristAdvisory": "Cancun is Mexico's top tourist destination, and the primary tourist area, known as the Hotel Zone (Zona Hotelera), is heavily guarded by tourism police and the National Guard, making it generally safe. However, visitors should exercise increased caution. While tourists are rarely the target, cartel-related violence can occasionally spill over into public spaces. Downtown Cancun (El Centro) has a higher crime rate and is best avoided late at night. Petty crime, such as pickpocketing and tourist scams, is common in crowded areas. Additionally, travelers should be cautious of strong rip currents at the beaches and monitor weather reports during hurricane season (June to November).",
         "riskBreakdown": {
@@ -226,7 +226,7 @@
         "slug": "mexico-city",
         "name": "Mexico City",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/mexico-city.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/mexico-city.jpg",
         "seoDescription": "Traveling to Mexico City? Read our comprehensive safety guide covering secure neighborhoods like Roma and Polanco, transport tips, and earthquake risks.",
         "touristAdvisory": "Mexico City (CDMX) is a massive, vibrant metropolis where safety depends heavily on the neighborhood. Tourist-friendly areas like Roma, Condesa, Polanco, Coyoacán, and the Paseo de la Reforma are well-policed and generally safe to explore during the day and early evening. However, tourists should remain highly vigilant against pickpocketing, especially on the Metro and in the crowded Centro Histórico. Certain neighborhoods, such as Tepito, Doctores, and Iztapalapa, experience high levels of violent crime and should be strictly avoided. Never hail a cab straight off the street; always use reputable ride-sharing apps like Uber. The city is also situated in an active seismic zone, making earthquakes a significant natural risk.",
         "riskBreakdown": {
@@ -243,7 +243,7 @@
         "slug": "cabo-san-lucas",
         "name": "Cabo San Lucas",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cabo-san-lucas.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cabo-san-lucas.jpg",
         "seoDescription": "Is Cabo San Lucas safe? Learn about resort security, dangerous ocean undertows to avoid, and general safety advice for the Baja California peninsula.",
         "touristAdvisory": "Located at the tip of the Baja California peninsula, Cabo San Lucas and the surrounding resort corridor are generally very safe for tourists. The local government and private resorts invest heavily in security to protect the lucrative tourism industry. Violent crime targeting tourists is rare, though visitors should take standard precautions against petty theft and avoid buying illegal drugs, which funds local criminal enterprises. One of the greatest risks in Cabo is actually the ocean: many beaches on the Pacific side have deadly undertows, rogue waves, and powerful rip currents, making them strictly off-limits for swimming. Pay close attention to beach warning flags.",
         "riskBreakdown": {
@@ -260,7 +260,7 @@
         "slug": "puerto-vallarta",
         "name": "Puerto Vallarta",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/puerto-vallarta.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/puerto-vallarta.jpg",
         "seoDescription": "Puerto Vallarta safety guide for travelers. Find out why this coastal city is a safe haven for tourists, LGBTQ+ travelers, and expats.",
         "touristAdvisory": "Puerto Vallarta is widely regarded as one of the safest and most welcoming coastal destinations in Mexico. It is particularly known for being very safe for expats, families, and LGBTQ+ travelers. Tourist hubs like the Zona Romántica, the Marina, and the Malecón (boardwalk) are heavily patrolled and safe to walk around, even after dark. While violent crime against tourists is extremely low, visitors should still guard against crimes of opportunity like bag snatching on the beach or pickpocketing in crowded bars. Do not leave drinks unattended. Like much of the Mexican coast, Puerto Vallarta is susceptible to tropical storms and hurricanes during the late summer and fall.",
         "riskBreakdown": {
@@ -277,7 +277,7 @@
         "slug": "playa-del-carmen",
         "name": "Playa del Carmen",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/playa-del-carmen.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/playa-del-carmen.jpg",
         "seoDescription": "Is Playa del Carmen safe to visit? Navigate the Riviera Maya safely with tips on Quinta Avenida, nightlife security, and avoiding scams.",
         "touristAdvisory": "Playa del Carmen is a booming destination in the Riviera Maya. The main tourist artery, Quinta Avenida (5th Avenue), is well-lit, heavily policed, and generally safe for strolling and dining. However, tourists should exercise increased situational awareness. Petty theft, ATM skimming, and aggressive vendor scams are relatively common. Furthermore, the city's active nightlife scene occasionally sees clashes between rival drug factions; tourists should strictly avoid purchasing illegal substances to stay out of harm's way. It is recommended to stick to the well-populated tourist zones, avoid walking on empty beaches at night, and use pre-arranged transportation instead of unverified street taxis.",
         "riskBreakdown": {
@@ -294,7 +294,7 @@
         "slug": "merida",
         "name": "Mérida",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/merida.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/merida.jpg",
         "seoDescription": "Traveling to Mérida, Mexico? Discover why the capital of the Yucatan is consistently ranked as the safest city in the country for tourists and expats.",
         "touristAdvisory": "Mérida, the capital of the Yucatan state, is consistently ranked not only as the safest city in Mexico but also as one of the safest cities in the entire Americas. Violent crime is virtually non-existent here, and it is entirely safe for tourists—including solo female travelers—to walk around the historic center both day and night. The local police force is highly effective and trustworthy. The primary risks for visitors to Mérida are environmental: the city experiences oppressive, extreme heat and high humidity for much of the year, which can easily lead to heatstroke or severe dehydration if you do not pace yourself and drink plenty of purified water.",
         "riskBreakdown": {
