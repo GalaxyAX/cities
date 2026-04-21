@@ -712,5 +712,107 @@
             "naturalDisaster": 60
         },
         "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
+    },
+    {
+        "id": "BCN",
+        "countryId": "ESP",
+        "slug": "barcelona",
+        "name": "Barcelona",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/barcelona.jpg",
+        "seoDescription": "Is Barcelona safe for tourists? Read our expert guide on avoiding highly skilled pickpockets on Las Ramblas, transport safety, and general travel tips.",
+        "touristAdvisory": "Barcelona is famous for its architecture and beaches, but it unfortunately holds a reputation as one of the pickpocketing capitals of Europe. Tourists must remain hyper-vigilant on Las Ramblas, in the Gothic Quarter (Barri Gòtic), around the Sagrada Familia, and especially on the Metro. Bag snatching and sophisticated distraction techniques are extremely common. Never leave phones or wallets on restaurant tables. While violent crime is relatively low, tourists should avoid the Raval neighborhood late at night due to occasional muggings and drug-related activities.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 85,
+            "politicalStability": 70,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "MAD",
+        "countryId": "ESP",
+        "slug": "madrid",
+        "name": "Madrid",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/madrid.jpg",
+        "seoDescription": "Traveling to Madrid? Discover how to navigate the Spanish capital securely, protect your belongings in crowded plazas, and enjoy the nightlife safely.",
+        "touristAdvisory": "Madrid is a welcoming and generally safe capital city. It boasts a lively atmosphere and world-renowned nightlife that keeps the streets populated and relatively secure late into the night. However, like any major European capital, petty crime is the primary concern. Pickpockets are highly active in crowded areas such as Puerta del Sol, Plaza Mayor, the El Rastro flea market, and on the Metro. Be cautious of common scams like the 'rosemary women' who demand money after handing you a sprig. Politically, Madrid frequently hosts large demonstrations; while usually peaceful, it is best to avoid them to prevent transport disruptions.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "SVQ",
+        "countryId": "ESP",
+        "slug": "seville",
+        "name": "Seville",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/seville.jpg",
+        "seoDescription": "Is Seville safe for visitors? Learn about safety in the heart of Andalusia, from exploring the Alcázar to surviving the extreme summer heatwaves.",
+        "touristAdvisory": "Seville is a beautiful, historic city and is very safe for tourists. The primary areas like the Cathedral, the Alcázar, and the Santa Cruz neighborhood are secure to walk around at all hours. Petty theft exists but is significantly less prevalent than in Barcelona or Madrid. The greatest risk to visitors in Seville is environmental: the city experiences some of the most extreme summer heat in Europe, with temperatures often exceeding 40°C (104°F) in July and August. Heatstroke and severe dehydration are major concerns, so tourists must stay hydrated, avoid the midday sun, and follow the local tradition of taking a siesta.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "VLC",
+        "countryId": "ESP",
+        "slug": "valencia",
+        "name": "Valencia",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/valencia.jpg",
+        "seoDescription": "Valencia safety guide for travelers. Discover how to stay safe exploring the City of Arts and Sciences, the historic center, and the beaches.",
+        "touristAdvisory": "Valencia is Spain’s third-largest city and is widely considered very safe and family-friendly. Tourist hotspots such as the City of Arts and Sciences, the historic Ciutat Vella, and the Malvarrosa beach are well-policed. Violent crime is rare. Tourists should exercise standard precautions against pickpockets, particularly during the massive Las Fallas festival in March, when the city is packed with millions of revelers and the chaotic, loud environment creates opportunities for petty thieves. The city is also prone to occasional heavy Mediterranean storms in the autumn (known as the Gota Fría), which can cause localized flooding.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "GRX",
+        "countryId": "ESP",
+        "slug": "granada",
+        "name": "Granada",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/granada.jpg",
+        "seoDescription": "Planning a trip to Granada? Read our tourist safety guide for navigating the steep streets of the Albaicín and visiting the Alhambra safely.",
+        "touristAdvisory": "Granada is a relatively small, highly walkable city famous for the Alhambra, and it is very safe for tourists. Violent crime is exceptionally low. The historic Albaicín neighborhood is a maze of narrow, steep, cobblestone streets; while it is safe during the day, it can feel isolated and poorly lit at night, so it is best to stick to main paths. Tourists should be aware of minor scams around the Cathedral or the Alhambra. The city can also get very hot in the summer and quite cold in the winter due to its high elevation and proximity to the Sierra Nevada mountains.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "PMI",
+        "countryId": "ESP",
+        "slug": "palma-de-mallorca",
+        "name": "Palma de Mallorca",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/palma-de-mallorca.jpg",
+        "seoDescription": "Is Palma de Mallorca safe? Learn about the main risks in this stunning Balearic destination, focusing on beach theft and nightlife zones.",
+        "touristAdvisory": "Palma, the capital of the Balearic Islands, is a very safe destination favored by millions of European tourists. The historic city center and the areas around the Cathedral are well-secured. The main risks involve opportunistic theft: never leave bags or valuables unattended on the beaches. Additionally, the island's famous nightlife hubs just outside the city center, such as Magaluf or El Arenal, attract huge numbers of young partygoers. These areas can become highly rowdy, and tourists there are frequently targeted by pickpockets and unauthorized street vendors. Sticking to the main cultural sights and quieter resorts ensures a very safe trip.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
     }
 ]
