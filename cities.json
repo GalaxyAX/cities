@@ -100,5 +100,107 @@
             "naturalDisaster": 40
         },
         "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "YYZ",
+        "countryId": "CAN",
+        "slug": "toronto",
+        "name": "Toronto",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/toronto.jpg",
+        "seoDescription": "Is Toronto safe for tourists? Discover safety tips for Canada's largest city, including advice on public transit and areas to stay alert.",
+        "touristAdvisory": "Toronto is widely considered one of the safest major cities in North America. Tourist areas such as the CN Tower, Ripley's Aquarium, the Distillery District, and the Eaton Centre are heavily foot-trafficked and very secure. Violent crime targeting tourists is exceedingly rare. However, visitors should exercise standard urban precautions regarding pickpocketing in crowded areas or on the TTC (public transit) during rush hour. While downtown is generally safe at night, it is best to avoid poorly lit areas or certain outer suburbs late at night. The main natural risk involves severe winter storms that can cause icy conditions and transit delays.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "YVR",
+        "countryId": "CAN",
+        "slug": "vancouver",
+        "name": "Vancouver",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/vancouver.jpg",
+        "seoDescription": "Traveling to Vancouver? Read our comprehensive safety guide covering property crime, safe neighborhoods, and navigating the Downtown Eastside.",
+        "touristAdvisory": "Vancouver is incredibly scenic and generally safe for tourists, especially in areas like Stanley Park, Yaletown, and Gastown during the day. However, the city struggles significantly with property crime. Tourists must never leave any bags, electronics, or valuables visible in a parked car, as smash-and-grab thefts are highly common. Additionally, visitors should be aware of the Downtown Eastside (DTES) neighborhood (around East Hastings Street), which suffers from severe drug addiction, homelessness, and mental health crises. While violent crime against tourists here is relatively low, the area can be deeply distressing and unpredictable, so it is best avoided, especially at night. Natural risks include poor air quality during summer wildfire seasons and a moderate earthquake risk.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "YUL",
+        "countryId": "CAN",
+        "slug": "montreal",
+        "name": "Montreal",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/montreal.jpg",
+        "seoDescription": "Is Montreal safe to visit? Learn about tourist safety in Old Montreal, advice for winter travel, and how to avoid petty theft during festivals.",
+        "touristAdvisory": "Montreal is a vibrant, culturally rich city with a remarkably low violent crime rate, making it very safe for tourists. Exploring neighborhoods like Old Montreal (Vieux-Montréal), Le Plateau-Mont-Royal, and downtown is generally safe at all hours. The most common issues for tourists are opportunistic crimes like pickpocketing, particularly during the busy summer festival season (such as the Jazz Festival) or on the Metro. The primary hazard in Montreal is actually the weather. Winters are brutally cold with heavy snowfall, and icy sidewalks pose a significant risk of slipping and injury. Proper footwear and winter gear are essential if visiting between December and March.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "YQB",
+        "countryId": "CAN",
+        "slug": "quebec-city",
+        "name": "Quebec City",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/quebec-city.jpg",
+        "seoDescription": "Quebec City safety guide for travelers. Find out why this historic walled city is considered one of the safest tourist destinations in North America.",
+        "touristAdvisory": "Quebec City is exceptionally safe and consistently ranks as one of the most secure cities in Canada and North America. The historic Old Quebec (Vieux-Québec) area, where most tourists spend their time, is heavily pedestrianized, well-lit, and very safe to walk around, even late at night. Crime rates are incredibly low, with petty theft being the only minor concern in crowded areas. The most significant threat to visitors is the extreme winter weather. Temperatures can drop dangerously low, and the steep, cobblestone streets of the old city become extremely slippery and hazardous when covered in ice and snow.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "YYC",
+        "countryId": "CAN",
+        "slug": "calgary",
+        "name": "Calgary",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/calgary.jpg",
+        "seoDescription": "Is Calgary safe for visitors? Discover essential safety tips, navigating the downtown core, and weather advisories for your trip to Alberta.",
+        "touristAdvisory": "Calgary is a clean, welcoming, and very safe city for travelers. The downtown core, the Calgary Tower area, and neighborhoods surrounding the Bow River are highly secure during the day. During the annual Calgary Stampede in July, the city sees a massive influx of tourists; while the event is well-policed, tourists should watch for pickpockets and alcohol-related rowdiness. Late at night, some CTrain (light rail) stations and parts of the East Village can feel sketchy due to visible homelessness and substance abuse, so caution is advised. Calgary's weather can change incredibly fast due to 'Chinook' winds, and summer wildfire smoke from neighboring regions can occasionally degrade air quality.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "YOW",
+        "countryId": "CAN",
+        "slug": "ottawa",
+        "name": "Ottawa",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/ottawa.jpg",
+        "seoDescription": "Planning a trip to Ottawa? Read our tourist safety guide for Canada's capital, including advice on ByWard Market and winter travel.",
+        "touristAdvisory": "As the capital city of Canada, Ottawa is heavily policed, well-maintained, and extremely safe for tourists. Areas around Parliament Hill, the Rideau Canal, and the major national museums are highly secure. The ByWard Market is a popular tourist destination for dining and shopping during the day; however, visitors should be aware that it can become rowdy late at night on weekends, and there is a visible homeless population in the immediate vicinity. Property crime is relatively low but not nonexistent, so lock your vehicles. Like much of eastern Canada, Ottawa experiences severe winters, making frostbite and icy driving conditions the most practical risks for winter visitors.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
     }
 ]
