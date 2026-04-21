@@ -304,5 +304,107 @@
             "naturalDisaster": 55
         },
         "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "LON",
+        "countryId": "GBR",
+        "slug": "london",
+        "name": "London",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/london.jpg",
+        "seoDescription": "Is London safe for tourists? Read our guide on navigating the city, avoiding moped phone snatchers, and staying secure on the Tube.",
+        "touristAdvisory": "London is a generally safe, heavily surveilled global metropolis, and major tourist areas like Westminster, the West End, and South Bank are heavily policed. However, travelers must be highly vigilant regarding a significant epidemic of phone snatching by thieves on mopeds and e-bikes, especially in busy areas like Oxford Street, Soho, and around major train stations. Never hold your phone loosely near the edge of the pavement. Pickpocketing is also common on the London Underground (the Tube) during rush hour. While violent crime rarely affects tourists, it is best to avoid walking through unlit parks or unfamiliar residential estates late at night. Always use iconic Black Cabs, licensed minicabs, or reputable ride-sharing apps.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
+    },
+    {
+        "id": "EDI",
+        "countryId": "GBR",
+        "slug": "edinburgh",
+        "name": "Edinburgh",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/edinburgh.jpg",
+        "seoDescription": "Planning a trip to Edinburgh? Discover safety tips for Scotland's capital, from navigating the Royal Mile to staying safe during the Fringe Festival.",
+        "touristAdvisory": "Edinburgh is widely considered one of the safest cities in the UK. The historic city center, including the Royal Mile, Princes Street, and Edinburgh Castle, is extremely secure and welcoming to tourists day and night. During August, when the city hosts the massive Edinburgh Festival Fringe, the population doubles; while violent crime remains rare, the tightly packed crowds create a prime environment for opportunistic pickpockets. The most common hazards in Edinburgh are physical: the combination of steep hills, ancient uneven cobblestones, and frequent rain or winter ice can easily lead to slips and twisted ankles. Proper, gripping footwear is highly recommended.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
+    },
+    {
+        "id": "MAN",
+        "countryId": "GBR",
+        "slug": "manchester",
+        "name": "Manchester",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/manchester.jpg",
+        "seoDescription": "Is Manchester safe for visitors? Learn about the best neighborhoods to explore, nightlife safety, and areas to avoid late at night.",
+        "touristAdvisory": "Manchester is a thriving cultural hub with a world-famous music and football scene. Tourist zones like Deansgate, Spinningfields, and the Northern Quarter are generally safe during the day and bustling with activity. However, visitors should exercise increased caution late at night. The city has a very energetic nightlife, which can sometimes lead to rowdy, alcohol-fueled anti-social behavior on the weekends. Piccadilly Gardens, a central transport hub, has a reputation for drug-related activity and visible homelessness, so it is best to stay alert and avoid lingering there late at night. Keep valuables secure to prevent opportunistic street theft.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
+    },
+    {
+        "id": "LPL",
+        "countryId": "GBR",
+        "slug": "liverpool",
+        "name": "Liverpool",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/liverpool.jpg",
+        "seoDescription": "Liverpool safety guide. Read our tips on enjoying the Royal Albert Dock, Beatles tourism, and navigating the city center securely.",
+        "touristAdvisory": "Liverpool is known for its incredibly friendly locals and strong sense of community, making it a very welcoming city for tourists. The primary tourist areas—such as the Royal Albert Dock, the Cavern Quarter (hub for Beatles fans), and Liverpool ONE—are very well-lit, heavily pedestrianized, and safe. As with any major UK city, the main concern for visitors is the bustling nightlife scene. Areas around Concert Square and Mathew Street get extremely busy on weekends; while generally safe and heavily policed, tourists should watch out for pickpockets and avoid getting caught up in alcohol-related scuffles. Standard urban awareness is sufficient for a safe trip.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
+    },
+    {
+        "id": "GLA",
+        "countryId": "GBR",
+        "slug": "glasgow",
+        "name": "Glasgow",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/glasgow.jpg",
+        "seoDescription": "Is Glasgow safe for a city break? Find out how to safely enjoy Scotland's largest city, including advice on football match days.",
+        "touristAdvisory": "Glasgow has undergone a massive transformation over the past couple of decades, evolving from a city with a rough reputation into a fantastic, culturally rich tourist destination. The City Centre (especially Buchanan Street) and the trendy West End are very safe and heavily frequented by tourists and students alike. However, parts of the city still experience higher crime rates than Edinburgh. Tourists should be mindful on days of major 'Old Firm' football matches (Celtic vs. Rangers), as sectarian tensions can occasionally flare up in certain pubs and streets. Avoid wearing football team colors to remain neutral, and take licensed taxis if moving between different neighborhoods late at night.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
+    },
+    {
+        "id": "BTH",
+        "countryId": "GBR",
+        "slug": "bath",
+        "name": "Bath",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/bath.jpg",
+        "seoDescription": "Traveling to Bath? Discover why this UNESCO World Heritage city is one of the safest and most picturesque tourist destinations in the UK.",
+        "touristAdvisory": "Bath is a UNESCO World Heritage site and consistently ranks as one of the safest cities in the United Kingdom. It is an affluent, peaceful city where violent crime is exceptionally rare, making it highly recommended for solo travelers, families, and older tourists. The streets around the Roman Baths, Bath Abbey, and the Royal Crescent are incredibly safe to walk at all hours. The most notable risks are minor: pickpockets can occasionally operate during the busy summer months or the famous Bath Christmas Market. Additionally, visitors should be cautious when crossing streets, as traffic can be tight on the narrow, ancient roads, and cobblestones can be slippery when wet.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "999", "medical": "999", "fire": "999" }
     }
 ]
