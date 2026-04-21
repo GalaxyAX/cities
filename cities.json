@@ -202,5 +202,107 @@
             "naturalDisaster": 75
         },
         "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "CUN",
+        "countryId": "MEX",
+        "slug": "cancun",
+        "name": "Cancun",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cancun.jpg",
+        "seoDescription": "Is Cancun safe for tourists? Discover safety tips for the Hotel Zone, areas to avoid in downtown, and advice on hurricane season and beach safety.",
+        "touristAdvisory": "Cancun is Mexico's top tourist destination, and the primary tourist area, known as the Hotel Zone (Zona Hotelera), is heavily guarded by tourism police and the National Guard, making it generally safe. However, visitors should exercise increased caution. While tourists are rarely the target, cartel-related violence can occasionally spill over into public spaces. Downtown Cancun (El Centro) has a higher crime rate and is best avoided late at night. Petty crime, such as pickpocketing and tourist scams, is common in crowded areas. Additionally, travelers should be cautious of strong rip currents at the beaches and monitor weather reports during hurricane season (June to November).",
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 75,
+            "politicalStability": 70,
+            "naturalDisaster": 30
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "MEX",
+        "countryId": "MEX",
+        "slug": "mexico-city",
+        "name": "Mexico City",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/mexico-city.jpg",
+        "seoDescription": "Traveling to Mexico City? Read our comprehensive safety guide covering secure neighborhoods like Roma and Polanco, transport tips, and earthquake risks.",
+        "touristAdvisory": "Mexico City (CDMX) is a massive, vibrant metropolis where safety depends heavily on the neighborhood. Tourist-friendly areas like Roma, Condesa, Polanco, Coyoacán, and the Paseo de la Reforma are well-policed and generally safe to explore during the day and early evening. However, tourists should remain highly vigilant against pickpocketing, especially on the Metro and in the crowded Centro Histórico. Certain neighborhoods, such as Tepito, Doctores, and Iztapalapa, experience high levels of violent crime and should be strictly avoided. Never hail a cab straight off the street; always use reputable ride-sharing apps like Uber. The city is also situated in an active seismic zone, making earthquakes a significant natural risk.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 80,
+            "politicalStability": 65,
+            "naturalDisaster": 35
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "SJD",
+        "countryId": "MEX",
+        "slug": "cabo-san-lucas",
+        "name": "Cabo San Lucas",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cabo-san-lucas.jpg",
+        "seoDescription": "Is Cabo San Lucas safe? Learn about resort security, dangerous ocean undertows to avoid, and general safety advice for the Baja California peninsula.",
+        "touristAdvisory": "Located at the tip of the Baja California peninsula, Cabo San Lucas and the surrounding resort corridor are generally very safe for tourists. The local government and private resorts invest heavily in security to protect the lucrative tourism industry. Violent crime targeting tourists is rare, though visitors should take standard precautions against petty theft and avoid buying illegal drugs, which funds local criminal enterprises. One of the greatest risks in Cabo is actually the ocean: many beaches on the Pacific side have deadly undertows, rogue waves, and powerful rip currents, making them strictly off-limits for swimming. Pay close attention to beach warning flags.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 80,
+            "politicalStability": 75,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "PVR",
+        "countryId": "MEX",
+        "slug": "puerto-vallarta",
+        "name": "Puerto Vallarta",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/puerto-vallarta.jpg",
+        "seoDescription": "Puerto Vallarta safety guide for travelers. Find out why this coastal city is a safe haven for tourists, LGBTQ+ travelers, and expats.",
+        "touristAdvisory": "Puerto Vallarta is widely regarded as one of the safest and most welcoming coastal destinations in Mexico. It is particularly known for being very safe for expats, families, and LGBTQ+ travelers. Tourist hubs like the Zona Romántica, the Marina, and the Malecón (boardwalk) are heavily patrolled and safe to walk around, even after dark. While violent crime against tourists is extremely low, visitors should still guard against crimes of opportunity like bag snatching on the beach or pickpocketing in crowded bars. Do not leave drinks unattended. Like much of the Mexican coast, Puerto Vallarta is susceptible to tropical storms and hurricanes during the late summer and fall.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 50
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "PDC",
+        "countryId": "MEX",
+        "slug": "playa-del-carmen",
+        "name": "Playa del Carmen",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/playa-del-carmen.jpg",
+        "seoDescription": "Is Playa del Carmen safe to visit? Navigate the Riviera Maya safely with tips on Quinta Avenida, nightlife security, and avoiding scams.",
+        "touristAdvisory": "Playa del Carmen is a booming destination in the Riviera Maya. The main tourist artery, Quinta Avenida (5th Avenue), is well-lit, heavily policed, and generally safe for strolling and dining. However, tourists should exercise increased situational awareness. Petty theft, ATM skimming, and aggressive vendor scams are relatively common. Furthermore, the city's active nightlife scene occasionally sees clashes between rival drug factions; tourists should strictly avoid purchasing illegal substances to stay out of harm's way. It is recommended to stick to the well-populated tourist zones, avoid walking on empty beaches at night, and use pre-arranged transportation instead of unverified street taxis.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 75,
+            "politicalStability": 70,
+            "naturalDisaster": 30
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
+    },
+    {
+        "id": "MID",
+        "countryId": "MEX",
+        "slug": "merida",
+        "name": "Mérida",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/merida.jpg",
+        "seoDescription": "Traveling to Mérida, Mexico? Discover why the capital of the Yucatan is consistently ranked as the safest city in the country for tourists and expats.",
+        "touristAdvisory": "Mérida, the capital of the Yucatan state, is consistently ranked not only as the safest city in Mexico but also as one of the safest cities in the entire Americas. Violent crime is virtually non-existent here, and it is entirely safe for tourists—including solo female travelers—to walk around the historic center both day and night. The local police force is highly effective and trustworthy. The primary risks for visitors to Mérida are environmental: the city experiences oppressive, extreme heat and high humidity for much of the year, which can easily lead to heatstroke or severe dehydration if you do not pace yourself and drink plenty of purified water.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 85,
+            "politicalStability": 90,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "911", "medical": "911", "fire": "911" }
     }
 ]
