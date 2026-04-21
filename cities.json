@@ -508,5 +508,209 @@
             "naturalDisaster": 80
         },
         "emergencyNumbers": { "police": "17", "medical": "15", "fire": "18" }
+    },
+    {
+        "id": "BER",
+        "countryId": "DEU",
+        "slug": "berlin",
+        "name": "Berlin",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/berlin.jpg",
+        "seoDescription": "Is Berlin safe for tourists? Discover safety tips for Germany's capital, from navigating the U-Bahn to areas to avoid at night.",
+        "touristAdvisory": "Berlin is a sprawling, alternative, and culturally rich capital. While violent crime against tourists is quite low, petty crime such as pickpocketing is prevalent around major transport hubs, on the U-Bahn (subway), and at crowded landmarks like the Brandenburg Gate and Alexanderplatz. Tourists should exercise increased caution at night in areas like Görlitzer Park, Kottbusser Tor, and parts of Neukölln, which are known for open drug dealing and occasional nightlife-related altercations. Berlin also has a strong culture of frequent political protests; while usually peaceful and heavily policed, it is best to avoid the immediate vicinity of large demonstrations to prevent getting caught in any unrest.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "110", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "MUC",
+        "countryId": "DEU",
+        "slug": "munich",
+        "name": "Munich",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/munich.jpg",
+        "seoDescription": "Traveling to Munich? Read our comprehensive safety guide covering the historic Marienplatz, Oktoberfest security, and general Bavarian travel tips.",
+        "touristAdvisory": "Munich is widely regarded as one of the safest major cities in Germany and Europe. The Bavarian capital is heavily policed, very clean, and extremely secure for tourists walking around the Altstadt (Old Town), Marienplatz, and the English Garden, even late at night. The safety dynamic shifts slightly during the world-famous Oktoberfest in late September; while security is exceptionally tight, the massive crowds and heavy alcohol consumption inevitably lead to a spike in pickpocketing, lost belongings, and drunken scuffles. Tourists should keep an eye on their valuables and avoid engaging with heavily intoxicated individuals. Natural risks are low, though the region can experience severe summer thunderstorms.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "110", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "FRA",
+        "countryId": "DEU",
+        "slug": "frankfurt",
+        "name": "Frankfurt",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/frankfurt.jpg",
+        "seoDescription": "Is Frankfurt safe for visitors? Learn about safety in Germany's financial hub, including navigating the controversial Bahnhofsviertel area.",
+        "touristAdvisory": "Frankfurt is a major financial hub and the main transit gateway for international travelers entering Germany. Most of the city, including the restored Römerberg (Old Town), the museum district, and the shopping street Zeil, is very safe. However, tourists often experience culture shock near the Frankfurt Hauptbahnhof (Central Station) and the adjacent Bahnhofsviertel neighborhood. This area is the center of the city's red-light district and suffers from a highly visible, severe open drug use scene and significant homelessness. While the presence of police is heavy and tourists are rarely targeted for violent crime, the area can be deeply uncomfortable and intimidating to walk through, especially at night.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "110", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "HAM",
+        "countryId": "DEU",
+        "slug": "hamburg",
+        "name": "Hamburg",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hamburg.jpg",
+        "seoDescription": "Hamburg safety guide for travelers. Discover how to safely enjoy the Reeperbahn nightlife, the Speicherstadt, and avoid petty theft.",
+        "touristAdvisory": "Hamburg, Germany's second-largest city and a massive port hub, is generally very safe for visitors. Areas like the historic Speicherstadt, Hafencity, and the city center around the Alster lakes are highly secure day and night. The primary area requiring caution is the Reeperbahn in the St. Pauli district, which serves as both the city's famous nightlife center and its red-light district. While it is safe and heavily visited by tourists, the mix of alcohol, large crowds, and late-night partying makes it a hotspot for pickpockets, aggressive panhandling, and tourist scams. Additionally, visitors should be prepared for Hamburg's notorious weather, which often includes sudden, heavy rain and strong coastal winds.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "110", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "CGN",
+        "countryId": "DEU",
+        "slug": "cologne",
+        "name": "Cologne",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cologne.jpg",
+        "seoDescription": "Planning a trip to Cologne? Read our tourist safety guide for navigating the Dom area, protecting valuables during Carnival, and enjoying the city safely.",
+        "touristAdvisory": "Cologne (Köln) is a friendly, relaxed city situated on the Rhine River, famous for its magnificent Cathedral (Kölner Dom). The area immediately surrounding the Cathedral and the central train station is heavily trafficked by tourists and is generally safe, though it is the prime spot for pickpockets and minor scams, so keep bags zipped and secure. The safety dynamic changes significantly during the Cologne Carnival in February; the city is flooded with millions of costumed revelers. During this time, the massive, chaotic crowds require tourists to be hyper-vigilant of their belongings and prepared for rowdy, heavily intoxicated behavior in the streets and public transit.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "110", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "DRS",
+        "countryId": "DEU",
+        "slug": "dresden",
+        "name": "Dresden",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/dresden.jpg",
+        "seoDescription": "Is Dresden safe for a city break? Find out how to safely explore the 'Florence on the Elbe', from the historic Altstadt to the vibrant Neustadt.",
+        "touristAdvisory": "Dresden, often called the 'Florence on the Elbe', is a spectacularly rebuilt historic city that is very safe for tourists. The Altstadt (Old Town), home to the Frauenkirche and Zwinger Palace, is exceedingly calm, well-lit, and secure at all hours. Across the river, the Äußere Neustadt is the city's alternative and nightlife district; while perfectly safe to explore, standard urban precautions apply late at night regarding pickpockets or alcohol-fueled rowdiness. The city occasionally hosts political rallies, particularly on Monday evenings in the city center, organized by right-wing groups. While violence is rare, these demonstrations are heavily policed and tourists are advised to avoid the immediate area to prevent any inconvenience.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 75,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "110", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "FCO",
+        "countryId": "ITA",
+        "slug": "rome",
+        "name": "Rome",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/rome.jpg",
+        "seoDescription": "Is Rome safe for tourists? Read our expert guide on avoiding the highly skilled pickpockets and common scams at the Colosseum, Vatican, and Trevi Fountain.",
+        "touristAdvisory": "Rome is an unforgettable destination, but visitors must remain on high alert for petty crime. The city is notorious for having some of the most skilled pickpocketing teams in the world, who operate in extremely crowded tourist locations like the Colosseum, Roman Forum, Trevi Fountain, and Vatican City. They are particularly active on crowded public transport, especially Bus Route 64 to the Vatican and on the Metro at Termini Station. Common scams include people aggressively offering you 'free' items like bracelets or rosemary and then demanding payment. While violent crime is very rare, the sheer volume of petty theft requires constant vigilance. Keep valuables in a money belt, not in pockets or backpacks.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 85,
+            "politicalStability": 70,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
+    },
+    {
+        "id": "VCE",
+        "countryId": "ITA",
+        "slug": "venice",
+        "name": "Venice",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/venice.jpg",
+        "seoDescription": "Traveling to Venice? Discover how to navigate the maze-like city safely, protect your belongings from pickpockets, and what to do during 'acqua alta' flooding.",
+        "touristAdvisory": "Venice is an exceptionally safe city with virtually no violent crime. The primary risk to tourists is pickpocketing in the incredibly dense crowds found at key chokepoints like St. Mark's Square (Piazza San Marco), the Rialto Bridge, and narrow alleyways leading to major sights. The city's unique layout also presents a challenge; it is very easy to get lost in the labyrinth of canals and streets, so having a reliable map or GPS is essential. A key natural risk is the 'acqua alta' (high water), which can cause significant flooding in lower-lying areas of the city, especially from October to January. Pay attention to local alerts and use the raised wooden walkways (passerelle) provided during these events.",
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
+    },
+    {
+        "id": "FLR",
+        "countryId": "ITA",
+        "slug": "florence",
+        "name": "Florence",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/florence.jpg",
+        "seoDescription": "Is Florence safe for visitors? Learn about safety in the heart of Tuscany, from avoiding theft at the Uffizi Gallery to navigating crowded markets.",
+        "touristAdvisory": "Florence is a very safe and walkable city, and the jewel of the Renaissance. Like Rome and Venice, the main issue facing tourists is petty theft. Be highly aware of your belongings in crowded places such as the area around the Duomo, the Ponte Vecchio, inside the Uffizi Gallery, and at the San Lorenzo Market. Bag snatching and pickpocketing are the most common crimes. Drivers should be aware of the ZTL (Zona a Traffico Limitato); driving into these limited traffic zones in the historic center without a permit will result in a very expensive fine, a common and unwelcome surprise for many tourists.",
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 90,
+            "politicalStability": 80,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
+    },
+    {
+        "id": "MXP",
+        "countryId": "ITA",
+        "slug": "milan",
+        "name": "Milan",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/milan.jpg",
+        "seoDescription": "Milan safety guide for travelers. Discover how to stay safe in Italy's fashion capital, from Duomo Square to Milano Centrale station.",
+        "touristAdvisory": "Milan, Italy's hub for fashion and finance, is a modern and generally safe city. Tourists should exercise heightened caution against pickpockets around the main attractions, particularly in the Piazza del Duomo, the Galleria Vittorio Emanuele II, and especially in and around Milano Centrale (the central train station). The station is known for having organized groups of thieves who target distracted travelers. Be wary of anyone offering to 'help' you with the ticket machines or your luggage, as this is a common precursor to theft. Otherwise, the city is very secure, with a visible police presence in key commercial and tourist areas.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 90,
+            "politicalStability": 75,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
+    },
+    {
+        "id": "NAP",
+        "countryId": "ITA",
+        "slug": "naples",
+        "name": "Naples",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/naples.jpg",
+        "seoDescription": "Is Naples safe to visit? Uncover the truth about this vibrant city's reputation, learn which areas to avoid, and how to protect against street crime.",
+        "touristAdvisory": "Naples is an intense, chaotic, and incredibly historic city with a reputation for crime that is partly deserved. While the main historic center is generally safe for savvy travelers, the risk of petty crime is higher and more aggressive here than in other Italian cities. Scooter-based bag snatching ('scippo') and robbery are a known issue. Do not wear flashy jewelry or expensive watches. The area around the central station (Piazza Garibaldi) requires high alert. It is wise to avoid walking through the narrow Quartieri Spagnoli (Spanish Quarters) alone at night. The most significant natural risk is the city's proximity to Mount Vesuvius, an active volcano, and the Phlegraean Fields, a volcanic caldera.",
+        "riskBreak-down": {
+            "crimeLevel": 40,
+            "healthEpidemic": 80,
+            "politicalStability": 70,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
+    },
+    {
+        "id": "POS",
+        "countryId": "ITA",
+        "slug": "amalfi-coast",
+        "name": "Amalfi Coast",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/amalfi-coast.jpg",
+        "seoDescription": "Is the Amalfi Coast safe? Learn about the main risks in this stunning region, focusing on driving safety on narrow cliffside roads and crowded conditions.",
+        "touristAdvisory": "The Amalfi Coast is one of the most beautiful and safest destinations in Italy in terms of crime, which is very low. The primary dangers here are not criminal but physical and logistical. The main coastal road (SS163) is an extremely narrow, winding, cliff-edge road that becomes incredibly congested with cars and large tour buses, making driving exceptionally stressful and hazardous for the inexperienced. Pedestrians must also be careful as sidewalks can be narrow or non-existent. In peak season (July-August), extreme overcrowding in towns like Positano and Amalfi can be overwhelming. Other risks include sunstroke from the intense summer heat and being aware of sea conditions if boating or swimming.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "112", "medical": "118", "fire": "115" }
     }
 ]
