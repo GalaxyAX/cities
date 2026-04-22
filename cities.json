@@ -413,7 +413,7 @@
         "slug": "paris",
         "name": "Paris",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/paris.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/paris.jpg",
         "seoDescription": "Is Paris safe for tourists? Discover safety tips for navigating the Metro, avoiding common tourist scams near the Eiffel Tower, and dealing with protests.",
         "touristAdvisory": "Paris is one of the most visited cities in the world, and while violent crime against tourists is rare, petty crime is a major issue. Pickpockets are highly active in crowded areas, especially around the Eiffel Tower, the Louvre, Montmartre, and on the Metro (particularly Line 1 and Line 4). Tourists should be hyper-aware of common scams, such as the 'petition signature' scam, the 'gold ring' trick, or aggressive bracelet vendors at Sacré-Cœur. France also has a strong culture of protests and strikes (grèves), which are usually heavily policed but can cause significant public transport disruptions and occasionally turn chaotic. Tourists should generally avoid the outer suburbs (banlieues) to the north and east late at night, and stay vigilant around major train stations like Gare du Nord after dark.",
         "riskBreakdown": {
@@ -430,7 +430,7 @@
         "slug": "nice",
         "name": "Nice",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/nice.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/nice.jpg",
         "seoDescription": "Traveling to Nice? Read our comprehensive safety guide covering the Promenade des Anglais, Old Town security, and Riviera weather hazards.",
         "touristAdvisory": "Nice is the crown jewel of the French Riviera and is heavily surveilled with a vast network of CCTV cameras and a very visible police presence, making it quite safe for visitors. Popular areas like the Promenade des Anglais, Place Masséna, and Vieux Nice (Old Town) are safe to explore day and night. The most common crime affecting tourists is bag snatching or theft of belongings left unattended on the beaches. Visitors should also be prepared for aggressive local driving and use caution at pedestrian crossings. During the peak summer months, extreme heatwaves and the risk of wildfires in the surrounding Mediterranean hills are the primary natural hazards.",
         "riskBreakdown": {
@@ -447,7 +447,7 @@
         "slug": "lyon",
         "name": "Lyon",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/lyon.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/lyon.jpg",
         "seoDescription": "Is Lyon safe for visitors? Learn about safety in France's gastronomic capital, from exploring Vieux Lyon to navigating public transport securely.",
         "touristAdvisory": "Lyon, renowned as the gastronomic capital of France, is a very welcoming and generally safe city for travelers. The main historic and tourist districts, including Vieux Lyon, the Presqu'île, and Fourvière, are completely safe to walk around, even in the evening. Violent crime is rare, but standard city rules apply: watch out for pickpockets on the TCL public transport network (trams and metro) during rush hour. Late at night, tourists might want to exercise a bit more caution or avoid walking alone in the Guillotière neighborhood and the immediate surroundings of the Part-Dieu train station, which can attract loiterers and opportunistic thieves.",
         "riskBreakdown": {
@@ -464,7 +464,7 @@
         "slug": "marseille",
         "name": "Marseille",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/marseille.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/marseille.jpg",
         "seoDescription": "Marseille safety guide. Discover how to safely enjoy the Vieux-Port and Calanques while knowing which neighborhoods to avoid in this bustling port city.",
         "touristAdvisory": "Marseille is a vibrant, culturally diverse, and historic Mediterranean port city, but it also carries a gritty reputation. Tourist hubs like the Vieux-Port (Old Port), Le Panier, and the stunning Calanques National Park are heavily policed and safe during the day. However, tourists should be highly vigilant regarding bag snatching, particularly by thieves on scooters. The city struggles with drug-related gang violence; while this rarely targets tourists, it is heavily concentrated in the Northern Districts (Quartiers Nord), which visitors should strictly avoid. Stay alert around the Saint-Charles train station, especially at night, and avoid flashing expensive jewelry or cameras in crowded markets.",
         "riskBreakdown": {
@@ -481,7 +481,7 @@
         "slug": "bordeaux",
         "name": "Bordeaux",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/bordeaux.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/bordeaux.jpg",
         "seoDescription": "Planning a wine trip to Bordeaux? Read our tourist safety guide for this wealthy, historic city, including tips on evening strolls and transport.",
         "touristAdvisory": "Bordeaux is a highly affluent, clean, and extremely pedestrian-friendly city, consistently ranking as one of the safest major cities in France. The entire city center, recognized as a UNESCO World Heritage site, is safe to wander around at all hours. The magnificent quays along the Garonne River and areas like the Triangle d'Or are very secure. The main annoyances for tourists are the occasional bicycle theft and minor pickpocketing around the bustling Rue Sainte-Catherine. Late at night, the area immediately surrounding the Gare Saint-Jean train station and the nearby Place de la Victoire can get rowdy with late-night drinkers, so simple situational awareness is advised.",
         "riskBreakdown": {
@@ -498,7 +498,7 @@
         "slug": "strasbourg",
         "name": "Strasbourg",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/strasbourg.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/strasbourg.jpg",
         "seoDescription": "Is Strasbourg safe for a city break? Find out how to safely enjoy the Alsace region and navigate the massive crowds during the Christmas Market.",
         "touristAdvisory": "Strasbourg, the capital of the Alsace region and the official seat of the European Parliament, is a very peaceful and safe destination. The historic center, the Grande Île, is heavily pedestrianized and feels incredibly secure day and night. The city's safety profile changes slightly during December when millions visit its famous Christmas Market (Marché de Noël). While the event has massive counter-terrorism security (Operation Sentinelle) making violent crime nearly impossible, the dense, slow-moving crowds create a paradise for professional pickpockets. Keep wallets in front pockets and bags zipped. Additionally, winter temperatures can drop below freezing, so dressing warmly to prevent hypothermia during outdoor excursions is essential.",
         "riskBreakdown": {
@@ -515,7 +515,7 @@
         "slug": "berlin",
         "name": "Berlin",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/berlin.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/berlin.jpg",
         "seoDescription": "Is Berlin safe for tourists? Discover safety tips for Germany's capital, from navigating the U-Bahn to areas to avoid at night.",
         "touristAdvisory": "Berlin is a sprawling, alternative, and culturally rich capital. While violent crime against tourists is quite low, petty crime such as pickpocketing is prevalent around major transport hubs, on the U-Bahn (subway), and at crowded landmarks like the Brandenburg Gate and Alexanderplatz. Tourists should exercise increased caution at night in areas like Görlitzer Park, Kottbusser Tor, and parts of Neukölln, which are known for open drug dealing and occasional nightlife-related altercations. Berlin also has a strong culture of frequent political protests; while usually peaceful and heavily policed, it is best to avoid the immediate vicinity of large demonstrations to prevent getting caught in any unrest.",
         "riskBreakdown": {
@@ -532,7 +532,7 @@
         "slug": "munich",
         "name": "Munich",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/munich.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/munich.jpg",
         "seoDescription": "Traveling to Munich? Read our comprehensive safety guide covering the historic Marienplatz, Oktoberfest security, and general Bavarian travel tips.",
         "touristAdvisory": "Munich is widely regarded as one of the safest major cities in Germany and Europe. The Bavarian capital is heavily policed, very clean, and extremely secure for tourists walking around the Altstadt (Old Town), Marienplatz, and the English Garden, even late at night. The safety dynamic shifts slightly during the world-famous Oktoberfest in late September; while security is exceptionally tight, the massive crowds and heavy alcohol consumption inevitably lead to a spike in pickpocketing, lost belongings, and drunken scuffles. Tourists should keep an eye on their valuables and avoid engaging with heavily intoxicated individuals. Natural risks are low, though the region can experience severe summer thunderstorms.",
         "riskBreakdown": {
@@ -549,7 +549,7 @@
         "slug": "frankfurt",
         "name": "Frankfurt",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/frankfurt.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/frankfurt.jpg",
         "seoDescription": "Is Frankfurt safe for visitors? Learn about safety in Germany's financial hub, including navigating the controversial Bahnhofsviertel area.",
         "touristAdvisory": "Frankfurt is a major financial hub and the main transit gateway for international travelers entering Germany. Most of the city, including the restored Römerberg (Old Town), the museum district, and the shopping street Zeil, is very safe. However, tourists often experience culture shock near the Frankfurt Hauptbahnhof (Central Station) and the adjacent Bahnhofsviertel neighborhood. This area is the center of the city's red-light district and suffers from a highly visible, severe open drug use scene and significant homelessness. While the presence of police is heavy and tourists are rarely targeted for violent crime, the area can be deeply uncomfortable and intimidating to walk through, especially at night.",
         "riskBreakdown": {
@@ -566,7 +566,7 @@
         "slug": "hamburg",
         "name": "Hamburg",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hamburg.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/hamburg.jpg",
         "seoDescription": "Hamburg safety guide for travelers. Discover how to safely enjoy the Reeperbahn nightlife, the Speicherstadt, and avoid petty theft.",
         "touristAdvisory": "Hamburg, Germany's second-largest city and a massive port hub, is generally very safe for visitors. Areas like the historic Speicherstadt, Hafencity, and the city center around the Alster lakes are highly secure day and night. The primary area requiring caution is the Reeperbahn in the St. Pauli district, which serves as both the city's famous nightlife center and its red-light district. While it is safe and heavily visited by tourists, the mix of alcohol, large crowds, and late-night partying makes it a hotspot for pickpockets, aggressive panhandling, and tourist scams. Additionally, visitors should be prepared for Hamburg's notorious weather, which often includes sudden, heavy rain and strong coastal winds.",
         "riskBreakdown": {
@@ -583,7 +583,7 @@
         "slug": "cologne",
         "name": "Cologne",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/cologne.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cologne.jpg",
         "seoDescription": "Planning a trip to Cologne? Read our tourist safety guide for navigating the Dom area, protecting valuables during Carnival, and enjoying the city safely.",
         "touristAdvisory": "Cologne (Köln) is a friendly, relaxed city situated on the Rhine River, famous for its magnificent Cathedral (Kölner Dom). The area immediately surrounding the Cathedral and the central train station is heavily trafficked by tourists and is generally safe, though it is the prime spot for pickpockets and minor scams, so keep bags zipped and secure. The safety dynamic changes significantly during the Cologne Carnival in February; the city is flooded with millions of costumed revelers. During this time, the massive, chaotic crowds require tourists to be hyper-vigilant of their belongings and prepared for rowdy, heavily intoxicated behavior in the streets and public transit.",
         "riskBreakdown": {
@@ -600,7 +600,7 @@
         "slug": "dresden",
         "name": "Dresden",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/dresden.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/dresden.jpg",
         "seoDescription": "Is Dresden safe for a city break? Find out how to safely explore the 'Florence on the Elbe', from the historic Altstadt to the vibrant Neustadt.",
         "touristAdvisory": "Dresden, often called the 'Florence on the Elbe', is a spectacularly rebuilt historic city that is very safe for tourists. The Altstadt (Old Town), home to the Frauenkirche and Zwinger Palace, is exceedingly calm, well-lit, and secure at all hours. Across the river, the Äußere Neustadt is the city's alternative and nightlife district; while perfectly safe to explore, standard urban precautions apply late at night regarding pickpockets or alcohol-fueled rowdiness. The city occasionally hosts political rallies, particularly on Monday evenings in the city center, organized by right-wing groups. While violence is rare, these demonstrations are heavily policed and tourists are advised to avoid the immediate area to prevent any inconvenience.",
         "riskBreakdown": {
@@ -617,7 +617,7 @@
         "slug": "rome",
         "name": "Rome",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/rome.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/rome.jpg",
         "seoDescription": "Is Rome safe for tourists? Read our expert guide on avoiding the highly skilled pickpockets and common scams at the Colosseum, Vatican, and Trevi Fountain.",
         "touristAdvisory": "Rome is an unforgettable destination, but visitors must remain on high alert for petty crime. The city is notorious for having some of the most skilled pickpocketing teams in the world, who operate in extremely crowded tourist locations like the Colosseum, Roman Forum, Trevi Fountain, and Vatican City. They are particularly active on crowded public transport, especially Bus Route 64 to the Vatican and on the Metro at Termini Station. Common scams include people aggressively offering you 'free' items like bracelets or rosemary and then demanding payment. While violent crime is very rare, the sheer volume of petty theft requires constant vigilance. Keep valuables in a money belt, not in pockets or backpacks.",
         "riskBreakdown": {
@@ -634,7 +634,7 @@
         "slug": "venice",
         "name": "Venice",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/venice.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/venice.jpg",
         "seoDescription": "Traveling to Venice? Discover how to navigate the maze-like city safely, protect your belongings from pickpockets, and what to do during 'acqua alta' flooding.",
         "touristAdvisory": "Venice is an exceptionally safe city with virtually no violent crime. The primary risk to tourists is pickpocketing in the incredibly dense crowds found at key chokepoints like St. Mark's Square (Piazza San Marco), the Rialto Bridge, and narrow alleyways leading to major sights. The city's unique layout also presents a challenge; it is very easy to get lost in the labyrinth of canals and streets, so having a reliable map or GPS is essential. A key natural risk is the 'acqua alta' (high water), which can cause significant flooding in lower-lying areas of the city, especially from October to January. Pay attention to local alerts and use the raised wooden walkways (passerelle) provided during these events.",
         "riskBreakdown": {
@@ -651,7 +651,7 @@
         "slug": "florence",
         "name": "Florence",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/florence.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/florence.jpg",
         "seoDescription": "Is Florence safe for visitors? Learn about safety in the heart of Tuscany, from avoiding theft at the Uffizi Gallery to navigating crowded markets.",
         "touristAdvisory": "Florence is a very safe and walkable city, and the jewel of the Renaissance. Like Rome and Venice, the main issue facing tourists is petty theft. Be highly aware of your belongings in crowded places such as the area around the Duomo, the Ponte Vecchio, inside the Uffizi Gallery, and at the San Lorenzo Market. Bag snatching and pickpocketing are the most common crimes. Drivers should be aware of the ZTL (Zona a Traffico Limitato); driving into these limited traffic zones in the historic center without a permit will result in a very expensive fine, a common and unwelcome surprise for many tourists.",
         "riskBreakdown": {
@@ -668,7 +668,7 @@
         "slug": "milan",
         "name": "Milan",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/milan.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/milan.jpg",
         "seoDescription": "Milan safety guide for travelers. Discover how to stay safe in Italy's fashion capital, from Duomo Square to Milano Centrale station.",
         "touristAdvisory": "Milan, Italy's hub for fashion and finance, is a modern and generally safe city. Tourists should exercise heightened caution against pickpockets around the main attractions, particularly in the Piazza del Duomo, the Galleria Vittorio Emanuele II, and especially in and around Milano Centrale (the central train station). The station is known for having organized groups of thieves who target distracted travelers. Be wary of anyone offering to 'help' you with the ticket machines or your luggage, as this is a common precursor to theft. Otherwise, the city is very secure, with a visible police presence in key commercial and tourist areas.",
         "riskBreakdown": {
@@ -685,7 +685,7 @@
         "slug": "naples",
         "name": "Naples",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/naples.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/naples.jpg",
         "seoDescription": "Is Naples safe to visit? Uncover the truth about this vibrant city's reputation, learn which areas to avoid, and how to protect against street crime.",
         "touristAdvisory": "Naples is an intense, chaotic, and incredibly historic city with a reputation for crime that is partly deserved. While the main historic center is generally safe for savvy travelers, the risk of petty crime is higher and more aggressive here than in other Italian cities. Scooter-based bag snatching ('scippo') and robbery are a known issue. Do not wear flashy jewelry or expensive watches. The area around the central station (Piazza Garibaldi) requires high alert. It is wise to avoid walking through the narrow Quartieri Spagnoli (Spanish Quarters) alone at night. The most significant natural risk is the city's proximity to Mount Vesuvius, an active volcano, and the Phlegraean Fields, a volcanic caldera.",
         "riskBreak-down": {
@@ -702,7 +702,7 @@
         "slug": "amalfi-coast",
         "name": "Amalfi Coast",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/amalfi-coast.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/amalfi-coast.jpg",
         "seoDescription": "Is the Amalfi Coast safe? Learn about the main risks in this stunning region, focusing on driving safety on narrow cliffside roads and crowded conditions.",
         "touristAdvisory": "The Amalfi Coast is one of the most beautiful and safest destinations in Italy in terms of crime, which is very low. The primary dangers here are not criminal but physical and logistical. The main coastal road (SS163) is an extremely narrow, winding, cliff-edge road that becomes incredibly congested with cars and large tour buses, making driving exceptionally stressful and hazardous for the inexperienced. Pedestrians must also be careful as sidewalks can be narrow or non-existent. In peak season (July-August), extreme overcrowding in towns like Positano and Amalfi can be overwhelming. Other risks include sunstroke from the intense summer heat and being aware of sea conditions if boating or swimming.",
         "riskBreakdown": {
@@ -719,7 +719,7 @@
         "slug": "barcelona",
         "name": "Barcelona",
         "safetyStatus": "caution",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/barcelona.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/barcelona.jpg",
         "seoDescription": "Is Barcelona safe for tourists? Read our expert guide on avoiding highly skilled pickpockets on Las Ramblas, transport safety, and general travel tips.",
         "touristAdvisory": "Barcelona is famous for its architecture and beaches, but it unfortunately holds a reputation as one of the pickpocketing capitals of Europe. Tourists must remain hyper-vigilant on Las Ramblas, in the Gothic Quarter (Barri Gòtic), around the Sagrada Familia, and especially on the Metro. Bag snatching and sophisticated distraction techniques are extremely common. Never leave phones or wallets on restaurant tables. While violent crime is relatively low, tourists should avoid the Raval neighborhood late at night due to occasional muggings and drug-related activities.",
         "riskBreakdown": {
@@ -736,7 +736,7 @@
         "slug": "madrid",
         "name": "Madrid",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/madrid.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/madrid.jpg",
         "seoDescription": "Traveling to Madrid? Discover how to navigate the Spanish capital securely, protect your belongings in crowded plazas, and enjoy the nightlife safely.",
         "touristAdvisory": "Madrid is a welcoming and generally safe capital city. It boasts a lively atmosphere and world-renowned nightlife that keeps the streets populated and relatively secure late into the night. However, like any major European capital, petty crime is the primary concern. Pickpockets are highly active in crowded areas such as Puerta del Sol, Plaza Mayor, the El Rastro flea market, and on the Metro. Be cautious of common scams like the 'rosemary women' who demand money after handing you a sprig. Politically, Madrid frequently hosts large demonstrations; while usually peaceful, it is best to avoid them to prevent transport disruptions.",
         "riskBreakdown": {
@@ -753,7 +753,7 @@
         "slug": "seville",
         "name": "Seville",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/seville.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/seville.jpg",
         "seoDescription": "Is Seville safe for visitors? Learn about safety in the heart of Andalusia, from exploring the Alcázar to surviving the extreme summer heatwaves.",
         "touristAdvisory": "Seville is a beautiful, historic city and is very safe for tourists. The primary areas like the Cathedral, the Alcázar, and the Santa Cruz neighborhood are secure to walk around at all hours. Petty theft exists but is significantly less prevalent than in Barcelona or Madrid. The greatest risk to visitors in Seville is environmental: the city experiences some of the most extreme summer heat in Europe, with temperatures often exceeding 40°C (104°F) in July and August. Heatstroke and severe dehydration are major concerns, so tourists must stay hydrated, avoid the midday sun, and follow the local tradition of taking a siesta.",
         "riskBreakdown": {
@@ -770,7 +770,7 @@
         "slug": "valencia",
         "name": "Valencia",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/valencia.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/valencia.jpg",
         "seoDescription": "Valencia safety guide for travelers. Discover how to stay safe exploring the City of Arts and Sciences, the historic center, and the beaches.",
         "touristAdvisory": "Valencia is Spain’s third-largest city and is widely considered very safe and family-friendly. Tourist hotspots such as the City of Arts and Sciences, the historic Ciutat Vella, and the Malvarrosa beach are well-policed. Violent crime is rare. Tourists should exercise standard precautions against pickpockets, particularly during the massive Las Fallas festival in March, when the city is packed with millions of revelers and the chaotic, loud environment creates opportunities for petty thieves. The city is also prone to occasional heavy Mediterranean storms in the autumn (known as the Gota Fría), which can cause localized flooding.",
         "riskBreakdown": {
@@ -787,7 +787,7 @@
         "slug": "granada",
         "name": "Granada",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/granada.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/granada.jpg",
         "seoDescription": "Planning a trip to Granada? Read our tourist safety guide for navigating the steep streets of the Albaicín and visiting the Alhambra safely.",
         "touristAdvisory": "Granada is a relatively small, highly walkable city famous for the Alhambra, and it is very safe for tourists. Violent crime is exceptionally low. The historic Albaicín neighborhood is a maze of narrow, steep, cobblestone streets; while it is safe during the day, it can feel isolated and poorly lit at night, so it is best to stick to main paths. Tourists should be aware of minor scams around the Cathedral or the Alhambra. The city can also get very hot in the summer and quite cold in the winter due to its high elevation and proximity to the Sierra Nevada mountains.",
         "riskBreakdown": {
@@ -804,7 +804,7 @@
         "slug": "palma-de-mallorca",
         "name": "Palma de Mallorca",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/palma-de-mallorca.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/palma-de-mallorca.jpg",
         "seoDescription": "Is Palma de Mallorca safe? Learn about the main risks in this stunning Balearic destination, focusing on beach theft and nightlife zones.",
         "touristAdvisory": "Palma, the capital of the Balearic Islands, is a very safe destination favored by millions of European tourists. The historic city center and the areas around the Cathedral are well-secured. The main risks involve opportunistic theft: never leave bags or valuables unattended on the beaches. Additionally, the island's famous nightlife hubs just outside the city center, such as Magaluf or El Arenal, attract huge numbers of young partygoers. These areas can become highly rowdy, and tourists there are frequently targeted by pickpockets and unauthorized street vendors. Sticking to the main cultural sights and quieter resorts ensures a very safe trip.",
         "riskBreakdown": {
@@ -821,7 +821,7 @@
         "slug": "tokyo",
         "name": "Tokyo",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tokyo.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/tokyo.jpg",
         "seoDescription": "Is Tokyo safe for tourists? Learn about safety in Japan's bustling capital, from navigating the massive train system to avoiding touts in Kabukicho.",
         "touristAdvisory": "Tokyo is consistently ranked as one of the safest major cities in the world. Violent crime is exceptionally rare, and tourists can generally walk anywhere, even late at night, with minimal risk. The main crime-related concern is aggressive touts (barkers) in nightlife districts like Kabukicho (Shinjuku) and Roppongi; never follow them into bars or clubs, as drink-spiking and exorbitant credit card extortion scams do occur. Japan is highly prone to natural disasters, so tourists should familiarize themselves with earthquake protocols and download a disaster alert app like 'Yurekuru Call'. Typhoons can also cause severe public transport disruptions between August and October.",
         "riskBreakdown": {
@@ -838,7 +838,7 @@
         "slug": "kyoto",
         "name": "Kyoto",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/kyoto.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/kyoto.jpg",
         "seoDescription": "Traveling to Kyoto? Discover safety tips for navigating crowded temples, interacting respectfully with locals, and dealing with extreme summer heat.",
         "touristAdvisory": "Kyoto is an incredibly safe and peaceful city, deeply rooted in tradition. Crime is almost non-existent for tourists. The primary challenges in Kyoto are related to overtourism and local etiquette. Visitors are urged to respect local customs, particularly in the Gion district, where harassing or photographing geisha and maiko on private streets without permission is strictly prohibited and can result in fines. The city is located in a geographical basin, making its summers notoriously hot, intensely humid, and stagnant; heatstroke is a genuine risk, so pacing yourself, resting in the shade, and staying hydrated is essential.",
         "riskBreakdown": {
@@ -855,7 +855,7 @@
         "slug": "osaka",
         "name": "Osaka",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/osaka.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/osaka.jpg",
         "seoDescription": "Is Osaka safe to visit? Read our guide on exploring the vibrant Dotonbori district, enjoying street food safely, and knowing which areas to navigate with care.",
         "touristAdvisory": "Osaka is known for its outgoing locals and fantastic street food culture. It is a very safe city, though it has a slightly grittier, more energetic vibe compared to Tokyo. Areas like Dotonbori and Namba are bustling and secure, but tourists should watch out for minor pickpocketing in dense crowds. Visitors should generally avoid the Kamagasaki (Airin-chiku) neighborhood in the Nishinari ward, particularly at night. While not inherently dangerous or violent, it is a socio-economically deprived area with a visible day-laborer and homeless population, which contrasts sharply with the pristine image of the rest of Japan. Like all of Japan, earthquake readiness is highly recommended.",
         "riskBreakdown": {
@@ -872,7 +872,7 @@
         "slug": "sapporo",
         "name": "Sapporo",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/sapporo.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/sapporo.jpg",
         "seoDescription": "Sapporo safety guide for travelers. Find out how to safely enjoy the Hokkaido winter, the Snow Festival, and navigate notoriously icy streets.",
         "touristAdvisory": "Sapporo, the capital of the northern island of Hokkaido, is an exceptionally safe and welcoming city. The Susukino entertainment district is lively and generally very secure, though standard nightlife precautions apply regarding touts. The most significant hazard for tourists in Sapporo is the extreme winter weather. The city receives massive amounts of snowfall, and the streets, sidewalks, and crosswalks become incredibly slippery and frozen solid. Specialized winter footwear with strong traction (or attachable ice cleats) is an absolute necessity to prevent serious falls, broken bones, and head injuries. If driving in Hokkaido, be highly prepared for treacherous icy roads and zero-visibility blizzards.",
         "riskBreakdown": {
@@ -889,7 +889,7 @@
         "slug": "hiroshima",
         "name": "Hiroshima",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hiroshima.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/hiroshima.jpg",
         "seoDescription": "Planning a trip to Hiroshima? Discover why this historic city is a peaceful and highly secure destination for international tourists.",
         "touristAdvisory": "Hiroshima is a modern, peaceful, and profoundly moving city that is incredibly safe for visitors. The areas around the Peace Memorial Park, the downtown Hondori shopping arcades, and the ferry to Miyajima Island are highly secure at all hours. Crime rates are exceptionally low, making it perfect for solo travelers. The primary concerns for travelers are environmental. In the summer, the heat and humidity can be oppressive. Additionally, Hiroshima is occasionally affected by heavy monsoon rains and typhoons in the late summer and early autumn, which can lead to localized flooding or landslides in the surrounding mountainous areas. Always monitor local weather advisories.",
         "riskBreakdown": {
@@ -906,7 +906,7 @@
         "slug": "okinawa",
         "name": "Okinawa",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/okinawa.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/okinawa.jpg",
         "seoDescription": "Is Okinawa safe? Learn about the main risks in Japan's tropical paradise, focusing on marine hazards, sun safety, and the intense typhoon season.",
         "touristAdvisory": "Naha and the broader Okinawa prefecture represent a safe, tropical paradise favored by tourists for their beautiful beaches. Crime is very low, making it ideal for families. The main dangers here are environmental. The sun is incredibly strong, making severe sunburn and heat exhaustion common if unprotected. When swimming, snorkeling, or diving, be highly cautious of strong ocean currents and hazardous marine life, such as the highly venomous box jellyfish (Habu-kurage), especially from June to October; always swim in netted beach areas. Furthermore, Okinawa is situated directly in 'Typhoon Alley' and experiences severe, sometimes highly destructive typhoons during the late summer, which can easily ground flights for several days.",
         "riskBreakdown": {
@@ -923,7 +923,7 @@
         "slug": "seoul",
         "name": "Seoul",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/seoul.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/seoul.jpg",
         "seoDescription": "Is Seoul safe for tourists? Discover safety tips for navigating the bustling South Korean capital, managing crowd density, and dealing with air quality issues.",
         "touristAdvisory": "Seoul is an incredibly safe, 24-hour city protected by a massive and ubiquitous CCTV network. Violent crime and petty theft are both extremely low; it is common to see people leave laptops unattended in cafes. Tourists can walk almost anywhere safely at night. The main concerns are non-criminal. High crowd density in popular nightlife areas like Hongdae and Itaewon requires situational awareness to avoid dangerous crushes. During the spring, Seoul often experiences severe 'yellow dust' (fine particulate matter) blowing in from the Gobi Desert, which can pose health risks for those with respiratory issues; wearing a KF94 mask is highly recommended on poor air quality days. While the geopolitical situation with North Korea makes international headlines, locals generally go about their lives normally, and it poses no day-to-day threat to tourists.",
         "riskBreakdown": {
@@ -940,7 +940,7 @@
         "slug": "busan",
         "name": "Busan",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/busan.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/busan.jpg",
         "seoDescription": "Traveling to Busan? Read our comprehensive safety guide covering Haeundae beach safety, traffic conditions, and typhoon risks in South Korea's second city.",
         "touristAdvisory": "Busan, a vibrant coastal city, is exceptionally welcoming and safe for visitors. Areas like Haeundae Beach, Gwangalli, and the Seomyeon district are heavily frequented by tourists and very secure day and night. Pickpocketing is incredibly rare. The primary hazards for tourists are environmental. Between August and October, Busan is highly susceptible to powerful typhoons that bring destructive winds and severe flooding; travelers must closely monitor weather alerts during this season. Additionally, traffic in Busan is famously more aggressive and chaotic compared to Seoul. Pedestrians should exercise extra caution at crosswalks, as drivers and delivery scooters often run red lights or drive on sidewalks.",
         "riskBreakdown": {
@@ -957,7 +957,7 @@
         "slug": "jeju",
         "name": "Jeju Island",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/jeju.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/jeju.jpg",
         "seoDescription": "Is Jeju Island safe to visit? Learn about tourist safety in Korea's top honeymoon destination, focusing on hiking hazards, rental car safety, and severe weather.",
         "touristAdvisory": "Jeju Island is South Korea's premier holiday destination and is renowned for being incredibly peaceful and safe, with a virtually zero crime rate affecting tourists. The island's challenges are primarily geographical and weather-related. Many tourists rent cars to explore the island; however, the coastal and mountain roads (particularly around Mount Hallasan) can become highly dangerous due to sudden, dense fog or heavy winter snowfall. Furthermore, Jeju lies directly in the path of summer and autumn typhoons, which frequently cause flight cancellations and hazardous conditions. If hiking Hallasan or exploring the rocky coastlines, stay on marked trails to avoid slips and falls on the volcanic rock.",
         "riskBreakdown": {
@@ -974,7 +974,7 @@
         "slug": "incheon",
         "name": "Incheon",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/incheon.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/incheon.jpg",
         "seoDescription": "Incheon safety guide for travelers. Discover how to safely explore the futuristic Songdo district, the historic Chinatown, and navigate this major transit hub.",
         "touristAdvisory": "Most international visitors arrive in South Korea via Incheon. The city itself, encompassing the high-tech Songdo 'Smart City' and the historic Chinatown, is very safe, heavily surveilled, and foreigner-friendly. Violent crime is extremely rare. Because Incheon is a massive industrial port city, tourists should be mindful of heavy commercial truck traffic when walking or driving in certain districts outside the main tourist zones. Like Seoul, Incheon suffers from poor air quality and fine dust pollution in the spring, so visitors with asthma or allergies should check daily air quality indexes and wear appropriate masks.",
         "riskBreakdown": {
@@ -991,7 +991,7 @@
         "slug": "gyeongju",
         "name": "Gyeongju",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/gyeongju.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/gyeongju.jpg",
         "seoDescription": "Planning a trip to Gyeongju? Read our tourist safety guide for South Korea's 'museum without walls', covering rural travel tips and earthquake awareness.",
         "touristAdvisory": "Gyeongju, the ancient capital of the Silla Kingdom, is often referred to as a 'museum without walls'. It is a tranquil, highly historic city that is remarkably safe for tourists of all kinds. Walking among the ancient burial mounds (tumuli) and temples is secure at any time of day. Because it is a smaller, more rural city compared to Seoul or Busan, public transportation becomes sparse late at night, and some outer temple areas can be very poorly lit, so it is advisable to plan return trips carefully or rely on local taxis. Uniquely for South Korea, the Gyeongju region has a slightly elevated risk of seismic activity, having experienced minor earthquakes in recent years, though major damage is rare.",
         "riskBreakdown": {
@@ -1008,7 +1008,7 @@
         "slug": "daegu",
         "name": "Daegu",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/daegu.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/daegu.jpg",
         "seoDescription": "Is Daegu safe for a city break? Find out how to safely enjoy this vibrant inland city, focusing on surviving 'Daefrica' summer heatwaves.",
         "touristAdvisory": "Daegu is South Korea's fourth-largest city and is very safe, featuring a lively downtown area (Dongseongro) that is heavily policed and secure for shoppers and tourists. Crime is not a significant concern here. The most famous hazard in Daegu is its climate. Situated in a geographical basin, the city traps heat and humidity, earning it the local nickname 'Daefrica' (Daegu + Africa) during the summer months. Temperatures regularly soar above 35°C (95°F) with oppressive humidity from June to August. Tourists visiting during the summer are at a high risk of heat exhaustion and must take precautions such as carrying portable fans, drinking plenty of water, and utilizing the city's air-conditioned underground shopping malls during peak afternoon heat.",
         "riskBreakdown": {
@@ -1025,7 +1025,7 @@
         "slug": "beijing",
         "name": "Beijing",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/beijing.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/beijing.jpg",
         "seoDescription": "Is Beijing safe for tourists? Discover safety tips for navigating China's capital, avoiding the infamous tea scam, and preparing for air quality issues.",
         "touristAdvisory": "Beijing is heavily guarded and boasts a massive security apparatus, making violent crime virtually non-existent for tourists. Areas around Tiananmen Square, the Forbidden City, and major shopping districts like Wangfujing are exceptionally secure. The primary threat to tourists is financial: be extremely wary of the notorious 'tea house scam' or 'art student scam,' where friendly locals invite you to practice English over tea, resulting in an extortionate bill. To navigate the city safely and easily, foreign tourists must download a reliable VPN before arriving to access international internet (Google, WhatsApp), and set up digital payment apps (Alipay or WeChat Pay), as cash is rarely accepted. Air pollution (smog) can occasionally be severe, particularly in winter, so packing high-quality masks is recommended.",
         "riskBreakdown": {
@@ -1042,7 +1042,7 @@
         "slug": "shanghai",
         "name": "Shanghai",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/shanghai.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/shanghai.jpg",
         "seoDescription": "Traveling to Shanghai? Read our comprehensive safety guide covering The Bund, navigating the massive subway system, and surviving typhoon season.",
         "touristAdvisory": "Shanghai is China's most cosmopolitan and modern city, and it is incredibly safe for international travelers. Walking at night along The Bund, in the French Concession, or down Nanjing Road is highly secure. Because of the sheer volume of people, minor pickpocketing can occur on the crowded Metro system during rush hour, but it has drastically decreased in recent years due to ubiquitous surveillance and the shift to a cashless society. Expats and tourists are occasionally targeted by overcharging scams in certain bars or massage parlors, so stick to reputable venues. Environmentally, Shanghai is located on the coast and is susceptible to heavy rains and typhoons between July and September.",
         "riskBreakdown": {
@@ -1059,7 +1059,7 @@
         "slug": "xi-an",
         "name": "Xi'an",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/xi-an.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/xi-an.jpg",
         "seoDescription": "Is Xi'an safe to visit? Learn about tourist safety in the ancient capital, focusing on crowd crush risks at the Terracotta Army and navigating traffic.",
         "touristAdvisory": "Xi'an, the ancient capital and home to the Terracotta Army, is a very welcoming and safe city for tourists. The historic city center, enclosed by the ancient City Wall, is heavily policed and secure. The bustling Muslim Quarter is a must-visit for street food, but the incredibly dense crowds require tourists to be mindful of their belongings to prevent opportunistic pickpocketing. Traffic in Xi'an can be notably more aggressive and chaotic than in Beijing or Shanghai; pedestrians must be highly vigilant when crossing streets, as e-bikes and scooters often drive silently on sidewalks or run red lights. Summers here are blisteringly hot, so carrying water and seeking shade is essential.",
         "riskBreakdown": {
@@ -1076,7 +1076,7 @@
         "slug": "chengdu",
         "name": "Chengdu",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/chengdu.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/chengdu.jpg",
         "seoDescription": "Chengdu safety guide for travelers. Discover how to safely enjoy the panda reserves, handle spicy Sichuan cuisine, and earthquake awareness.",
         "touristAdvisory": "Chengdu is renowned for its laid-back lifestyle, teahouse culture, and the Giant Panda Breeding Research Base. It is exceptionally safe, with locals known for being very friendly and accommodating to foreigners. Violent crime is extremely rare. The most immediate 'threat' to visitors in Chengdu is dietary: authentic Sichuan cuisine is heavily laden with chili oil and numbing Sichuan peppercorns. Travelers unaccustomed to this level of spice should pace themselves to avoid severe gastrointestinal distress. On a natural hazard level, the broader Sichuan province is located on active fault lines and is prone to major earthquakes. While modern buildings in Chengdu are constructed to withstand them, it is wise to be aware of earthquake protocols.",
         "riskBreakdown": {
@@ -1093,7 +1093,7 @@
         "slug": "guangzhou",
         "name": "Guangzhou",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/guangzhou.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/guangzhou.jpg",
         "seoDescription": "Planning a trip to Guangzhou? Read our tourist safety guide for navigating this massive southern trading hub and managing extreme subtropical weather.",
         "touristAdvisory": "Guangzhou is a massive commercial and trading metropolis in southern China. While it once had a reputation for petty crime around the main railway stations, intense security upgrades and the transition to mobile payments have made the city very safe for tourists and business travelers alike. The modern Tianhe District and the historic Shamian Island are particularly secure and pleasant. The main risks in Guangzhou are climatic. The city experiences a long, intensely hot, and highly humid subtropical summer from May to October, accompanied by a high risk of torrential downpours and typhoons. Staying hydrated and spending the hottest hours of the day in air-conditioned environments is crucial.",
         "riskBreakdown": {
@@ -1110,7 +1110,7 @@
         "slug": "hangzhou",
         "name": "Hangzhou",
         "safetyStatus": "safe",
-        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hangzhou.jpg",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/hangzhou.jpg",
         "seoDescription": "Is Hangzhou safe for a city break? Find out how to safely explore West Lake, avoid national holiday crowd crushes, and enjoy China's high-tech hub.",
         "touristAdvisory": "Hangzhou, known for the picturesque West Lake and as the headquarters of tech giant Alibaba, is one of China's wealthiest, cleanest, and safest cities. It is extremely secure for tourists, with a highly developed infrastructure and extensive police presence. The primary issue tourists will face in Hangzhou is domestic overtourism. During Chinese national holidays (such as Golden Week in October or the May Day holiday), the areas surrounding West Lake become overwhelmingly crowded, posing a risk of getting lost or caught in uncomfortable crowd crushes. It is highly recommended to visit Hangzhou during off-peak times. Be prepared to use mobile payment apps, as physical cash is increasingly difficult to use here.",
         "riskBreakdown": {
@@ -1120,5 +1120,413 @@
             "naturalDisaster": 75
         },
         "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
+    },
+    {
+        "id": "DEL",
+        "countryId": "IND",
+        "slug": "new-delhi",
+        "name": "New Delhi",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/new-delhi.jpg",
+        "seoDescription": "Is New Delhi safe for tourists? Read our guide on avoiding aggressive touts, managing extreme winter air pollution, and important advice for female travelers.",
+        "touristAdvisory": "New Delhi is a massive, chaotic, and deeply historic capital. Tourists must be highly vigilant regarding scams; the 'fake tourist office' and 'hotel is closed' taxi scams are ubiquitous around the airport and New Delhi Railway Station. Female travelers should dress conservatively (covering shoulders and knees) to avoid unwanted attention and should strictly avoid walking alone or taking unverified transport late at night; use apps like Uber or Ola instead. Health is a major concern: never drink tap water, avoid raw street food to prevent severe gastrointestinal illness, and be aware that between November and February, Delhi suffers from some of the most hazardous, extreme air pollution (smog) in the world, requiring N95 masks.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 30,
+            "politicalStability": 65,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "BOM",
+        "countryId": "IND",
+        "slug": "mumbai",
+        "name": "Mumbai",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/mumbai.jpg",
+        "seoDescription": "Traveling to Mumbai? Discover safety tips for India's financial capital, navigating the crowded local trains, and dealing with the intense monsoon season.",
+        "touristAdvisory": "Mumbai is India's financial and entertainment powerhouse. It is generally considered safer and more progressive for female travelers than northern Indian cities, and locals are often very helpful. The main tourist areas in South Mumbai (Colaba, Fort) are heavily policed. The biggest physical risk in Mumbai is the local train network; the trains are dangerously overcrowded during rush hour, and tourists should avoid them at peak times to prevent injury or aggressive pickpocketing. If you plan to take a slum tour (like Dharavi), ensure it is through a highly reputable NGO or tour group. Environmentally, Mumbai experiences a brutal monsoon season from June to September, which frequently causes severe, paralyzing urban flooding.",
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 40,
+            "politicalStability": 70,
+            "naturalDisaster": 35
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "AGR",
+        "countryId": "IND",
+        "slug": "agra",
+        "name": "Agra",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/agra.jpg",
+        "seoDescription": "Agra safety guide for travelers. Find out how to safely visit the Taj Mahal, avoid aggressive unauthorized guides, and protect yourself from common scams.",
+        "touristAdvisory": "Agra is home to the Taj Mahal and attracts millions of visitors, making it a hotspot for incredibly aggressive touts, unauthorized 'guides,' and persistent hawkers. Do not accept tours from people approaching you on the street or outside monuments; only hire government-approved guides. A very common scam involves rickshaw drivers taking you to overpriced marble or gem shops where you are pressured to buy fake goods. Violent crime against tourists is rare, but pickpocketing is common in the dense crowds around the Taj Mahal gates. Summer temperatures in Agra (April to June) regularly exceed 45°C (113°F), posing a severe risk of heatstroke.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 35,
+            "politicalStability": 65,
+            "naturalDisaster": 45
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "JAI",
+        "countryId": "IND",
+        "slug": "jaipur",
+        "name": "Jaipur",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/jaipur.jpg",
+        "seoDescription": "Is Jaipur safe to visit? Learn about tourist safety in the Pink City, focusing on infamous gemstone export scams and navigating the chaotic traffic.",
+        "touristAdvisory": "Jaipur, the famous 'Pink City' of Rajasthan, is a vibrant and essential stop for tourists, but it requires sharp wits. The city is internationally notorious for the 'gemstone scam,' where tourists are befriended, invited to dinner, and convinced to help 'export' fake jewelry for a promised profit—do not fall for it. Traffic in the old city is intensely chaotic, with a mix of cars, rickshaws, camels, and pedestrians; crossing the street requires extreme caution. Like the rest of Rajasthan, Jaipur has a harsh desert climate. Visitors must stay strictly hydrated and avoid wandering alone at night outside the main well-lit tourist hubs.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 40,
+            "politicalStability": 70,
+            "naturalDisaster": 45
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "VNS",
+        "countryId": "IND",
+        "slug": "varanasi",
+        "name": "Varanasi",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/varanasi.jpg",
+        "seoDescription": "Planning a trip to Varanasi? Read our tourist safety guide for navigating the spiritual capital, avoiding cremation scams, and vital hygiene advice.",
+        "touristAdvisory": "Varanasi is the spiritual heart of India and offers a profoundly intense cultural experience. The ancient city consists of a labyrinth of narrow alleys (galis) that are shared with motorcycles, aggressive monkeys, and wandering bulls—situational awareness is key to avoid getting trampled or bitten. At the burning ghats (cremation sites), respect is paramount; taking photos is strictly forbidden and highly offensive. Beware of the 'holy man' or 'wood donation' scams, where tourists are aggressively pressured into paying exorbitant amounts for cremation wood. Health and hygiene standards are very challenging here; under no circumstances should you ingest water from the Ganges River, and strictly rely on sealed bottled water for drinking and brushing teeth.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 25,
+            "politicalStability": 65,
+            "naturalDisaster": 50
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "GOI",
+        "countryId": "IND",
+        "slug": "goa",
+        "name": "Goa",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/goa.jpg",
+        "seoDescription": "Is Goa safe for a beach holiday? Find out how to safely enjoy India's party state, avoid drug-related scams, and stay safe in the ocean.",
+        "touristAdvisory": "Goa is India's most popular beach and nightlife destination, possessing a much more relaxed and liberal atmosphere than the rest of the country. While it is generally safe, tourists should be cautious of the thriving nightlife scene in North Goa (like Baga and Anjuna), which attracts opportunistic thieves, drug dealers, and occasional police extortion scams targeting tourists seeking illegal substances. Never leave drinks unattended at beach shacks or trance parties. Renting a scooter is popular, but roads are narrow, poorly lit, and accident rates are high; always wear a helmet and do not drink and drive. Ocean currents can be deceptively strong, with dangerous rip tides, so only swim at beaches patrolled by lifeguards.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 45,
+            "politicalStability": 75,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "BKK",
+        "countryId": "THA",
+        "slug": "bangkok",
+        "name": "Bangkok",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/bangkok.jpg",
+        "seoDescription": "Is Bangkok safe for tourists? Learn about the infamous tuk-tuk scams, navigating the chaotic traffic, and understanding Thailand's strict laws.",
+        "touristAdvisory": "Bangkok is a bustling, relatively safe metropolis, but tourists must be vigilant against widespread scams. The most common is the 'Grand Palace is closed' scam, where friendly locals or tuk-tuk drivers redirect you to overpriced tailor shops or gem stores. Traffic is famously congested, and crossing the street requires extreme caution. While violent crime against foreigners is rare, pickpocketing happens in crowded markets like Chatuchak. Thailand enforces strict Lèse-majesté laws; never disrespect the Thai Royal Family in speech, online, or by stepping on dropped Thai currency, as it carries severe prison sentences. Political protests also occur occasionally; it is best to avoid them.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 65,
+            "politicalStability": 55,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "191", "medical": "1669", "fire": "199" }
+    },
+    {
+        "id": "HKT",
+        "countryId": "THA",
+        "slug": "phuket",
+        "name": "Phuket",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/phuket.jpg",
+        "seoDescription": "Traveling to Phuket? Read our safety guide covering dangerous monsoon rip currents, scooter accident risks, and avoiding jet ski scams on the beach.",
+        "touristAdvisory": "Phuket is Thailand's largest and most popular island. While generally safe regarding violent crime, the primary cause of tourist injuries and fatalities is motorbike accidents; only rent a scooter if you are an experienced rider, always wear a helmet, and be aware that local driving habits are erratic. At the beach, be highly cautious of the infamous 'jet ski scam' where operators extort money for pre-existing damage. During the monsoon season (May to October), the ocean becomes highly dangerous with deadly rip currents; always obey red warning flags on the beach, as drownings are unfortunately common.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 65,
+            "politicalStability": 60,
+            "naturalDisaster": 50
+        },
+        "emergencyNumbers": { "police": "191", "medical": "1669", "fire": "199" }
+    },
+    {
+        "id": "CNX",
+        "countryId": "THA",
+        "slug": "chiang-mai",
+        "name": "Chiang Mai",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/chiang-mai.jpg",
+        "seoDescription": "Is Chiang Mai safe? Discover safety tips for northern Thailand, including the severe 'burning season' air pollution and mountain scooter safety.",
+        "touristAdvisory": "Chiang Mai is considered a digital nomad hub and is exceptionally safe regarding crime. The walled Old City is heavily monitored, relaxed, and welcoming. The greatest health risk here is environmental: from late February to April, the region experiences the 'burning season' (agricultural crop burning), creating some of the most hazardous, toxic air pollution (PM2.5) in the world. Tourists should avoid visiting during this time or wear high-quality N95 masks. If renting a scooter to drive the famous Mae Hong Son loop or visit Doi Suthep, ensure your brakes are reliable and you are highly comfortable with steep, winding mountain roads.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 45,
+            "politicalStability": 65,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "191", "medical": "1669", "fire": "199" }
+    },
+    {
+        "id": "UTP",
+        "countryId": "THA",
+        "slug": "pattaya",
+        "name": "Pattaya",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/pattaya.jpg",
+        "seoDescription": "Pattaya safety guide for travelers. Navigate the bustling nightlife safely, avoid common red-light district scams, and protect your valuables.",
+        "touristAdvisory": "Pattaya is globally known for its massive nightlife and red-light district, particularly Walking Street. While the city has tried to rebrand as a family-friendly destination, the nightlife areas still attract opportunistic crime. Tourists must be highly vigilant against pickpocketing, particularly by groups approaching on the street or the beach late at night. Drink spiking and exorbitant, hidden bar bills are known issues in certain clubs. Never hand over your passport as collateral when renting jet skis or motorbikes. Despite its gritty reputation, sticking to well-lit areas and exercising common sense will keep you safe.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 60,
+            "politicalStability": 60,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "191", "medical": "1669", "fire": "199" }
+    },
+    {
+        "id": "KBV",
+        "countryId": "THA",
+        "slug": "krabi",
+        "name": "Krabi",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/krabi.jpg",
+        "seoDescription": "Planning a trip to Krabi? Read our tourist safety guide for island hopping, avoiding aggressive monkey bites, and essential boat safety.",
+        "touristAdvisory": "Krabi, famous for its stunning limestone karsts and Railay Beach, is a very relaxed and safe destination. Crime rates are low, and the vibe is much quieter than Phuket. The main risks involve wildlife and marine transport. When visiting areas like Monkey Trail or Phi Phi's Monkey Beach, do not feed, touch, or provoke the macaques; they are wild, aggressive, and monkey bites require immediate, expensive rabies vaccinations. When island hopping, ensure your longtail boat or speedboat is not dangerously overcrowded and that life jackets are actively provided, as sudden tropical squalls can make the sea unexpectedly rough.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 65,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "191", "medical": "1669", "fire": "199" }
+    },
+    {
+        "id": "USM",
+        "countryId": "THA",
+        "slug": "koh-samui",
+        "name": "Koh Samui",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/koh-samui.jpg",
+        "seoDescription": "Is Koh Samui safe for a beach holiday? Find out how to safely enjoy this Gulf of Thailand paradise, from avoiding jellyfish to scooter precautions.",
+        "touristAdvisory": "Koh Samui is a high-end tourist island in the Gulf of Thailand and is generally very safe. Violent crime against tourists is rare, though petty theft from unsecured hotel rooms or left unattended on the beach does occasionally occur. The island's ring road is notorious for serious motorbike accidents; sand on the road, stray dogs, and inexperienced tourists make driving hazardous. Environmentally, the Gulf of Thailand occasionally sees highly venomous box jellyfish, particularly between July and October; pay close attention to warning signs on the beach, carry vinegar in your beach bag, and consider swimming in hotel pools during this time.",
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 65,
+            "politicalStability": 65,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "191", "medical": "1669", "fire": "199" }
+    },
+    {
+        "id": "SYD",
+        "countryId": "AUS",
+        "slug": "sydney",
+        "name": "Sydney",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/sydney.jpg",
+        "seoDescription": "Is Sydney safe for tourists? Discover essential beach safety tips, navigate the CBD securely, and learn how to protect yourself from the extreme Australian sun.",
+        "touristAdvisory": "Sydney is a spectacular, welcoming, and very safe global city. Violent crime is low, and popular tourist areas like Circular Quay, the Opera House, and Darling Harbour are heavily monitored and safe day and night. The most significant risks to tourists are environmental. The Australian sun is fiercely strong; severe sunburn and heatstroke can happen in minutes, making SPF 50+ sunscreen and a hat mandatory. At iconic spots like Bondi or Manly Beach, dangerous ocean rip currents are a daily hazard. You must strictly follow local rules and always swim between the red and yellow flags, which are actively patrolled by lifeguards.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "000", "medical": "000", "fire": "000" }
+    },
+    {
+        "id": "MEL",
+        "countryId": "AUS",
+        "slug": "melbourne",
+        "name": "Melbourne",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/melbourne.jpg",
+        "seoDescription": "Traveling to Melbourne? Read our comprehensive safety guide covering the CBD, tram safety, and preparing for the city's famously unpredictable weather.",
+        "touristAdvisory": "Melbourne is widely celebrated as Australia's cultural and culinary capital and is exceptionally safe for tourists. Exploring the laneways, the CBD, and areas like Southbank is secure at all hours. Standard urban precautions apply regarding minor pickpocketing in crowded areas like the Queen Victoria Market. Visitors need to be highly vigilant around the city's extensive tram network; never walk in front of a tram, and pay close attention when getting on and off, as cars often share the road. Melbourne is also famous for having 'four seasons in one day', so tourists should always carry layers and be prepared for sudden drops in temperature or unexpected rain.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "000", "medical": "000", "fire": "000" }
+    },
+    {
+        "id": "BNE",
+        "countryId": "AUS",
+        "slug": "brisbane",
+        "name": "Brisbane",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/brisbane.jpg",
+        "seoDescription": "Is Brisbane safe to visit? Learn about tourist safety in Queensland's capital, from navigating Fortitude Valley nightlife to avoiding severe summer storms.",
+        "touristAdvisory": "Brisbane is a sunny, laid-back, and very safe city. The South Bank parklands, the CBD, and the riverfront are excellent, family-friendly areas that are highly secure. The main nightlife district, Fortitude Valley, gets extremely busy on weekends and can sometimes experience alcohol-fueled scuffles late at night, so simple situational awareness is advised. Brisbane's primary hazards are weather-related. During the summer (December to February), the heat and humidity are intense. The city is also prone to sudden, severe afternoon thunderstorms that can bring dangerous lightning, flash flooding, and massive hailstones, so keep an eye on local weather radars.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "000", "medical": "000", "fire": "000" }
+    },
+    {
+        "id": "OOL",
+        "countryId": "AUS",
+        "slug": "gold-coast",
+        "name": "Gold Coast",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/gold-coast.jpg",
+        "seoDescription": "Gold Coast safety guide for travelers. Navigate Surfers Paradise safely, understand ocean rip currents, and learn how to avoid late-night rowdiness.",
+        "touristAdvisory": "The Gold Coast is Australia's premier beach resort and party destination. During the day, it is a safe, family-friendly paradise, but tourists must respect the ocean—drownings in unpatrolled areas due to massive surf and powerful rip currents are a tragic reality. Always swim between the flags. At night, the hub of Surfers Paradise becomes a high-energy nightlife zone. Because of the heavy drinking culture, visitors should be cautious of unprovoked, alcohol-fueled violence or brawls on the streets in the early hours of the morning. Avoid traveling here during late November to early December if you want peace and quiet, as the city is overrun by partying high school graduates ('Schoolies').",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "000", "medical": "000", "fire": "000" }
+    },
+    {
+        "id": "CNS",
+        "countryId": "AUS",
+        "slug": "cairns",
+        "name": "Cairns",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cairns.jpg",
+        "seoDescription": "Planning a trip to Cairns? Read our crucial safety guide regarding saltwater crocodiles, deadly marine stingers, and tropical cyclone protocols.",
+        "touristAdvisory": "Cairns is the tropical gateway to the Great Barrier Reef and the Daintree Rainforest. While crime rates are generally low, the environmental dangers here are uniquely lethal. You must NEVER swim in unpatrolled rivers, estuaries, or beaches, as the region is heavily populated by massive, deadly saltwater crocodiles. Between November and May, the ocean is home to highly venomous marine stingers (Box Jellyfish and Irukandji); swimming without a full-body 'stinger suit' is extremely dangerous. Furthermore, Cairns is situated in a tropical cyclone zone. If visiting during the summer wet season, travelers must be prepared for severe weather disruptions and follow local emergency broadcasts.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 85,
+            "politicalStability": 95,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "000", "medical": "000", "fire": "000" }
+    },
+    {
+        "id": "PER",
+        "countryId": "AUS",
+        "slug": "perth",
+        "name": "Perth",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/perth.jpg",
+        "seoDescription": "Is Perth safe for a holiday? Find out how to safely enjoy Western Australia's capital, from extreme summer heat protection to shark awareness at the beach.",
+        "touristAdvisory": "Perth is one of the most isolated major cities in the world, renowned for its wealth, cleanliness, and high safety standards. Exploring Kings Park, the CBD, and Fremantle is very secure. The nightlife center, Northbridge, has a heavy police presence but can still be rough late at night, so visitors should stay alert. Environmental risks are the primary concern in Western Australia. Perth experiences scorching, dry summers with temperatures frequently topping 40°C (104°F), creating a severe risk of heat exhaustion and volatile bushfires in the surrounding hills. While shark attacks are statistically rare, Great White Sharks are present along the coastline; always swim at patrolled beaches and obey any siren or helicopter warnings.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "000", "medical": "000", "fire": "000" }
+    },
+    {
+        "id": "AKL",
+        "countryId": "NZL",
+        "slug": "auckland",
+        "name": "Auckland",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/auckland.jpg",
+        "seoDescription": "Is Auckland safe for tourists? Discover safety tips for New Zealand's largest city, preventing car break-ins, and handling the unpredictable maritime weather.",
+        "touristAdvisory": "Auckland is New Zealand’s largest and most diverse city. It is generally very safe for tourists, and violent crime against visitors is rare. Exploring the CBD, Viaduct Harbour, and taking ferries to nearby islands like Waiheke is highly secure. However, property crime is a known issue; visitors must never leave luggage, passports, or valuables visible in rental cars or campervans, especially at scenic lookouts or hiking trailheads. The nightlife around Karangahape Road (K-Road) and downtown can get rowdy late at night, so standard urban situational awareness is advised. The city's maritime climate means weather can change rapidly, bringing sudden heavy rain and strong winds.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
+    },
+    {
+        "id": "ZQN",
+        "countryId": "NZL",
+        "slug": "queenstown",
+        "name": "Queenstown",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/queenstown.jpg",
+        "seoDescription": "Traveling to Queenstown? Read our comprehensive safety guide covering extreme sports risks, alpine driving hazards, and winter weather protocols.",
+        "touristAdvisory": "Queenstown is the 'Adventure Capital of the World' and is incredibly safe from a criminal perspective. The town is built around tourism, and the streets are very secure at all hours. The primary risks here are physical and environmental. Tourists partake in high-adrenaline activities like bungee jumping, jet boating, and heli-skiing; always ensure you use licensed, reputable operators and follow all safety briefings. If driving during the winter (June to August), black ice on the steep, winding mountain roads is extremely dangerous, and carrying snow chains is often mandatory. Furthermore, the alpine weather can change from sunny to a freezing blizzard in minutes, so hikers must always be over-prepared.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
+    },
+    {
+        "id": "WLG",
+        "countryId": "NZL",
+        "slug": "wellington",
+        "name": "Wellington",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/wellington.jpg",
+        "seoDescription": "Is Wellington safe to visit? Learn about tourist safety in New Zealand's capital, navigating the extreme winds, and earthquake preparedness.",
+        "touristAdvisory": "Wellington is New Zealand's compact, cultural capital and is very safe for pedestrians and tourists. The waterfront, Te Papa museum, and the CBD are highly secure during the day. The Courtenay Place nightlife district is heavily policed but can become loud and heavily intoxicated on Friday and Saturday nights. Wellington's main hazards are natural. The city sits on a major fault line and experiences frequent, usually minor, earthquakes; tourists should familiarize themselves with the 'Drop, Cover, and Hold' protocol. Additionally, it is famously nicknamed 'Windy Wellington' for a reason—gale-force winds funneled through the Cook Strait can make walking difficult and frequently disrupt flight schedules at the local airport.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
+    },
+    {
+        "id": "CHC",
+        "countryId": "NZL",
+        "slug": "christchurch",
+        "name": "Christchurch",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/christchurch.jpg",
+        "seoDescription": "Christchurch safety guide for travelers. Discover how to safely explore the South Island's largest city, understand its earthquake history, and prevent campervan theft.",
+        "touristAdvisory": "Christchurch is the largest city on the South Island and serves as a major gateway for tourists. It is a very safe, beautifully rebuilt city following the devastating 2010 and 2011 earthquakes. While the CBD is secure and vibrant, the city still experiences occasional seismic activity, though modern building codes are exceptionally strict. The most common annoyance for tourists is property theft. Thieves often target unattended rental cars and campervans parked at popular hiking spots in the surrounding Port Hills or beaches. Never leave valuables in your vehicle. When driving out of the city towards the Southern Alps, tourists must be prepared for long, isolated stretches of road with no cellphone reception.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
+    },
+    {
+        "id": "ROT",
+        "countryId": "NZL",
+        "slug": "rotorua",
+        "name": "Rotorua",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/rotorua.jpg",
+        "seoDescription": "Planning a trip to Rotorua? Read our crucial safety guide regarding geothermal hazards, avoiding boiling mud pools, and securing your vehicle.",
+        "touristAdvisory": "Rotorua is the heart of New Zealand's Maori culture and geothermal activity. The city is generally safe from violent crime, but has a slightly higher rate of opportunistic property crime than other tourist centers; locking cars and hiding valuables is essential. The city's unique environment poses the greatest risk. Rotorua is built on an active volcanic zone. Tourists must strictly stay on designated paths and boardwalks when visiting geothermal parks (like Te Puia or Wai-O-Tapu). The ground near hot springs can be highly unstable, and breaking through the crust into boiling mud or acidic water can cause fatal burns. The strong sulfur smell (often compared to rotten eggs) in the air is natural and harmless.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
+    },
+    {
+        "id": "DUD",
+        "countryId": "NZL",
+        "slug": "dunedin",
+        "name": "Dunedin",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/dunedin.jpg",
+        "seoDescription": "Is Dunedin safe for a holiday? Find out how to safely enjoy this historic university city, navigate the tricky Otago Peninsula roads, and manage the cold climate.",
+        "touristAdvisory": "Dunedin is a historic city known for its Scottish heritage and large university population. It is a very safe, walkable city for visitors. The student-heavy areas, particularly around Castle Street, are known for loud, rowdy parties and couch-burning during university semesters, but this rarely affects tourists who stick to the city center or the Octagon. The primary safety concerns are driving and weather. The scenic coastal roads along the Otago Peninsula—popular for viewing penguins and albatrosses—are incredibly narrow, winding, and often lack guardrails; they require slow, cautious driving. Additionally, Dunedin is located in the deep south of the country and can experience very cold, biting weather and occasional snow, even outside of peak winter.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
     }
 ]
