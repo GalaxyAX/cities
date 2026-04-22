@@ -814,5 +814,311 @@
             "naturalDisaster": 80
         },
         "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "TYO",
+        "countryId": "JPN",
+        "slug": "tokyo",
+        "name": "Tokyo",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/tokyo.jpg",
+        "seoDescription": "Is Tokyo safe for tourists? Learn about safety in Japan's bustling capital, from navigating the massive train system to avoiding touts in Kabukicho.",
+        "touristAdvisory": "Tokyo is consistently ranked as one of the safest major cities in the world. Violent crime is exceptionally rare, and tourists can generally walk anywhere, even late at night, with minimal risk. The main crime-related concern is aggressive touts (barkers) in nightlife districts like Kabukicho (Shinjuku) and Roppongi; never follow them into bars or clubs, as drink-spiking and exorbitant credit card extortion scams do occur. Japan is highly prone to natural disasters, so tourists should familiarize themselves with earthquake protocols and download a disaster alert app like 'Yurekuru Call'. Typhoons can also cause severe public transport disruptions between August and October.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "110", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "UKY",
+        "countryId": "JPN",
+        "slug": "kyoto",
+        "name": "Kyoto",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/kyoto.jpg",
+        "seoDescription": "Traveling to Kyoto? Discover safety tips for navigating crowded temples, interacting respectfully with locals, and dealing with extreme summer heat.",
+        "touristAdvisory": "Kyoto is an incredibly safe and peaceful city, deeply rooted in tradition. Crime is almost non-existent for tourists. The primary challenges in Kyoto are related to overtourism and local etiquette. Visitors are urged to respect local customs, particularly in the Gion district, where harassing or photographing geisha and maiko on private streets without permission is strictly prohibited and can result in fines. The city is located in a geographical basin, making its summers notoriously hot, intensely humid, and stagnant; heatstroke is a genuine risk, so pacing yourself, resting in the shade, and staying hydrated is essential.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 50
+        },
+        "emergencyNumbers": { "police": "110", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "OSA",
+        "countryId": "JPN",
+        "slug": "osaka",
+        "name": "Osaka",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/osaka.jpg",
+        "seoDescription": "Is Osaka safe to visit? Read our guide on exploring the vibrant Dotonbori district, enjoying street food safely, and knowing which areas to navigate with care.",
+        "touristAdvisory": "Osaka is known for its outgoing locals and fantastic street food culture. It is a very safe city, though it has a slightly grittier, more energetic vibe compared to Tokyo. Areas like Dotonbori and Namba are bustling and secure, but tourists should watch out for minor pickpocketing in dense crowds. Visitors should generally avoid the Kamagasaki (Airin-chiku) neighborhood in the Nishinari ward, particularly at night. While not inherently dangerous or violent, it is a socio-economically deprived area with a visible day-laborer and homeless population, which contrasts sharply with the pristine image of the rest of Japan. Like all of Japan, earthquake readiness is highly recommended.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 45
+        },
+        "emergencyNumbers": { "police": "110", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "SPK",
+        "countryId": "JPN",
+        "slug": "sapporo",
+        "name": "Sapporo",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/sapporo.jpg",
+        "seoDescription": "Sapporo safety guide for travelers. Find out how to safely enjoy the Hokkaido winter, the Snow Festival, and navigate notoriously icy streets.",
+        "touristAdvisory": "Sapporo, the capital of the northern island of Hokkaido, is an exceptionally safe and welcoming city. The Susukino entertainment district is lively and generally very secure, though standard nightlife precautions apply regarding touts. The most significant hazard for tourists in Sapporo is the extreme winter weather. The city receives massive amounts of snowfall, and the streets, sidewalks, and crosswalks become incredibly slippery and frozen solid. Specialized winter footwear with strong traction (or attachable ice cleats) is an absolute necessity to prevent serious falls, broken bones, and head injuries. If driving in Hokkaido, be highly prepared for treacherous icy roads and zero-visibility blizzards.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 45
+        },
+        "emergencyNumbers": { "police": "110", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "HIJ",
+        "countryId": "JPN",
+        "slug": "hiroshima",
+        "name": "Hiroshima",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hiroshima.jpg",
+        "seoDescription": "Planning a trip to Hiroshima? Discover why this historic city is a peaceful and highly secure destination for international tourists.",
+        "touristAdvisory": "Hiroshima is a modern, peaceful, and profoundly moving city that is incredibly safe for visitors. The areas around the Peace Memorial Park, the downtown Hondori shopping arcades, and the ferry to Miyajima Island are highly secure at all hours. Crime rates are exceptionally low, making it perfect for solo travelers. The primary concerns for travelers are environmental. In the summer, the heat and humidity can be oppressive. Additionally, Hiroshima is occasionally affected by heavy monsoon rains and typhoons in the late summer and early autumn, which can lead to localized flooding or landslides in the surrounding mountainous areas. Always monitor local weather advisories.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 50
+        },
+        "emergencyNumbers": { "police": "110", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "OKA",
+        "countryId": "JPN",
+        "slug": "okinawa",
+        "name": "Okinawa",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/okinawa.jpg",
+        "seoDescription": "Is Okinawa safe? Learn about the main risks in Japan's tropical paradise, focusing on marine hazards, sun safety, and the intense typhoon season.",
+        "touristAdvisory": "Naha and the broader Okinawa prefecture represent a safe, tropical paradise favored by tourists for their beautiful beaches. Crime is very low, making it ideal for families. The main dangers here are environmental. The sun is incredibly strong, making severe sunburn and heat exhaustion common if unprotected. When swimming, snorkeling, or diving, be highly cautious of strong ocean currents and hazardous marine life, such as the highly venomous box jellyfish (Habu-kurage), especially from June to October; always swim in netted beach areas. Furthermore, Okinawa is situated directly in 'Typhoon Alley' and experiences severe, sometimes highly destructive typhoons during the late summer, which can easily ground flights for several days.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 30
+        },
+        "emergencyNumbers": { "police": "110", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "SEL",
+        "countryId": "KOR",
+        "slug": "seoul",
+        "name": "Seoul",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/seoul.jpg",
+        "seoDescription": "Is Seoul safe for tourists? Discover safety tips for navigating the bustling South Korean capital, managing crowd density, and dealing with air quality issues.",
+        "touristAdvisory": "Seoul is an incredibly safe, 24-hour city protected by a massive and ubiquitous CCTV network. Violent crime and petty theft are both extremely low; it is common to see people leave laptops unattended in cafes. Tourists can walk almost anywhere safely at night. The main concerns are non-criminal. High crowd density in popular nightlife areas like Hongdae and Itaewon requires situational awareness to avoid dangerous crushes. During the spring, Seoul often experiences severe 'yellow dust' (fine particulate matter) blowing in from the Gobi Desert, which can pose health risks for those with respiratory issues; wearing a KF94 mask is highly recommended on poor air quality days. While the geopolitical situation with North Korea makes international headlines, locals generally go about their lives normally, and it poses no day-to-day threat to tourists.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 80,
+            "politicalStability": 70,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "PUS",
+        "countryId": "KOR",
+        "slug": "busan",
+        "name": "Busan",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/busan.jpg",
+        "seoDescription": "Traveling to Busan? Read our comprehensive safety guide covering Haeundae beach safety, traffic conditions, and typhoon risks in South Korea's second city.",
+        "touristAdvisory": "Busan, a vibrant coastal city, is exceptionally welcoming and safe for visitors. Areas like Haeundae Beach, Gwangalli, and the Seomyeon district are heavily frequented by tourists and very secure day and night. Pickpocketing is incredibly rare. The primary hazards for tourists are environmental. Between August and October, Busan is highly susceptible to powerful typhoons that bring destructive winds and severe flooding; travelers must closely monitor weather alerts during this season. Additionally, traffic in Busan is famously more aggressive and chaotic compared to Seoul. Pedestrians should exercise extra caution at crosswalks, as drivers and delivery scooters often run red lights or drive on sidewalks.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "112", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "CJU",
+        "countryId": "KOR",
+        "slug": "jeju",
+        "name": "Jeju Island",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/jeju.jpg",
+        "seoDescription": "Is Jeju Island safe to visit? Learn about tourist safety in Korea's top honeymoon destination, focusing on hiking hazards, rental car safety, and severe weather.",
+        "touristAdvisory": "Jeju Island is South Korea's premier holiday destination and is renowned for being incredibly peaceful and safe, with a virtually zero crime rate affecting tourists. The island's challenges are primarily geographical and weather-related. Many tourists rent cars to explore the island; however, the coastal and mountain roads (particularly around Mount Hallasan) can become highly dangerous due to sudden, dense fog or heavy winter snowfall. Furthermore, Jeju lies directly in the path of summer and autumn typhoons, which frequently cause flight cancellations and hazardous conditions. If hiking Hallasan or exploring the rocky coastlines, stay on marked trails to avoid slips and falls on the volcanic rock.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 90,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "112", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "ICN",
+        "countryId": "KOR",
+        "slug": "incheon",
+        "name": "Incheon",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/incheon.jpg",
+        "seoDescription": "Incheon safety guide for travelers. Discover how to safely explore the futuristic Songdo district, the historic Chinatown, and navigate this major transit hub.",
+        "touristAdvisory": "Most international visitors arrive in South Korea via Incheon. The city itself, encompassing the high-tech Songdo 'Smart City' and the historic Chinatown, is very safe, heavily surveilled, and foreigner-friendly. Violent crime is extremely rare. Because Incheon is a massive industrial port city, tourists should be mindful of heavy commercial truck traffic when walking or driving in certain districts outside the main tourist zones. Like Seoul, Incheon suffers from poor air quality and fine dust pollution in the spring, so visitors with asthma or allergies should check daily air quality indexes and wear appropriate masks.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "GYE",
+        "countryId": "KOR",
+        "slug": "gyeongju",
+        "name": "Gyeongju",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/gyeongju.jpg",
+        "seoDescription": "Planning a trip to Gyeongju? Read our tourist safety guide for South Korea's 'museum without walls', covering rural travel tips and earthquake awareness.",
+        "touristAdvisory": "Gyeongju, the ancient capital of the Silla Kingdom, is often referred to as a 'museum without walls'. It is a tranquil, highly historic city that is remarkably safe for tourists of all kinds. Walking among the ancient burial mounds (tumuli) and temples is secure at any time of day. Because it is a smaller, more rural city compared to Seoul or Busan, public transportation becomes sparse late at night, and some outer temple areas can be very poorly lit, so it is advisable to plan return trips carefully or rely on local taxis. Uniquely for South Korea, the Gyeongju region has a slightly elevated risk of seismic activity, having experienced minor earthquakes in recent years, though major damage is rare.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 85,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "112", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "TAE",
+        "countryId": "KOR",
+        "slug": "daegu",
+        "name": "Daegu",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/daegu.jpg",
+        "seoDescription": "Is Daegu safe for a city break? Find out how to safely enjoy this vibrant inland city, focusing on surviving 'Daefrica' summer heatwaves.",
+        "touristAdvisory": "Daegu is South Korea's fourth-largest city and is very safe, featuring a lively downtown area (Dongseongro) that is heavily policed and secure for shoppers and tourists. Crime is not a significant concern here. The most famous hazard in Daegu is its climate. Situated in a geographical basin, the city traps heat and humidity, earning it the local nickname 'Daefrica' (Daegu + Africa) during the summer months. Temperatures regularly soar above 35°C (95°F) with oppressive humidity from June to August. Tourists visiting during the summer are at a high risk of heat exhaustion and must take precautions such as carrying portable fans, drinking plenty of water, and utilizing the city's air-conditioned underground shopping malls during peak afternoon heat.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "112", "medical": "119", "fire": "119" }
+    },
+    {
+        "id": "PEK",
+        "countryId": "CHN",
+        "slug": "beijing",
+        "name": "Beijing",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/beijing.jpg",
+        "seoDescription": "Is Beijing safe for tourists? Discover safety tips for navigating China's capital, avoiding the infamous tea scam, and preparing for air quality issues.",
+        "touristAdvisory": "Beijing is heavily guarded and boasts a massive security apparatus, making violent crime virtually non-existent for tourists. Areas around Tiananmen Square, the Forbidden City, and major shopping districts like Wangfujing are exceptionally secure. The primary threat to tourists is financial: be extremely wary of the notorious 'tea house scam' or 'art student scam,' where friendly locals invite you to practice English over tea, resulting in an extortionate bill. To navigate the city safely and easily, foreign tourists must download a reliable VPN before arriving to access international internet (Google, WhatsApp), and set up digital payment apps (Alipay or WeChat Pay), as cash is rarely accepted. Air pollution (smog) can occasionally be severe, particularly in winter, so packing high-quality masks is recommended.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 70,
+            "politicalStability": 80,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
+    },
+    {
+        "id": "PVG",
+        "countryId": "CHN",
+        "slug": "shanghai",
+        "name": "Shanghai",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/shanghai.jpg",
+        "seoDescription": "Traveling to Shanghai? Read our comprehensive safety guide covering The Bund, navigating the massive subway system, and surviving typhoon season.",
+        "touristAdvisory": "Shanghai is China's most cosmopolitan and modern city, and it is incredibly safe for international travelers. Walking at night along The Bund, in the French Concession, or down Nanjing Road is highly secure. Because of the sheer volume of people, minor pickpocketing can occur on the crowded Metro system during rush hour, but it has drastically decreased in recent years due to ubiquitous surveillance and the shift to a cashless society. Expats and tourists are occasionally targeted by overcharging scams in certain bars or massage parlors, so stick to reputable venues. Environmentally, Shanghai is located on the coast and is susceptible to heavy rains and typhoons between July and September.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
+    },
+    {
+        "id": "SIA",
+        "countryId": "CHN",
+        "slug": "xi-an",
+        "name": "Xi'an",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/xi-an.jpg",
+        "seoDescription": "Is Xi'an safe to visit? Learn about tourist safety in the ancient capital, focusing on crowd crush risks at the Terracotta Army and navigating traffic.",
+        "touristAdvisory": "Xi'an, the ancient capital and home to the Terracotta Army, is a very welcoming and safe city for tourists. The historic city center, enclosed by the ancient City Wall, is heavily policed and secure. The bustling Muslim Quarter is a must-visit for street food, but the incredibly dense crowds require tourists to be mindful of their belongings to prevent opportunistic pickpocketing. Traffic in Xi'an can be notably more aggressive and chaotic than in Beijing or Shanghai; pedestrians must be highly vigilant when crossing streets, as e-bikes and scooters often drive silently on sidewalks or run red lights. Summers here are blisteringly hot, so carrying water and seeking shade is essential.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 75,
+            "politicalStability": 85,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
+    },
+    {
+        "id": "CTU",
+        "countryId": "CHN",
+        "slug": "chengdu",
+        "name": "Chengdu",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/chengdu.jpg",
+        "seoDescription": "Chengdu safety guide for travelers. Discover how to safely enjoy the panda reserves, handle spicy Sichuan cuisine, and earthquake awareness.",
+        "touristAdvisory": "Chengdu is renowned for its laid-back lifestyle, teahouse culture, and the Giant Panda Breeding Research Base. It is exceptionally safe, with locals known for being very friendly and accommodating to foreigners. Violent crime is extremely rare. The most immediate 'threat' to visitors in Chengdu is dietary: authentic Sichuan cuisine is heavily laden with chili oil and numbing Sichuan peppercorns. Travelers unaccustomed to this level of spice should pace themselves to avoid severe gastrointestinal distress. On a natural hazard level, the broader Sichuan province is located on active fault lines and is prone to major earthquakes. While modern buildings in Chengdu are constructed to withstand them, it is wise to be aware of earthquake protocols.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
+    },
+    {
+        "id": "CAN",
+        "countryId": "CHN",
+        "slug": "guangzhou",
+        "name": "Guangzhou",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/guangzhou.jpg",
+        "seoDescription": "Planning a trip to Guangzhou? Read our tourist safety guide for navigating this massive southern trading hub and managing extreme subtropical weather.",
+        "touristAdvisory": "Guangzhou is a massive commercial and trading metropolis in southern China. While it once had a reputation for petty crime around the main railway stations, intense security upgrades and the transition to mobile payments have made the city very safe for tourists and business travelers alike. The modern Tianhe District and the historic Shamian Island are particularly secure and pleasant. The main risks in Guangzhou are climatic. The city experiences a long, intensely hot, and highly humid subtropical summer from May to October, accompanied by a high risk of torrential downpours and typhoons. Staying hydrated and spending the hottest hours of the day in air-conditioned environments is crucial.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 80,
+            "politicalStability": 85,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
+    },
+    {
+        "id": "HGH",
+        "countryId": "CHN",
+        "slug": "hangzhou",
+        "name": "Hangzhou",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/safe-news/blob/main/image/hangzhou.jpg",
+        "seoDescription": "Is Hangzhou safe for a city break? Find out how to safely explore West Lake, avoid national holiday crowd crushes, and enjoy China's high-tech hub.",
+        "touristAdvisory": "Hangzhou, known for the picturesque West Lake and as the headquarters of tech giant Alibaba, is one of China's wealthiest, cleanest, and safest cities. It is extremely secure for tourists, with a highly developed infrastructure and extensive police presence. The primary issue tourists will face in Hangzhou is domestic overtourism. During Chinese national holidays (such as Golden Week in October or the May Day holiday), the areas surrounding West Lake become overwhelmingly crowded, posing a risk of getting lost or caught in uncomfortable crowd crushes. It is highly recommended to visit Hangzhou during off-peak times. Be prepared to use mobile payment apps, as physical cash is increasingly difficult to use here.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 85,
+            "politicalStability": 85,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "110", "medical": "120", "fire": "119" }
     }
 ]
