@@ -1528,5 +1528,1042 @@
             "naturalDisaster": 75
         },
         "emergencyNumbers": { "police": "111", "medical": "111", "fire": "111" }
+    },
+    {
+        "id": "GIG",
+        "countryId": "BRA",
+        "slug": "rio-de-janeiro",
+        "name": "Rio de Janeiro",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/rio-de-janeiro.jpg",
+        "seoDescription": "Is Rio de Janeiro safe for tourists? Read our expert guide on staying safe in Copacabana and Ipanema, avoiding favelas, and preventing beach theft.",
+        "touristAdvisory": "Rio de Janeiro is one of the most famous cities in the world, but it requires constant, heightened situational awareness. The main tourist zones in the South Zone (Zona Sul), such as Copacabana, Ipanema, and Leblon, are heavily patrolled by tourist police and are generally safe during the day. However, tourists must never take valuables (phones, jewelry, passports) to the beach, as 'arrastões' (flash-mob robberies) and opportunistic snatch-and-grab thefts are common. Avoid using your smartphone openly on the street. Tourists should strictly avoid entering favelas (informal settlements) without a highly reputable local guide, as many are controlled by heavily armed drug factions. At night, always use Uber or registered taxis rather than walking, even for short distances.",
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 65,
+            "politicalStability": 65,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "190", "medical": "192", "fire": "193" }
+    },
+    {
+        "id": "GRU",
+        "countryId": "BRA",
+        "slug": "sao-paulo",
+        "name": "São Paulo",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/sao-paulo.jpg",
+        "seoDescription": "Traveling to São Paulo? Discover safety tips for navigating South America's largest metropolis, protecting your phone from bike thieves, and areas to avoid.",
+        "touristAdvisory": "São Paulo is South America's financial and gastronomic capital. It is a massive, fast-paced metropolis where safety varies drastically by neighborhood. Upscale areas like Avenida Paulista, Jardins, and Vila Madalena are generally safe and heavily frequented by tourists and expats. The most prevalent crime targeting tourists here is smartphone snatching by thieves riding bicycles disguised as food delivery drivers; never hold your phone out near the street. Tourists should completely avoid the downtown historical center (Centro Histórico) at night, specifically the area known as 'Cracolândia' (Crackland), which suffers from severe open-air drug use and extreme poverty. Traffic is notoriously gridlocked, so rely on the excellent Metro system or ride-sharing apps.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 70,
+            "politicalStability": 70,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "190", "medical": "192", "fire": "193" }
+    },
+    {
+        "id": "SSA",
+        "countryId": "BRA",
+        "slug": "salvador",
+        "name": "Salvador",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/salvador.jpg",
+        "seoDescription": "Is Salvador safe to visit? Learn about tourist safety in the heart of Afro-Brazilian culture, navigating the Pelourinho, and avoiding street robberies.",
+        "touristAdvisory": "Salvador is the vibrant heart of Afro-Brazilian culture, famous for its history, music, and massive Carnival. The historic center, the Pelourinho, is heavily saturated with tourist police during the day, making it safe to explore the colorful colonial streets. However, tourists should not wander outside this policed bubble into surrounding alleys or the lower city without a guide, as armed robberies are a significant risk. Do not wear flashy watches, gold chains, or expensive cameras. Street vendors can be aggressively persistent, particularly those tying 'Fita do Senhor do Bonfim' (wish ribbons) to your wrist and demanding money. At night, stick to busy nightlife spots like Rio Vermelho and take an Uber door-to-door.",
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 60,
+            "politicalStability": 65,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "190", "medical": "192", "fire": "193" }
+    },
+    {
+        "id": "IGU",
+        "countryId": "BRA",
+        "slug": "foz-do-iguacu",
+        "name": "Foz do Iguaçu",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/foz-do-iguacu.jpg",
+        "seoDescription": "Foz do Iguaçu safety guide for travelers. Find out how to safely visit the spectacular Iguazu Falls, navigate the border region, and avoid wildlife hazards.",
+        "touristAdvisory": "Foz do Iguaçu is the Brazilian gateway to the spectacular Iguazu Falls, sharing borders with Argentina and Paraguay. Because the local economy relies heavily on international tourism, it is one of the safest cities in Brazil. The National Park and the area surrounding the tourist hotels are exceptionally secure. The primary risks for tourists are not criminal, but environmental. The subtropical climate brings extreme heat and humidity, requiring constant hydration. Tourists must also be careful of the local wildlife in the park, particularly the Coatis (small, raccoon-like animals); do not feed or touch them, as they can become aggressive and carry rabies. Mosquito repellent is highly recommended to prevent Dengue fever.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 70,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "190", "medical": "192", "fire": "193" }
+    },
+    {
+        "id": "FLN",
+        "countryId": "BRA",
+        "slug": "florianopolis",
+        "name": "Florianópolis",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/florianopolis.jpg",
+        "seoDescription": "Planning a trip to Florianópolis? Read our tourist safety guide for the 'Magic Island', known as one of the safest and most prosperous capitals in Brazil.",
+        "touristAdvisory": "Florianópolis, affectionately known as 'Floripa' or the 'Magic Island', consistently ranks as the safest state capital in Brazil. Boasting a high quality of life and stunning beaches, it is a haven for surfers, backpackers, and families. Violent crime against tourists is very rare. Standard beach precautions apply: do not leave bags unattended on the sand, and secure your belongings if renting a car, as minor smash-and-grab thefts can occasionally happen at remote beach parking lots. The main hazards are related to the ocean, as some beaches have very strong waves and powerful rip currents. During the peak summer season (December-February), traffic on the island can become paralyzing.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 80,
+            "politicalStability": 75,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "190", "medical": "192", "fire": "193" }
+    },
+    {
+        "id": "MAO",
+        "countryId": "BRA",
+        "slug": "manaus",
+        "name": "Manaus",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/manaus.jpg",
+        "seoDescription": "Is Manaus safe for a jungle adventure? Discover safety tips for the gateway to the Amazon, including port security, tropical diseases, and extreme weather.",
+        "touristAdvisory": "Manaus is the gateway to the Brazilian Amazon Rainforest. The city itself struggles with high crime rates, heavily influenced by drug trafficking along the river routes. Tourists should exercise strict caution, particularly in the downtown area, around the central market (Mercado Adolpho Lisboa), and near the river ports, which are hotspots for pickpockets and muggings. Do not walk around at night. Most tourists use Manaus purely as a transit point to reach eco-lodges or jungle cruises, which are very safe once out of the city. Health is a major factor: yellow fever vaccinations are highly recommended, and preventative measures against malaria and dengue fever (via strong insect repellent) are absolutely essential. The equatorial heat and humidity are oppressive year-round.",
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 50,
+            "politicalStability": 65,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "190", "medical": "192", "fire": "193" }
+    },
+    {
+        "id": "BUE",
+        "countryId": "ARG",
+        "slug": "buenos-aires",
+        "name": "Buenos Aires",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/buenos-aires.jpg",
+        "seoDescription": "Is Buenos Aires safe for tourists? Discover tips for avoiding motochorros, navigating La Boca safely, and understanding the currency exchange rates.",
+        "touristAdvisory": "Buenos Aires is a stunning, European-style capital, but tourists must remain highly vigilant against street crime. The most common threat is 'motochorros' (thieves on motorcycles) who aggressively snatch smartphones and watches from pedestrians; never hold your phone loosely near the street. Upscale neighborhoods like Palermo and Recoleta are heavily policed but still experience pickpocketing. The famous La Boca neighborhood (home to the Caminito) is safe during the day on the main tourist streets, but wandering outside this small perimeter, especially at night, is highly dangerous and should be strictly avoided. Financially, tourists should use foreign credit cards (which now give the favorable 'MEP' tourist exchange rate) or Western Union rather than exchanging cash with street vendors ('arbolitos') to avoid counterfeit bills. The city also experiences frequent, massive political protests ('piquetes') which cause severe traffic gridlock.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 75,
+            "politicalStability": 55,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "911", "medical": "107", "fire": "100" }
+    },
+    {
+        "id": "MDZ",
+        "countryId": "ARG",
+        "slug": "mendoza",
+        "name": "Mendoza",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/mendoza.jpg",
+        "seoDescription": "Planning a wine trip to Mendoza? Read our safety guide for exploring the vineyards, high-altitude mountain driving, and earthquake preparedness.",
+        "touristAdvisory": "Mendoza is the heart of Argentina's wine country and is generally a very safe, relaxed destination for visitors. The city center is heavily tree-lined and safe to walk during the day, though tourists should watch out for pickpockets in the main plazas and avoid poorly lit areas at night. The primary risks are related to the environment and activities. When taking wine tours in regions like the Uco Valley, driving under the influence is a serious concern; it is highly recommended to hire a private driver (remis) or join a guided tour. If driving into the high Andes towards Aconcagua, be prepared for treacherous, winding mountain roads and rapid weather changes. Geographically, Mendoza sits in an active seismic zone, so minor earthquakes are a possibility.",
+        "riskBreakdown": {
+            "crimeLevel": 70,
+            "healthEpidemic": 80,
+            "politicalStability": 65,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "911", "medical": "107", "fire": "100" }
+    },
+    {
+        "id": "BRC",
+        "countryId": "ARG",
+        "slug": "san-carlos-de-bariloche",
+        "name": "San Carlos de Bariloche",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/san-carlos-de-bariloche.jpg",
+        "seoDescription": "Is Bariloche safe to visit? Learn about tourist safety in the Argentine Lake District, including winter sports hazards and mountain hiking precautions.",
+        "touristAdvisory": "Bariloche, located in the spectacular Lake District of northern Patagonia, is a very safe haven for domestic and international tourists. Violent crime is extremely rare. The main criminal nuisance is the occasional theft from unattended rental cars parked at remote hiking trailheads or scenic viewpoints; never leave luggage or valuables visible in your vehicle. The true hazards in Bariloche are natural. The alpine environment is unforgiving. Hikers should never underestimate the trails in Nahuel Huapi National Park; weather can turn freezing and violent within minutes, even in summer. Always register your trek with the park rangers and do not hike alone. In winter (July-August), black ice on the roads and avalanche risks in the backcountry are major concerns.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 85,
+            "politicalStability": 70,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "911", "medical": "107", "fire": "100" }
+    },
+    {
+        "id": "FTE",
+        "countryId": "ARG",
+        "slug": "el-calafate",
+        "name": "El Calafate",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/el-calafate.jpg",
+        "seoDescription": "El Calafate safety guide for travelers. Find out how to safely visit the Perito Moreno Glacier and prepare for extreme Patagonian weather.",
+        "touristAdvisory": "El Calafate is a small, quiet town serving exclusively as the gateway to Los Glaciares National Park and the famous Perito Moreno Glacier. Because its economy is entirely dependent on tourism, crime rates are exceptionally low, and visitors can feel entirely safe walking around the town at any hour. The primary risks involve the extreme Patagonian environment. The winds here are notoriously fierce, often strong enough to knock a person off balance or violently rip open a car door. When visiting the glacier, always stay on the marked steel walkways; chunks of ice regularly calve off the glacier and can cause massive, dangerous waves in the lake below. Ice trekking must only be done with licensed, professional guides.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 75,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "101", "medical": "107", "fire": "100" }
+    },
+    {
+        "id": "USH",
+        "countryId": "ARG",
+        "slug": "ushuaia",
+        "name": "Ushuaia",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/ushuaia.jpg",
+        "seoDescription": "Traveling to Ushuaia? Discover safety tips for the 'End of the World', from Antarctica cruise preparations to surviving unpredictable sub-polar weather.",
+        "touristAdvisory": "Ushuaia, marketed as the 'End of the World', is located in Tierra del Fuego and is highly secure. Crime is virtually non-existent, making it incredibly safe for solo travelers and those awaiting expedition cruises to Antarctica. The main threat to visitors is the severe, sub-polar climate. The weather is wildly unpredictable; a sunny day can turn into a freezing snowstorm within an hour, even in the middle of the austral summer (January). Tourists exploring Tierra del Fuego National Park or hiking to Laguna Esmeralda must wear proper waterproof layers, sturdy hiking boots, and carry emergency thermal gear. Hypothermia is a genuine risk for underprepared hikers.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 90,
+            "politicalStability": 75,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "101", "medical": "107", "fire": "100" }
+    },
+    {
+        "id": "IGR",
+        "countryId": "ARG",
+        "slug": "puerto-iguazu",
+        "name": "Puerto Iguazú",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/puerto-iguazu.jpg",
+        "seoDescription": "Is Puerto Iguazú safe? Read our guide on visiting the Argentine side of Iguazu Falls, managing tropical heat, and avoiding mosquito-borne diseases.",
+        "touristAdvisory": "Puerto Iguazú is the town bordering the magnificent Iguazu Falls on the Argentine side. It is a peaceful, tourist-oriented town that is much smaller and generally safer than its Brazilian counterpart (Foz do Iguaçu). Crime is very low, but tourists should watch their belongings in crowded areas near the bus terminal or the park entrance. The main dangers are biological and environmental. The subtropical climate brings extreme, oppressive heat and humidity; heat exhaustion and severe sunburn are common. Dengue fever is also a risk in this region, so applying strong mosquito repellent day and night is mandatory. Inside the National Park, never feed or touch the Coatis (raccoon-like animals); they have sharp teeth, carry diseases, and will aggressively steal food.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 60,
+            "politicalStability": 70,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "911", "medical": "107", "fire": "100" }
+    },
+    {
+        "id": "CAI",
+        "countryId": "EGY",
+        "slug": "cairo",
+        "name": "Cairo",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cairo.jpg",
+        "seoDescription": "Is Cairo safe for tourists? Discover safety tips for visiting the Pyramids of Giza, navigating chaotic traffic, and avoiding aggressive touts.",
+        "touristAdvisory": "Cairo is a massive, incredibly chaotic, and historic metropolis. Violent crime against tourists is extremely rare due to a heavy police presence, but the city requires immense patience and vigilance. At major sites like the Pyramids of Giza, tourists will face relentless, aggressive harassment from camel drivers, guides, and souvenir vendors; a firm 'La shukran' (No thank you) is required. Female travelers should dress very modestly (covering knees and shoulders) to mitigate frequent verbal harassment and unwanted staring. Traffic is notoriously dangerous with almost no pedestrian crossings; use Uber rather than street taxis. Health-wise, strictly drink bottled water and avoid raw salads to prevent severe food poisoning known locally as 'Pharaoh's Revenge'.",
+        "riskBreakdown": {
+            "crimeLevel": 55,
+            "healthEpidemic": 60,
+            "politicalStability": 50,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "122", "medical": "123", "fire": "180" }
+    },
+    {
+        "id": "LXR",
+        "countryId": "EGY",
+        "slug": "luxor",
+        "name": "Luxor",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/luxor.jpg",
+        "seoDescription": "Traveling to Luxor? Read our comprehensive safety guide covering the Valley of the Kings, avoiding aggressive carriage drivers, and extreme heat.",
+        "touristAdvisory": "Luxor is essentially an open-air museum, home to Karnak Temple and the Valley of the Kings. The city relies entirely on tourism, meaning the streets and monuments are heavily guarded by armed Tourist Police. However, the 'hassle factor' here is arguably the highest in Egypt. You will be constantly approached by horse carriage (calèche) drivers and boatmen demanding exorbitant prices or aggressive 'baksheesh' (tips). The most serious physical risk to tourists is the blistering climate. Summer temperatures can easily exceed 45°C (113°F). The Valley of the Kings offers almost zero shade, making heatstroke and severe dehydration a massive threat. Tours must be done in the very early morning, carrying copious amounts of water.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 65,
+            "politicalStability": 55,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "122", "medical": "123", "fire": "180" }
+    },
+    {
+        "id": "ASW",
+        "countryId": "EGY",
+        "slug": "aswan",
+        "name": "Aswan",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/aswan.jpg",
+        "seoDescription": "Is Aswan safe to visit? Learn about tourist safety in this relaxed Nile city, taking felucca boat rides, and traveling to Abu Simbel securely.",
+        "touristAdvisory": "Aswan, located in southern Egypt, is known for its beautiful stretch of the Nile and its strong Nubian culture. It is noticeably more relaxed, slower-paced, and generally safer than Cairo or Luxor. The local vendors are typically friendlier and less aggressive. Walking along the Corniche is safe, though standard haggling for felucca (sailboat) rides is required. Many tourists use Aswan as a base to visit the magnificent Abu Simbel temples near the Sudanese border. This journey requires a 3 to 4-hour drive through the desert; tourists must travel with approved tour operators, as the route is heavily secured by military checkpoints to ensure visitor safety in the border region.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 65,
+            "politicalStability": 60,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "122", "medical": "123", "fire": "180" }
+    },
+    {
+        "id": "SSH",
+        "countryId": "EGY",
+        "slug": "sharm-el-sheikh",
+        "name": "Sharm El-Sheikh",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/sharm-el-sheikh.jpg",
+        "seoDescription": "Sharm El-Sheikh safety guide. Navigate the Sinai Peninsula securely, enjoy the Red Sea resorts safely, and understand the heavy security perimeters.",
+        "touristAdvisory": "Sharm El-Sheikh is a premier Red Sea resort town located on the southern tip of the Sinai Peninsula. It is highly fortified, surrounded by a massive concrete security wall, and accessible only through strict military and police checkpoints. This creates an exceptionally safe 'bubble' for international tourists, where violent crime and even minor street harassment are virtually non-existent. Solo female travelers and families can feel very secure here. The primary risks are marine-related. The coral reefs are beautiful but razor-sharp, and tourists must adhere strictly to scuba diving limits. Note: While Sharm itself is highly secure, traveling outside the perimeter into the broader North Sinai region is strictly advised against due to terrorism risks.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 75,
+            "politicalStability": 50,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "122", "medical": "123", "fire": "180" }
+    },
+    {
+        "id": "HRG",
+        "countryId": "EGY",
+        "slug": "hurghada",
+        "name": "Hurghada",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/hurghada.jpg",
+        "seoDescription": "Is Hurghada safe for a beach holiday? Find out how to safely enjoy this Red Sea resort, from diving precautions to avoiding taxi scams.",
+        "touristAdvisory": "Hurghada is a massive beach resort stretching along Egypt's mainland Red Sea coast. Like Sharm El-Sheikh, it is heavily guarded and tailored specifically for international tourism, making it very safe. Inside the expansive resort complexes, security is absolute. If venturing into the town center (El Dahar or the Marina), tourists will encounter typical souvenir shop touts and should negotiate taxi fares before getting in, or better yet, use Uber. When booking snorkeling, dolphin watching, or diving excursions, ensure you are using a certified, highly reputable operator to guarantee boat safety and high-quality diving equipment, as standards can vary between local companies.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 70,
+            "politicalStability": 60,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "122", "medical": "123", "fire": "180" }
+    },
+    {
+        "id": "ALY",
+        "countryId": "EGY",
+        "slug": "alexandria",
+        "name": "Alexandria",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/alexandria.jpg",
+        "seoDescription": "Planning a trip to Alexandria? Discover safety tips for Egypt's Mediterranean city, from navigating the Corniche to dressing respectfully.",
+        "touristAdvisory": "Alexandria is Egypt's historic Mediterranean port city. It has a distinctly different, slightly more conservative atmosphere compared to Cairo or the Red Sea resorts. Walking along the famous Corniche and visiting the Bibliotheca Alexandrina is generally safe during the day. However, female travelers should dress particularly modestly here to avoid unwanted staring and verbal harassment, which is common. Pickpocketing can occur in the crowded central markets. Traffic along the coastal road is fast and highly dangerous for pedestrians. Furthermore, public beaches in Alexandria are heavily overcrowded and not recommended for tourists due to sanitation and modesty concerns; visitors should stick to private hotel beaches or beach clubs.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 65,
+            "politicalStability": 55,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "122", "medical": "123", "fire": "180" }
+    },
+    {
+        "id": "CPT",
+        "countryId": "ZAF",
+        "slug": "cape-town",
+        "name": "Cape Town",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cape-town.jpg",
+        "seoDescription": "Is Cape Town safe for tourists? Read our expert safety guide on navigating the Mother City safely, avoiding muggings on hiking trails, and transport tips.",
+        "touristAdvisory": "Cape Town is breathtakingly beautiful but heavily marked by inequality. Tourist hubs like the V&A Waterfront, Camps Bay, and Clifton are heavily patrolled by private security and are generally very safe during the day. However, tourists must be extremely cautious. Never walk anywhere at night, even for short distances; always use Uber. When hiking iconic routes like Table Mountain or Lion's Head, never hike alone or at dusk, as armed muggings on trails are a known issue. If renting a car, keep doors locked and windows rolled up at intersections to prevent 'smash-and-grab' thefts. Tourists should strictly avoid entering the Cape Flats or township areas without a highly reputable, organized tour guide.",
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 75,
+            "politicalStability": 65,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "10111", "medical": "10177", "fire": "10177" }
+    },
+    {
+        "id": "JNB",
+        "countryId": "ZAF",
+        "slug": "johannesburg",
+        "name": "Johannesburg",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/johannesburg.jpg",
+        "seoDescription": "Traveling to Johannesburg? Discover crucial safety tips for navigating South Africa's largest city, avoiding carjackings, and safe neighborhoods like Sandton.",
+        "touristAdvisory": "Johannesburg is South Africa's financial powerhouse but suffers from a notoriously high violent crime rate. Safety here depends entirely on location and logistics. Upscale, heavily secured suburbs like Sandton, Rosebank, and Melrose Arch are relatively safe for shopping and dining. However, tourists must strictly avoid the Central Business District (CBD), Hillbrow, and Berea, which are highly dangerous. Carjacking is a severe threat; if driving, always leave enough space between you and the car ahead at traffic lights to escape, and keep all valuables in the trunk. Never hail minibus taxis; rely exclusively on Uber or the highly secure Gautrain system for transit. Do not wear flashy jewelry or display expensive cameras.",
+        "riskBreakdown": {
+            "crimeLevel": 25,
+            "healthEpidemic": 70,
+            "politicalStability": 60,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "10111", "medical": "10177", "fire": "10177" }
+    },
+    {
+        "id": "DUR",
+        "countryId": "ZAF",
+        "slug": "durban",
+        "name": "Durban",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/durban.jpg",
+        "seoDescription": "Is Durban safe to visit? Learn about tourist safety in this coastal city, from navigating the Golden Mile to crucial ocean safety and rip current awareness.",
+        "touristAdvisory": "Durban is a vibrant coastal city known for its beaches and strong Indian cultural influence. The main tourist strip, the Golden Mile beachfront, has a strong police presence and is generally safe for daytime walking, surfing, and cycling. However, the nearby CBD can be gritty and is best avoided by tourists. Muggings and pickpocketing are significant risks; never leave belongings unattended on the beach and do not walk along the beachfront after dark. Ocean safety is paramount: the Indian Ocean here has powerful, dangerous rip currents. Swim only at beaches protected by shark nets and actively patrolled by lifeguards. The city has also experienced severe, destructive flooding in recent years during extreme weather events.",
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 65,
+            "politicalStability": 60,
+            "naturalDisaster": 55
+        },
+        "emergencyNumbers": { "police": "10111", "medical": "10177", "fire": "10177" }
+    },
+    {
+        "id": "PLZ",
+        "countryId": "ZAF",
+        "slug": "port-elizabeth",
+        "name": "Port Elizabeth",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/port-elizabeth.jpg",
+        "seoDescription": "Port Elizabeth (Gqeberha) safety guide for travelers. Find out how to safely explore the gateway to the Garden Route and malaria-free safari reserves.",
+        "touristAdvisory": "Port Elizabeth, recently renamed Gqeberha, is a major coastal hub and the gateway to the famous Garden Route and malaria-free Eastern Cape safari reserves. It is generally considered safer and more relaxed than Johannesburg or Durban, but visitors must not become complacent. Beachfront suburbs like Summerstrand are heavily frequented by tourists and are safe during the day. However, opportunistic crime is common. Tourists must be cautious of muggings on isolated stretches of beach and should never walk alone at night. Keep rental cars locked and stripped of any visible items to prevent break-ins. Like the rest of the country, be prepared for 'load shedding' (scheduled power cuts) which can disable traffic lights and street illumination.",
+        "riskBreakdown": {
+            "crimeLevel": 45,
+            "healthEpidemic": 75,
+            "politicalStability": 65,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "10111", "medical": "10177", "fire": "10177" }
+    },
+    {
+        "id": "PTA",
+        "countryId": "ZAF",
+        "slug": "pretoria",
+        "name": "Pretoria",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/pretoria.jpg",
+        "seoDescription": "Planning a trip to Pretoria? Read our tourist safety guide for South Africa's administrative capital, covering safe neighborhoods and transport advice.",
+        "touristAdvisory": "Pretoria is South Africa's administrative capital. While it is quieter than neighboring Johannesburg, it shares many of the same security challenges. Affluent eastern suburbs like Brooklyn, Waterkloof, and the area around the Union Buildings are relatively safe to visit during daylight hours. However, the city center and the Sunnyside neighborhood struggle with high rates of violent crime, muggings, and drug-related issues; these areas should be avoided by tourists. If traveling between Pretoria and O.R. Tambo International Airport, the Gautrain is the safest, most reliable option. When driving, keep doors locked to prevent smash-and-grabs, especially at highway off-ramps.",
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 70,
+            "politicalStability": 65,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "10111", "medical": "10177", "fire": "10177" }
+    },
+    {
+        "id": "MQP",
+        "countryId": "ZAF",
+        "slug": "nelspruit",
+        "name": "Nelspruit",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/nelspruit.jpg",
+        "seoDescription": "Is Nelspruit safe for a safari holiday? Discover safety tips for the Kruger National Park gateway, focusing on wildlife hazards and malaria prevention.",
+        "touristAdvisory": "Nelspruit (Mbombela) is the primary urban gateway to the world-renowned Kruger National Park. The town itself has moderate levels of opportunistic property crime, so keep vehicles locked and valuables hidden. The true risks for tourists in this region are environmental and biological. Inside Kruger and surrounding private reserves, wildlife safety is an absolute matter of life and death: never exit your vehicle outside of designated, fenced rest camps, and always maintain a respectful distance from elephants and rhinos, which can easily flip cars if provoked. Furthermore, the lowveld region is a high-risk Malaria zone, especially during the wet summer months (September to May). Taking anti-malarial prophylaxis and using heavy DEET insect repellent is strongly advised.",
+        "riskBreakdown": {
+            "crimeLevel": 50,
+            "healthEpidemic": 45,
+            "politicalStability": 65,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "10111", "medical": "10177", "fire": "10177" }
+    },
+    {
+        "id": "KBL",
+        "countryId": "AFG",
+        "slug": "kabul",
+        "name": "Kabul",
+        "safetyStatus": "danger",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/kabul.jpg",
+        "seoDescription": "Travel safety guide for Kabul. Understand the extreme risks of visiting Afghanistan's capital, including terrorism, arbitrary detention, and strict laws.",
+        "touristAdvisory": "Kabul is the primary entry point for the small number of intrepid tourists visiting Afghanistan. However, international governments strictly advise against all travel here. Foreigners face a severe, ongoing risk of kidnapping, arbitrary detention by local authorities, and collateral damage from terrorist attacks (particularly by ISIS-K) targeting mosques, checkpoints, and foreign-frequented areas. If detained, your home country will likely be unable to provide any consular assistance. You must travel with a government-approved local fixer/guide. Navigating the city involves countless armed checkpoints; never photograph military personnel, government buildings, or checkpoints without explicit permission. Strict Islamic dress codes must be adhered to at all times.",
+        "riskBreakdown": {
+            "crimeLevel": 15,
+            "healthEpidemic": 25,
+            "politicalStability": 15,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "119", "medical": "112", "fire": "119" }
+    },
+    {
+        "id": "BIN",
+        "countryId": "AFG",
+        "slug": "bamiyan",
+        "name": "Bamiyan",
+        "safetyStatus": "danger",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/bamiyan.jpg",
+        "seoDescription": "Is Bamiyan safe for tourists? Learn about visiting the Buddha niches and Band-e Amir, one of the relatively more secure regions in Afghanistan.",
+        "touristAdvisory": "Bamiyan, famous for the destroyed Buddha statues and Band-e-Amir National Park, is historically one of the most peaceful and safest provinces in Afghanistan. It is a hub for the Hazara ethnic minority. While the immediate threat of terrorism is lower here than in Kabul or Kandahar, the region is still governed by the same strict national authorities, and the risk of arbitrary detention remains. The primary physical risk for tourists exploring the ruins or hiking the surrounding valleys is unexploded ordnance (UXO) and landmines left over from decades of conflict. Never walk off clearly marked paths or roads. Medical infrastructure here is extremely basic.",
+        "riskBreakdown": {
+            "crimeLevel": 35,
+            "healthEpidemic": 20,
+            "politicalStability": 25,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "119", "medical": "112", "fire": "119" }
+    },
+    {
+        "id": "HEA",
+        "countryId": "AFG",
+        "slug": "herat",
+        "name": "Herat",
+        "safetyStatus": "danger",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/herat.jpg",
+        "seoDescription": "Safety advice for Herat, Afghanistan. Discover the risks of visiting this historic western city, strict cultural norms, and security checkpoints.",
+        "touristAdvisory": "Herat is an ancient city in western Afghanistan near the Iranian border, known for its rich Persian-influenced architecture like the Friday Mosque and the Citadel. While petty street crime (like muggings) is exceptionally low due to the harsh penalties imposed by the ruling authorities, the environment for foreigners remains highly volatile. Tourists must secure numerous permits from local ministries just to move between cities. The city is deeply conservative; female travelers face immense restrictions and generally cannot travel without a male chaperone (Mahram) and full hijab/burqa. Earthquakes are also a significant natural risk in this western region.",
+        "riskBreakdown": {
+            "crimeLevel": 20,
+            "healthEpidemic": 25,
+            "politicalStability": 20,
+            "naturalDisaster": 35
+        },
+        "emergencyNumbers": { "police": "119", "medical": "112", "fire": "119" }
+    },
+    {
+        "id": "MZR",
+        "countryId": "AFG",
+        "slug": "mazar-i-sharif",
+        "name": "Mazar-i-Sharif",
+        "safetyStatus": "danger",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/mazar-i-sharif.jpg",
+        "seoDescription": "Planning to visit Mazar-i-Sharif? Read our vital safety guide for navigating northern Afghanistan and the famous Shrine of Hazrat Ali.",
+        "touristAdvisory": "Mazar-i-Sharif is the commercial and cultural hub of northern Afghanistan, famous for the stunning Blue Mosque (Shrine of Hazrat Ali). Historically, it was one of the more cosmopolitan cities in the country. Today, visitors face intense scrutiny from local intelligence and security forces. There is a persistent threat of sporadic attacks by rival insurgent groups targeting both the authorities and minority communities in the northern provinces. Overland travel to and from Mazar-i-Sharif via the Salang Pass is incredibly dangerous due to poorly maintained roads, erratic driving, and the high risk of fatal avalanches or landslides during the winter and spring.",
+        "riskBreakdown": {
+            "crimeLevel": 20,
+            "healthEpidemic": 25,
+            "politicalStability": 20,
+            "naturalDisaster": 30
+        },
+        "emergencyNumbers": { "police": "119", "medical": "112", "fire": "119" }
+    },
+    {
+        "id": "KDH",
+        "countryId": "AFG",
+        "slug": "kandahar",
+        "name": "Kandahar",
+        "safetyStatus": "danger",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/kandahar.jpg",
+        "seoDescription": "Safety guide for Kandahar. Understand the extreme precautions required when visiting the highly conservative, spiritual heartland of the country.",
+        "touristAdvisory": "Kandahar is the spiritual birthplace and political heartland of the Taliban. It is arguably the most culturally conservative major city in Afghanistan. For the rare tourist permitted to visit, extreme caution and total compliance with local laws are absolute requirements. Foreigners draw intense suspicion here. Photography of almost any kind—especially of people, women, government buildings, or public infrastructure—can lead to immediate arrest and interrogation as a suspected spy. There is virtually no tolerance for any deviation from strict Islamic dress codes and behavior. Moving around the city without a highly connected, locally respected Afghan guide is impossible and dangerous.",
+        "riskBreakdown": {
+            "crimeLevel": 15,
+            "healthEpidemic": 20,
+            "politicalStability": 15,
+            "naturalDisaster": 40
+        },
+        "emergencyNumbers": { "police": "119", "medical": "112", "fire": "119" }
+    },
+    {
+        "id": "FBD",
+        "countryId": "AFG",
+        "slug": "faizabad",
+        "name": "Faizabad",
+        "safetyStatus": "danger",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/faizabad.jpg",
+        "seoDescription": "Is the Wakhan Corridor safe? Learn about the extreme remoteness, lack of medical facilities, and alpine hazards in Afghanistan's Badakhshan province.",
+        "touristAdvisory": "Faizabad is the capital of the remote Badakhshan province and the primary staging ground for expeditions into the Wakhan Corridor. This region attracts extreme adventure tourists for mountaineering. Due to its sheer geographical isolation, the Wakhan Corridor has historically avoided the worst of the country's armed conflicts. The primary threats here are entirely environmental and logistical. The region is a 'medical black hole' with zero access to modern healthcare or emergency rescue services; a severe injury, altitude sickness, or appendicitis here can easily be fatal. The rugged terrain is prone to devastating flash floods, avalanches, and impassable roads for months at a time during the winter.",
+        "riskBreakdown": {
+            "crimeLevel": 40,
+            "healthEpidemic": 10,
+            "politicalStability": 25,
+            "naturalDisaster": 20
+        },
+        "emergencyNumbers": { "police": "119", "medical": "112", "fire": "119" }
+    },
+    {
+        "id": "LIS",
+        "countryId": "PRT",
+        "slug": "lisbon",
+        "name": "Lisbon",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/lisbon.jpg",
+        "seoDescription": "Is Lisbon safe for tourists? Discover safety tips for Portugal's capital, from navigating the tram network to avoiding pickpockets in Baixa and Alfama.",
+        "touristAdvisory": "Lisbon is one of Europe's safest capitals, but its booming tourism has brought a surge in petty crime. Highly skilled pickpockets operate on crowded public transport (especially the famous Tram 28) and in busy tourist hubs like Baixa, Chiado, and Alfama. A very common annoyance is the 'fake drug dealer' scam in Praça do Comércio or Bairro Alto, where men aggressively offer to sell drugs (which are usually just culinary herbs); simply ignore them and keep walking. The city is built on seven steep hills paved with traditional cobblestones (calçada portuguesa) that become incredibly slippery when wet, so sensible footwear with good grip is essential to avoid twisted ankles.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "OPO",
+        "countryId": "PRT",
+        "slug": "porto",
+        "name": "Porto",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/porto.jpg",
+        "seoDescription": "Traveling to Porto? Read our tourist safety guide for navigating the steep streets of Ribeira, enjoying the port wine cellars, and general transport tips.",
+        "touristAdvisory": "Porto is highly welcoming and generally very safe for tourists. The historic Ribeira district along the Douro River is heavily patrolled and secure to wander around at all hours. Violent crime is rare, but standard precautions against pickpocketing should be taken in crowded areas like the São Bento train station, the bustling Rua de Santa Catarina, and the Dom Luís I Bridge. The city's topography is very steep, and the ancient staircases and uneven cobblestones can be treacherous in the rain. The nightlife around the Clérigos and Galerias de Paris is vibrant and heavily populated, making it safe, though it can get rowdy with late-night revelers on weekends.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "FAO",
+        "countryId": "PRT",
+        "slug": "faro",
+        "name": "Faro",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/faro.jpg",
+        "seoDescription": "Is the Algarve safe for a beach holiday? Find out how to safely enjoy southern Portugal, focusing on ocean rip currents, cliff safety, and summer heat.",
+        "touristAdvisory": "Faro and the wider Algarve region represent Portugal's premier beach destination. It is an exceptionally safe region, heavily favored by families and retirees. The main risks here are environmental and physical. The stunning golden limestone cliffs that define the coastline are highly unstable and prone to sudden, unprovoked rockfalls; never sit directly underneath them on the beach or walk too close to the edge on top. The Atlantic Ocean can have deceptively strong rip currents, so always swim at lifeguarded beaches and respect the colored warning flags. During the peak summer months, severe inland forest fires and extreme heat are significant hazards.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "FNC",
+        "countryId": "PRT",
+        "slug": "funchal",
+        "name": "Funchal",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/funchal.jpg",
+        "seoDescription": "Funchal safety guide for travelers. Discover how to safely explore the island of Madeira, including Levada walk precautions and driving on steep roads.",
+        "touristAdvisory": "Funchal, the capital of the Madeira archipelago, boasts an incredibly low crime rate and is exceptionally safe for tourists. The island's challenges are almost entirely geographical. Madeira is famously mountainous; driving a rental car requires extreme confidence, as local roads are notoriously steep, narrow, and winding. The island is renowned for its 'Levada' walking trails (ancient irrigation channels). Hikers must be well-prepared, stick strictly to official paths, and carry flashlights for the tunnels, as sudden mountain mists can reduce visibility to zero and some paths feature sheer, unfenced drops. The region is also occasionally susceptible to summer wildfires and heavy winter rains that cause landslides.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "PDL",
+        "countryId": "PRT",
+        "slug": "ponta-delgada",
+        "name": "Ponta Delgada",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/ponta-delgada.jpg",
+        "seoDescription": "Is Ponta Delgada safe to visit? Learn about tourist safety in the Azores, from navigating unpredictable Atlantic weather to hiking volcano trails securely.",
+        "touristAdvisory": "Ponta Delgada, located on the island of São Miguel, is the gateway to the Azores. Crime here is almost non-existent, making it a perfectly safe haven for solo travelers and nature enthusiasts. The true threat in the Azores is the highly unpredictable mid-Atlantic weather, where you can easily experience 'four seasons in a day'. Rapidly changing conditions can leave hikers stranded in thick fog, heavy rain, or high winds, particularly around the famous crater lakes of Sete Cidades and Lagoa do Fogo. Always check the official 'SpotAzores' webcams before setting out. The archipelago is also located on active fault lines, making minor seismic activity relatively common.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 60
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "COI",
+        "countryId": "PRT",
+        "slug": "coimbra",
+        "name": "Coimbra",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/coimbra.jpg",
+        "seoDescription": "Planning a trip to Coimbra? Read our safety guide for exploring Portugal's historic university city securely and navigating the steep historic center.",
+        "touristAdvisory": "Coimbra, home to one of Europe's oldest and most prestigious universities, is a vibrant student city with a remarkably relaxed and safe atmosphere. Violent crime is extremely rare. The historic center, situated on a steep hill leading up to the university, is safe to explore day and night. During the academic festivals, particularly the 'Queima das Fitas' in May, the city is flooded with partying students; while the environment is joyous and heavily policed, the massive crowds create a prime opportunity for opportunistic pickpockets. Like Lisbon and Porto, the polished cobblestone streets are notoriously slippery, especially the famous 'Quebra Costas' (Backbreaker) stairs.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "AMS",
+        "countryId": "NLD",
+        "slug": "amsterdam",
+        "name": "Amsterdam",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/amsterdam.jpg",
+        "seoDescription": "Is Amsterdam safe for tourists? Discover safety tips for navigating the Red Light District, avoiding aggressive street dealers, and surviving the busy bike lanes.",
+        "touristAdvisory": "Amsterdam is a remarkably safe global city, but its dense, tourist-heavy center requires vigilance. The greatest physical danger to tourists is the bicycle traffic. Never walk in the reddish-colored bike lanes, and always look both ways before crossing, as cyclists ride fast and have the right of way. In the city center, particularly around Dam Square and the Red Light District (De Wallen), pickpockets are highly active. Tourists will frequently be approached by 'whisperers' offering to sell hard drugs; absolutely ignore them and keep walking, as they sell dangerous, fake substances, and buying street drugs is illegal. While the canals are beautiful, they lack railings; be extremely careful walking near the water's edge at night, especially if consuming alcohol.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "RTM",
+        "countryId": "NLD",
+        "slug": "rotterdam",
+        "name": "Rotterdam",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/rotterdam.jpg",
+        "seoDescription": "Traveling to Rotterdam? Read our comprehensive safety guide for exploring the Netherlands' modern architectural hub and navigating the bustling port city.",
+        "touristAdvisory": "Rotterdam is distinctively modern and spacious compared to other Dutch cities, and it is very safe for visitors. Popular areas like the Markthal, Cube Houses, and Witte de Withstraat (famous for its nightlife) are heavily monitored and secure to explore at all hours. Standard urban precautions apply: watch out for minor pickpocketing around Rotterdam Centraal station and the busy shopping district of Lijnbaan. While Rotterdam Zuid (South) historically had a rougher reputation, it has been heavily gentrified and is safe for tourists visiting Ahoy or the Fenix Food Factory. The city is heavily protected against North Sea flooding by the massive Maeslantkering storm surge barrier.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "HAG",
+        "countryId": "NLD",
+        "slug": "the-hague",
+        "name": "The Hague",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/the-hague.jpg",
+        "seoDescription": "Is The Hague safe to visit? Learn about tourist safety in the Dutch political capital, visiting Scheveningen beach, and dealing with aggressive seagulls.",
+        "touristAdvisory": "The Hague (Den Haag) is the political center of the Netherlands and home to the Dutch Royal Family, making it heavily policed, highly secure, and very calm. The historic center around the Binnenhof and the Mauritshuis is completely safe for pedestrians. In the summer, millions of tourists flock to the city's coastal district, Scheveningen. While the beach is very safe, the massive crowds attract opportunistic pickpockets. A unique and genuine annoyance in Scheveningen is the aggressive population of seagulls; they are known to physically dive-bomb tourists to snatch food directly from their hands, so eat under umbrellas or indoors if possible.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "UTC",
+        "countryId": "NLD",
+        "slug": "utrecht",
+        "name": "Utrecht",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/utrecht.jpg",
+        "seoDescription": "Utrecht safety guide for travelers. Discover how to safely navigate the unique two-level canals and handle the massive volume of bicycle traffic.",
+        "touristAdvisory": "Utrecht is a vibrant, historic university city often described as a more relaxed, less crowded alternative to Amsterdam. Violent crime is extremely rare. The city is famous for its unique two-level canals, where restaurants sit directly at the water level. The steps down to these wharves are ancient, steep, and can be very slippery when wet or covered in autumn leaves, requiring careful footing. Utrecht Centraal is the busiest train station in the country, and the immediate surrounding area has a staggering volume of bicycle traffic; pedestrians must be hyper-aware of cyclists at all intersections and tram crossings.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "MST",
+        "countryId": "NLD",
+        "slug": "maastricht",
+        "name": "Maastricht",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/maastricht.jpg",
+        "seoDescription": "Planning a trip to Maastricht? Read our tourist safety guide for this southern, historic city known for its beautiful squares and safe environment.",
+        "touristAdvisory": "Located in the southernmost tip of the Netherlands, Maastricht is a highly affluent, international university city with a very different, slightly hilly geography compared to the rest of the country. It is exceptionally safe. Exploring the Vrijthof square, the historic cobblestone streets, and the ancient city walls is entirely secure at any hour. The most notable hazards are physical: the ancient cobblestones can be uneven and treacherous in the rain. Because it borders both Belgium and Germany, the city can become extremely crowded with cross-border shoppers on weekends, creating minor opportunities for pickpockets, but overall risk remains very low.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "EIN",
+        "countryId": "NLD",
+        "slug": "eindhoven",
+        "name": "Eindhoven",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/eindhoven.jpg",
+        "seoDescription": "Is Eindhoven safe for a city break? Find out how to safely enjoy the Dutch design and tech capital, including advice on navigating its massive nightlife district.",
+        "touristAdvisory": "Eindhoven is the technology and design capital of the Netherlands, boasting a modern, very safe, and clean environment. Crime rates are low, and the city is highly pedestrian-friendly. The main safety consideration involves its nightlife. Eindhoven is home to Stratumseind, which holds the record as the longest continuous pub street in the Netherlands. While heavily policed and generally safe, it gets intensely crowded with students and locals late on Friday and Saturday nights. Visitors should be aware of alcohol-fueled rowdiness and minor scuffles in the early morning hours. Otherwise, navigating the city, even at night, is highly secure.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "BRU",
+        "countryId": "BEL",
+        "slug": "brussels",
+        "name": "Brussels",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/brussels.jpg",
+        "seoDescription": "Is Brussels safe for tourists? Read our expert safety guide on navigating the EU capital, avoiding pickpockets at Gare du Midi, and protest awareness.",
+        "touristAdvisory": "Brussels is the bustling capital of Belgium and the European Union. While the stunning Grand-Place, Sablon, and the European Quarter are heavily policed and generally safe, petty crime is a significant issue. Tourists must be hyper-vigilant regarding their luggage and wallets in and around major train stations, particularly Gare du Midi (Brussels-South) and Gare du Nord, where pickpockets and bag-snatchers are highly active. Avoid lingering in the immediate vicinity of these stations late at night. Because it is the EU headquarters, Brussels frequently hosts large-scale political protests and agricultural strikes that can shut down public transport and major roads, so monitoring local news is advised.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 85,
+            "politicalStability": 75,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "101", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "BRG",
+        "countryId": "BEL",
+        "slug": "bruges",
+        "name": "Bruges",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/bruges.jpg",
+        "seoDescription": "Traveling to Bruges? Discover how to safely explore this fairytale medieval city, handle the massive tourist crowds, and navigate the cobblestones.",
+        "touristAdvisory": "Bruges (Brugge) is famously preserved as a medieval fairytale city and is exceptionally safe. Violent crime is virtually non-existent here. The entire historic center is a UNESCO World Heritage site and is highly secure to walk around at any hour. The primary issues for tourists are caused by overtourism. During the summer and the Christmas market season, the narrow streets become overwhelmingly crowded, creating a prime environment for opportunistic pickpockets. Physically, the ancient, uneven cobblestone streets are notorious for causing tripped ankles, especially in wet weather, and pedestrians must constantly watch out for speeding local cyclists and horse-drawn carriages.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "101", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "ANR",
+        "countryId": "BEL",
+        "slug": "antwerp",
+        "name": "Antwerp",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/antwerp.jpg",
+        "seoDescription": "Antwerp safety guide for travelers. Navigate the Diamond District securely, understand the local bike traffic, and safely enjoy the fashion capital.",
+        "touristAdvisory": "Antwerp is Belgium's trendiest city, famous for its fashion, massive port, and as the global center for diamond trading. It is generally very safe for tourists. The Diamond District, located right next to the stunning Antwerpen-Centraal railway station, is arguably one of the most heavily surveilled and secure neighborhoods in Europe. The city's red-light district (Schipperskwartier) is strictly regulated and pedestrianized, making it safer than equivalents in other countries, though standard caution applies late at night. The biggest daily hazard for tourists is wandering blindly into the dedicated bicycle lanes—Antwerp locals cycle fast, and pedestrians do not have the right of way in a bike lane.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 90,
+            "politicalStability": 85,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "101", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "GNE",
+        "countryId": "BEL",
+        "slug": "ghent",
+        "name": "Ghent",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/ghent.jpg",
+        "seoDescription": "Is Ghent safe to visit? Learn about tourist safety in this vibrant medieval university city, dealing with the tram network, and student nightlife.",
+        "touristAdvisory": "Ghent (Gent) strikes a perfect balance between medieval history and a vibrant, youthful atmosphere due to its massive student population. The city boasts one of the largest car-free pedestrian zones in Europe, making walking incredibly safe and pleasant. Crime targeting tourists is very rare. The main hazard in the historic center is the tram network; the tracks run directly through pedestrian areas, and getting a bicycle tire or high heel caught in the tracks is a common cause of injury. Late at night, the Overpoort area can become incredibly rowdy with heavily intoxicated university students, though the atmosphere is generally boisterous rather than dangerous.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "101", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "LGG",
+        "countryId": "BEL",
+        "slug": "liege",
+        "name": "Liège",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/liege.jpg",
+        "seoDescription": "Planning a trip to Liège? Read our safety guide for navigating this gritty Walloon city, securing valuables at the train station, and nightlife warnings.",
+        "touristAdvisory": "Liège is the cultural hub of Wallonia (French-speaking Belgium) with a rich industrial history. It has a slightly grittier, rougher edge compared to the Flemish tourist cities. While the historic center and the iconic Montagne de Bueren stairs are safe to explore during the day, tourists should exercise heightened caution around the spectacular Liège-Guillemins train station, which attracts loiterers and pickpockets. Liège is also famous for 'Le Carré', a dense grid of alleys packed with bars. On weekends, this area becomes ground zero for extreme binge drinking and rowdy behavior; while heavily policed, it can feel intimidating late at night and requires situational awareness.",
+        "riskBreakdown": {
+            "crimeLevel": 65,
+            "healthEpidemic": 85,
+            "politicalStability": 80,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "101", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "LEU",
+        "countryId": "BEL",
+        "slug": "leuven",
+        "name": "Leuven",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/leuven.jpg",
+        "seoDescription": "Is Leuven safe for a city break? Find out how to safely enjoy Belgium's premier university town and the famous Oude Markt nightlife.",
+        "touristAdvisory": "Leuven is a highly picturesque, affluent city that hosts the oldest and largest university in the Low Countries. It is exceptionally safe, with violent crime almost unheard of. The city is essentially ruled by bicycles, so tourists must always look both ways before crossing the street. The heart of the city is the Oude Markt, famously dubbed 'the longest bar in Europe' due to its continuous row of pubs. While the atmosphere is incredibly welcoming and fun, visitors should be prepared for large crowds of loud, intoxicated students on Thursday and Friday nights. The primary risk here is simply losing your belongings after a long night of enjoying the local Belgian beers.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "101", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "LUX",
+        "countryId": "LUX",
+        "slug": "luxembourg-city",
+        "name": "Luxembourg City",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/luxembourg-city.jpg",
+        "seoDescription": "Is Luxembourg City safe for tourists? Read our safety guide for Europe's wealthiest capital, navigating the multi-level topography, and the free transit system.",
+        "touristAdvisory": "Luxembourg City is one of the safest capitals in Europe and the world. Violent crime is exceedingly rare. As a major perk, all public transport (trains, trams, and buses) is completely free nationwide, making it incredibly easy to navigate. Tourists should exercise standard urban caution against minor pickpocketing around the central train station (Gare Centrale) and the adjacent Bonnevoie neighborhood late at night, which can occasionally attract loiterers. The city is built on deep gorges; moving between the upper city (Ville Haute) and lower city (Grund) requires using steep ancient staircases or public elevators (like the Pfaffenthal lift). Sensible, flat walking shoes are an absolute necessity on the cobblestones.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 90
+        },
+        "emergencyNumbers": { "police": "113", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "DUB",
+        "countryId": "IRL",
+        "slug": "dublin",
+        "name": "Dublin",
+        "safetyStatus": "caution",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/dublin.jpg",
+        "seoDescription": "Is Dublin safe for tourists? Discover safety tips for navigating Temple Bar, avoiding anti-social behavior, and enjoying the Irish capital securely.",
+        "touristAdvisory": "Dublin is a friendly and vibrant capital, but visitors should exercise heightened caution in the city center. Recently, there has been an increase in anti-social behavior and opportunistic petty crime, particularly involving groups of youths around O'Connell Street, Talbot Street, and the boardwalks along the River Liffey at night. The famous Temple Bar area is heavily policed and generally safe, but its extremely crowded, alcohol-fueled environment makes it a prime hotspot for pickpockets. Stay vigilant after dark and use official taxis (via the FreeNow app) rather than walking through poorly lit or unfamiliar areas. Also, remember that traffic drives on the left; always look right before crossing the street.",
+        "riskBreakdown": {
+            "crimeLevel": 60,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "GWY",
+        "countryId": "IRL",
+        "slug": "galway",
+        "name": "Galway",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/galway.jpg",
+        "seoDescription": "Traveling to Galway? Read our comprehensive safety guide covering the vibrant Latin Quarter, pub culture, and Atlantic weather hazards.",
+        "touristAdvisory": "Galway, the cultural heart of Ireland's west coast, is incredibly welcoming and generally very safe for tourists. The bustling pedestrianized streets of the Latin Quarter and Eyre Square are highly secure, filled with buskers and tourists day and night. The main safety considerations are related to alcohol and nature. The pub culture is lively, so standard late-night awareness applies to avoid rowdy crowds on weekends. Environmentally, the city is perched on the edge of the Atlantic Ocean; the weather can be intensely windy and wet. If taking day trips to the nearby Cliffs of Moher or the Aran Islands, stay well back from cliff edges, as sudden, violent wind gusts can literally blow individuals off balance.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "ORK",
+        "countryId": "IRL",
+        "slug": "cork",
+        "name": "Cork",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/cork.jpg",
+        "seoDescription": "Is Cork safe to visit? Learn about tourist safety in Ireland's culinary capital, navigating the River Lee's bridges, and general travel tips.",
+        "touristAdvisory": "Cork is Ireland's second-largest city and is renowned for its culinary scene and fiercely proud locals. It is a very safe city for tourists. Exploring the English Market, St. Patrick's Street, and the historic Shandon neighborhood is secure at all hours. Violent crime is rare, though minor pickpocketing can occasionally happen in dense crowds during festivals. The city is built around the intersecting channels of the River Lee, meaning there are many bridges and waterfronts; take care when walking near the river at night, especially after visiting the local pubs. The weather is famously unpredictable, bringing frequent, sudden rain showers, so always carry a waterproof jacket.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "KIR",
+        "countryId": "IRL",
+        "slug": "killarney",
+        "name": "Killarney",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/killarney.jpg",
+        "seoDescription": "Planning a trip to Killarney? Discover crucial safety tips for driving the Ring of Kerry, navigating narrow country roads, and exploring the National Park.",
+        "touristAdvisory": "Killarney is the premier gateway to Killarney National Park and the world-famous Ring of Kerry. The town itself is entirely focused on tourism and is exceptionally safe, with virtually no violent crime. The primary hazards here are related to transport and outdoor activities. Driving the Ring of Kerry is stunning but can be highly stressful; the rural roads are notoriously narrow, winding, and shared with massive tour buses, wandering sheep, and cyclists. Drivers unaccustomed to driving on the left side of the road must be hyper-vigilant. When hiking or cycling in the National Park, dress in proper waterproof layers, as the Kerry weather changes rapidly from bright sunshine to freezing downpours.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "KKY",
+        "countryId": "IRL",
+        "slug": "kilkenny",
+        "name": "Kilkenny",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/kilkenny.jpg",
+        "seoDescription": "Kilkenny safety guide for travelers. Find out how to safely explore this medieval city, its famous castle, and enjoy its vibrant weekend nightlife.",
+        "touristAdvisory": "Kilkenny is a beautifully preserved medieval city and a massive draw for tourists exploring Ireland's Ancient East. It is very safe, retaining a tight-knit, welcoming community feel. Walking the 'Medieval Mile' between Kilkenny Castle and St. Canice's Cathedral is secure and highly pedestrian-friendly. However, the city is also a massively popular destination for domestic weekend getaways and 'hen/stag' (bachelor/bachelorette) parties. As a result, the pubs and streets can become extremely loud and heavily intoxicated on Friday and Saturday nights. While the atmosphere is almost always good-natured and heavily policed, tourists should be prepared for rowdy crowds and occasional alcohol-fueled scuffles late at night.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "LMK",
+        "countryId": "IRL",
+        "slug": "limerick",
+        "name": "Limerick",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/limerick.jpg",
+        "seoDescription": "Is Limerick safe for a city break? Find out how to safely enjoy this historic Shannon River city, visit King John's Castle, and avoid petty crime.",
+        "touristAdvisory": "Limerick has undergone massive regeneration in recent years, shedding its old, rougher reputation to become a fantastic, culturally rich tourist destination. The city center, the medieval King John's Castle, and the scenic walks along the River Shannon are safe and very welcoming during the day. However, tourists should still exercise standard urban precautions. Avoid walking alone late at night in poorly lit areas or through unfamiliar residential estates on the outskirts of the city, as opportunistic petty crime can occur. The pedestrian bridges over the Shannon are beautiful but can be dangerously slippery during frosty winter mornings or heavy rain.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 90,
+            "politicalStability": 90,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "OSL",
+        "countryId": "NOR",
+        "slug": "oslo",
+        "name": "Oslo",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/oslo.jpg",
+        "seoDescription": "Is Oslo safe for tourists? Discover safety tips for Norway's capital, navigating winter ice, and avoiding minor petty crime around the central station.",
+        "touristAdvisory": "Oslo is a highly modern, peaceful, and exceptionally safe capital city. Violent crime is extremely rare. Tourists can walk almost anywhere, including popular areas like Aker Brygge, the Opera House, and the Vigeland Sculpture Park, with total peace of mind. The only minor urban nuisance is occasional pickpocketing or low-level drug activity late at night in the immediate vicinity of Oslo Central Station (Oslo S) and the Grønland neighborhood, but even this poses little physical threat. The main hazard in Oslo is the winter weather. Between November and March, sidewalks and streets can become coated in 'holke' (thick, incredibly slippery black ice). Wearing shoes with strong grip or attachable spikes (brodder) is essential to avoid severe falls.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
+    },
+    {
+        "id": "BGO",
+        "countryId": "NOR",
+        "slug": "bergen",
+        "name": "Bergen",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/bergen.jpg",
+        "seoDescription": "Traveling to Bergen? Read our tourist safety guide for the 'Gateway to the Fjords', covering extreme rainfall, slippery cobblestones, and hiking precautions.",
+        "touristAdvisory": "Bergen is famously known as the 'Gateway to the Fjords' and is one of the safest cities in Europe. The historic Bryggen wharf and the fish market are highly secure. Bergen's primary challenge is its climate: it is the rainiest city in Europe, experiencing precipitation for over 200 days a year. The ancient wooden boardwalks and cobblestone streets become dangerously slippery when wet or icy. Bergen is surrounded by seven mountains, and riding the Fløibanen funicular or hiking up Mount Ulriken is very popular. However, hikers must never underestimate the coastal weather, which can shift from sunny to a freezing, blinding rainstorm in minutes; always carry waterproof layers and a fully charged phone.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
+    },
+    {
+        "id": "TOS",
+        "countryId": "NOR",
+        "slug": "tromso",
+        "name": "Tromsø",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/tromso.jpg",
+        "seoDescription": "Is Tromsø safe for a winter holiday? Find out how to safely enjoy the Arctic capital, from extreme cold weather survival to safe Northern Lights hunting.",
+        "touristAdvisory": "Tromsø is located well above the Arctic Circle and is the premier destination for viewing the Northern Lights. Crime is virtually non-existent, making it incredibly safe for all travelers. The threats here are entirely environmental. The extreme Arctic winter brings 'Polar Nights' (weeks with zero sunlight) and temperatures that can plummet to bone-chilling depths. Frostbite and hypothermia are real risks if you are not dressed in proper, insulated expedition-grade layers. When booking Northern Lights 'chasing' tours, ensure the driver is highly experienced with Arctic roads, as driving conditions involve zero visibility snowstorms, massive snowbanks, and pure ice. Do not attempt to rent a car and hunt the aurora yourself unless you have extensive winter driving experience.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
+    },
+    {
+        "id": "SVG",
+        "countryId": "NOR",
+        "slug": "stavanger",
+        "name": "Stavanger",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/stavanger.jpg",
+        "seoDescription": "Stavanger safety guide for travelers. Navigate the city safely and learn crucial survival advice for hiking the massive, unfenced Preikestolen and Kjeragbolten cliffs.",
+        "touristAdvisory": "Stavanger is a wealthy, peaceful oil-hub city that serves as the basecamp for two of Norway's most famous and spectacular hikes: Preikestolen (Pulpit Rock) and Kjeragbolten. The city itself is exceedingly safe. The massive risk lies on the hiking trails. Every year, local rescue services have to save hundreds of tourists who attempt these grueling mountain hikes wearing urban sneakers, jeans, and carrying no food or water. The cliffs feature sheer 600-meter drops with absolutely no safety fences. Strong wind gusts can easily throw you off balance. You must wear professional hiking boots, carry survival gear, check the weather forecast obsessively, and never stand near the cliff edge for a photograph.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
+    },
+    {
+        "id": "TRD",
+        "countryId": "NOR",
+        "slug": "trondheim",
+        "name": "Trondheim",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/trondheim.jpg",
+        "seoDescription": "Planning a trip to Trondheim? Read our safety guide for exploring Norway's historic capital securely, navigating its cycling infrastructure, and winter conditions.",
+        "touristAdvisory": "Trondheim is Norway's historical capital and a major university city. It boasts a very youthful, relaxed, and incredibly safe atmosphere. Walking around the spectacular Nidaros Cathedral, the Bakklandet neighborhood, and the Old Town Bridge is safe at any hour. Due to the large student population, the city is heavily geared towards cycling. Trondheim features the world's only bicycle lift (Trampe) for its steep hills, but tourists using rental bikes should be cautious of getting their tires caught in the tram tracks that run through the city center. Winter here brings heavy snowfall and icy winds from the fjord, requiring proper thermal clothing and windproof outerwear.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 80
+        },
+        "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
+    },
+    {
+        "id": "AES",
+        "countryId": "NOR",
+        "slug": "alesund",
+        "name": "Ålesund",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/alesund.jpg",
+        "seoDescription": "Is Ålesund safe for a holiday? Find out how to safely enjoy this Art Nouveau city, the gateway to Geirangerfjord, and manage dramatic coastal weather.",
+        "touristAdvisory": "Ålesund is internationally renowned for its unique Art Nouveau architecture and serves as a major gateway to the stunning Geirangerfjord. The city is essentially a collection of islands connected by bridges and undersea tunnels. It is an extremely safe, quiet town where crime is negligible. The famous viewpoint at Mount Aksla is accessed via 418 steep steps; while safe, the steps can be exhausting and are slippery when covered in snow or rain. Weather on the west coast is highly volatile. If renting a car to explore the surrounding fjords or the famous Atlantic Ocean Road, drivers must be prepared for strong crosswinds, sudden fog, and extremely narrow roads shared with massive tour buses.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
     }
 ]
