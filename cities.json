@@ -2565,5 +2565,311 @@
             "naturalDisaster": 75
         },
         "emergencyNumbers": { "police": "112", "medical": "113", "fire": "110" }
+    },
+    {
+        "id": "STO",
+        "countryId": "SWE",
+        "slug": "stockholm",
+        "name": "Stockholm",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/stockholm.jpg",
+        "seoDescription": "Is Stockholm safe for tourists? Discover safety tips for navigating the capital, handling the cashless economy, and winter weather precautions.",
+        "touristAdvisory": "Stockholm is an exceptionally clean, modern, and safe capital city. It is almost entirely a cashless society; ensure you have a contactless credit or debit card, as physical cash is rarely accepted. While violent crime is rare, pickpocketing is a minor issue in major tourist hubs like Gamla Stan, the Central Station (T-Centralen), and on the metro during rush hour. In winter, the primary danger is slipping on packed snow or ice on the city's granite walkways; sensible boots with good grip are vital. While the city is very safe, it is best to avoid lingering in certain suburban areas late at night that have experienced recent issues with organized crime, though these are well away from standard tourist zones.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 90
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "GOT",
+        "countryId": "SWE",
+        "slug": "gothenburg",
+        "name": "Gothenburg",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/gothenburg.jpg",
+        "seoDescription": "Traveling to Gothenburg? Read our tourist safety guide for Sweden's port city, focusing on tram safety, the archipelago, and safe nightlife.",
+        "touristAdvisory": "Gothenburg is a friendly, relaxed port city with a fantastic reputation for safety. The city center, the historic Haga district, and the bustling Avenyn nightlife area are all very secure. Because Gothenburg is built around a vast network of tram lines, pedestrians must be extra vigilant; always look for trams before stepping onto the tracks, as they are quiet and have the right of way. The archipelago is a popular summer destination, but be mindful of water safety and boat schedules, as getting stranded on an island due to a missed ferry can happen. Like Stockholm, Gothenburg has a very limited use of physical cash; keep your digital payment methods ready.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 90
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "MAL",
+        "countryId": "SWE",
+        "slug": "malmo",
+        "name": "Malmö",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/malmo.jpg",
+        "seoDescription": "Is Malmö safe to visit? Discover how to safely enjoy this multicultural city, navigate its extensive cycling paths, and understand local safety dynamics.",
+        "touristAdvisory": "Malmö is a vibrant, multicultural city connected to Copenhagen via the famous Öresund Bridge. It is very safe for tourists, and the historic Lilla Torg, the castle park, and the Turning Torso area are secure and well-lit. While Malmö has experienced some localized issues with gang-related violence in specific outskirts, these neighborhoods are rarely visited by tourists. The biggest daily hazard is the incredible volume of bicycle traffic; stick strictly to the pedestrian sidewalks and never wander into the red-painted cycle lanes. Also, be aware that Malmö can have strong, biting winds coming off the sea, even in summer, so carry a light windproof jacket.",
+        "riskBreakdown": {
+            "crimeLevel": 75,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 90
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "KRN",
+        "countryId": "SWE",
+        "slug": "kiruna",
+        "name": "Kiruna",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/kiruna.jpg",
+        "seoDescription": "Planning a trip to Kiruna? Read our essential safety guide for visiting the Arctic, including extreme cold weather protocols and safe Northern Lights tours.",
+        "touristAdvisory": "Kiruna, located deep in the Swedish Arctic, is the gateway to the Icehotel and world-class Northern Lights viewing. It is an extremely safe, quiet town with virtually no crime. The hazards here are entirely environmental. The extreme sub-zero temperatures in winter (often dropping below -30°C) pose a genuine risk of frostbite and hypothermia; professional-grade thermal layers and windproof clothing are mandatory. When chasing the Northern Lights, only use registered tour operators, as getting lost or stuck in the wilderness during the long dark winter nights is life-threatening. If you are driving a rental car, ensure it is equipped with winter tires and know that the roads can be pure sheets of ice.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 70
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "VIS",
+        "countryId": "SWE",
+        "slug": "visby",
+        "name": "Visby (Gotland)",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/visby.jpg",
+        "seoDescription": "Is Visby safe for a summer holiday? Find out how to safely explore this walled medieval city, manage summer crowds, and enjoy the Baltic coast.",
+        "touristAdvisory": "Visby, the medieval jewel of Gotland island, is incredibly safe. The walled historic center is pedestrianized, calm, and very secure for travelers of all kinds. During the summer, the town experiences a massive influx of domestic tourists, which can make accommodation and restaurants crowded, but crime remains negligible. If you rent a bicycle to explore the surrounding coastline, be mindful of the local winds, which can be surprisingly strong. Sweden's 'Allemansrätten' (Right of Public Access) allows you to roam freely in nature, but this also entails a responsibility to keep the environment pristine and respect local wildlife—do not disturb nesting birds or farm animals.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "UPP",
+        "countryId": "SWE",
+        "slug": "uppsala",
+        "name": "Uppsala",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/uppsala.jpg",
+        "seoDescription": "Is Uppsala safe for a city break? Find out how to safely enjoy this historic university town, navigate the river banks, and understand local customs.",
+        "touristAdvisory": "Uppsala is one of Sweden's oldest and most prestigious university cities. It is a very safe, pleasant, and highly intellectual destination with a very low crime rate. The historic cathedral, the castle, and the banks of the River Fyris are secure to visit day and night. Like many Swedish cities, the main traffic hazard is the overwhelming number of bicycles; cyclists dominate the roads and often move very quickly, so stay off the red bike paths. While the city is very quiet and peaceful, the area around the university can get quite lively with student celebrations in late spring, but this is always good-natured and does not pose a threat to tourists.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 90
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "HEL",
+        "countryId": "FIN",
+        "slug": "helsinki",
+        "name": "Helsinki",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/helsinki.jpg",
+        "seoDescription": "Is Helsinki safe for tourists? Discover safety tips for the Finnish capital, managing winter ice on sidewalks, and navigating the tram network.",
+        "touristAdvisory": "Helsinki is an exceptionally safe, highly functional capital city. Violent crime is extremely rare, and walking at night is generally very safe, even for solo travelers. Like much of Scandinavia, it is largely a cashless society. The primary hazard for visitors is the winter weather. From November to March, sidewalks can be covered in 'musta jää' (black ice), making walking treacherous without proper winter boots with strong grip. Additionally, tourists must be vigilant around the city's extensive tram network; trams are very quiet and have the right of way, so always look both ways before crossing the tracks. During the dark winter months, wearing small reflective tags on your clothing is highly recommended and expected of pedestrians.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "RVN",
+        "countryId": "FIN",
+        "slug": "rovaniemi",
+        "name": "Rovaniemi",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/rovaniemi.jpg",
+        "seoDescription": "Traveling to Rovaniemi? Read our Arctic safety guide, including extreme cold survival, safe Northern Lights hunting, and snowmobile precautions.",
+        "touristAdvisory": "Rovaniemi is the capital of Finnish Lapland and the 'Official Hometown of Santa Claus'. It is an incredibly safe, family-friendly destination where crime is virtually non-existent. The hazards here are entirely environmental. Winter temperatures can routinely plummet to -30°C (-22°F). Frostbite and hypothermia are genuine threats; tourists must wear multiple layers of specialized thermal clothing. When booking husky sledding, reindeer safaris, or snowmobile tours, always use certified operators and strictly follow safety briefings. If you rent a car to hunt for the Northern Lights, you must be experienced in driving on pure ice and aware of wild reindeer and moose wandering onto the dark roads.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 65
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "TKU",
+        "countryId": "FIN",
+        "slug": "turku",
+        "name": "Turku",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/turku.jpg",
+        "seoDescription": "Is Turku safe to visit? Discover safety in Finland's oldest city, navigating the Aura River paths, and archipelago boating advice.",
+        "touristAdvisory": "Turku is Finland's oldest city and a bustling university hub. It is a very safe and relaxed destination. The beautiful walking paths along the Aura River are secure day and night, but visitors should be aware that the riverbanks often lack railings; take care during the icy winter months or after enjoying the local riverboat bars. Turku is the gateway to the spectacular Archipelago Sea. If boating or visiting the islands in the summer, tourists should be aware of ticks, which can carry Tick-borne encephalitis (TBE) and Lyme disease. Wearing long pants in tall grass and performing daily tick checks is highly recommended.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 90,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "TMP",
+        "countryId": "FIN",
+        "slug": "tampere",
+        "name": "Tampere",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/tampere.jpg",
+        "seoDescription": "Tampere safety guide for travelers. Navigate the Sauna Capital of the World safely, from lake swimming tips to winter ice hole precautions.",
+        "touristAdvisory": "Tampere is a dynamic, industrial-chic city surrounded by two massive lakes. It officially holds the title of the 'Sauna Capital of the World'. Crime rates are very low, and the city center is exceptionally safe. The primary risks are related to the intense sauna culture. 'Avantouinti' (ice hole swimming) is a popular winter activity; however, the sudden temperature shock can be dangerous for those with heart conditions, and you should never drink alcohol before swimming in a frozen lake. The city also has a robust cycling infrastructure, so pedestrians should ensure they do not accidentally walk in the designated bicycle lanes.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "OUL",
+        "countryId": "FIN",
+        "slug": "oulu",
+        "name": "Oulu",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/oulu.jpg",
+        "seoDescription": "Planning a trip to Oulu? Read our essential safety guide for exploring the 'Capital of Northern Scandinavia' and its famous winter cycling culture.",
+        "touristAdvisory": "Oulu is a major technological hub and the gateway to northern Finland. It is renowned globally for its winter cycling culture; locals ride bikes year-round, regardless of the snow. As a tourist, you must be extremely mindful of the cycle paths, as cyclists move quickly and silently on the snow. The city is highly safe, with practically zero risk of violent crime for tourists. Because it is located on the coast of the frozen Bothnian Bay, the wind chill in winter can be brutal. Proper windproof outerwear is just as important as thermal insulation here.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "PRV",
+        "countryId": "FIN",
+        "slug": "porvoo",
+        "name": "Porvoo",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/porvoo.jpg",
+        "seoDescription": "Is Porvoo safe for a day trip? Find out how to safely explore the iconic wooden houses, cobblestone streets, and the Porvoo riverfront.",
+        "touristAdvisory": "Porvoo is a highly picturesque, historic town located just a short bus ride from Helsinki. Famous for its red wooden shore houses and medieval layout, it is an extremely peaceful and safe destination. Crime is negligible. The main hazard for visitors is the town's topography. The Old Town is built on a hill with steep, uneven cobblestone streets. During rain, or especially during the icy winter months, these cobblestones become incredibly slippery and treacherous. High heels or shoes without proper tread are highly discouraged; sensible walking shoes are an absolute necessity for exploring safely.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "CPH",
+        "countryId": "DNK",
+        "slug": "copenhagen",
+        "name": "Copenhagen",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/copenhagen.jpg",
+        "seoDescription": "Is Copenhagen safe for tourists? Discover safety tips for the Danish capital, surviving the intense bicycle lanes, and visiting Freetown Christiania securely.",
+        "touristAdvisory": "Copenhagen is an incredibly safe, highly functional capital city. Violent crime is rare, but opportunistic pickpocketing does occur in crowded areas like the Strøget shopping street, around Tivoli Gardens, and at major transit hubs like Nørreport Station. The greatest physical hazard to tourists is the bicycle infrastructure; Copenhageners cycle fast and aggressively. Never walk in a designated bike lane, and always look over your shoulder before crossing one. If visiting Freetown Christiania, be aware that the local community has strict rules—especially regarding the 'Green Light District' (Pusher Street). Taking photos of drug vendors is strictly prohibited and can lead to immediate, aggressive confrontation. The government is currently cracking down on this area, so police raids can happen unexpectedly.",
+        "riskBreakdown": {
+            "crimeLevel": 80,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "AAR",
+        "countryId": "DNK",
+        "slug": "aarhus",
+        "name": "Aarhus",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/aarhus.jpg",
+        "seoDescription": "Traveling to Aarhus? Read our comprehensive safety guide for exploring Denmark's second city, navigating the student nightlife, and museum tips.",
+        "touristAdvisory": "Aarhus, known as the 'City of Smiles', is Denmark's second-largest city and a massive university hub. It boasts a very youthful, energetic, and safe atmosphere. Exploring the ARoS Art Museum, the Latin Quarter, and the waterfront is highly secure at all hours. Because of the large student population, the nightlife along the river (Åboulevarden) gets extremely lively on weekends; while the environment is generally safe and well-policed, visitors should be prepared for rowdy, alcohol-fueled behavior late at night. Like the capital, bicycles rule the road here, so pedestrians must remain vigilant when crossing streets.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "ODE",
+        "countryId": "DNK",
+        "slug": "odense",
+        "name": "Odense",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/odense.jpg",
+        "seoDescription": "Is Odense safe to visit? Learn about tourist safety in Hans Christian Andersen's birthplace, including navigating the historic center's cobblestones.",
+        "touristAdvisory": "Odense, the birthplace of fairytale author Hans Christian Andersen, is a charming, deeply historic, and exceptionally peaceful city on the island of Funen. Crime rates are very low, making it a perfect destination for families and solo travelers. The historic city center is heavily pedestrianized and very secure. The main hazards for visitors are physical: the ancient, uneven cobblestone streets can be treacherous, especially when wet during Denmark's frequent rain showers. Comfortable, flat walking shoes are strongly recommended. As a major cycling city, you should also always check for approaching bikes before stepping off the pavement.",
+        "riskBreakdown": {
+            "crimeLevel": 90,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "AAL",
+        "countryId": "DNK",
+        "slug": "aalborg",
+        "name": "Aalborg",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/aalborg.jpg",
+        "seoDescription": "Aalborg safety guide for travelers. Navigate northern Denmark securely, understand local transport, and safely enjoy the famous Jomfru Ane Gade nightlife.",
+        "touristAdvisory": "Aalborg, located in the northern part of Jutland, is a historic industrial city that has successfully transformed into a modern cultural hub. It is generally very safe. The city is famous throughout Scandinavia for 'Jomfru Ane Gade', a long, continuous street entirely made up of bars and nightclubs. While it is a major tourist attraction and heavily monitored by CCTV and police, the intense drinking culture means it can become very rowdy and chaotic on Friday and Saturday nights. Tourists should exercise standard nightlife awareness here to avoid alcohol-related scuffles or minor pickpocketing.",
+        "riskBreakdown": {
+            "crimeLevel": 85,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 85
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "BLL",
+        "countryId": "DNK",
+        "slug": "billund",
+        "name": "Billund",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/billund.jpg",
+        "seoDescription": "Planning a family trip to Billund? Read our safety guide for visiting Legoland, the Lego House, and navigating this highly secure, child-friendly town.",
+        "touristAdvisory": "Billund is world-famous as the birthplace of Lego and the home of the original Legoland theme park, the Lego House, and Lalandia. As a town that exists almost entirely to serve family tourism, it is one of the safest places you can visit in Europe. Crime is virtually non-existent. The massive resort areas are highly secure, heavily staffed, and designed specifically for child safety. The main concerns here are simply keeping track of your children in the massive crowds during peak summer months, and ensuring you have appropriate sun protection and hydration during long days exploring the outdoor parks.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 90
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
+    },
+    {
+        "id": "SKG",
+        "countryId": "DNK",
+        "slug": "skagen",
+        "name": "Skagen",
+        "safetyStatus": "safe",
+        "imageUrl": "https://github.com/GalaxyAX/cities/blob/main/image/skagen.jpg",
+        "seoDescription": "Is Skagen safe for a summer holiday? Find out how to safely enjoy the northernmost tip of Denmark, focusing on the highly dangerous ocean currents.",
+        "touristAdvisory": "Skagen, situated at the very northern tip of Jutland, is a picturesque seaside town famous for its unique light, yellow houses, and art history. It is a wildly popular and extremely safe summer destination for wealthy Danes and international tourists alike. Crime is not a concern. The greatest risk in Skagen is the ocean. At Grenen, the sandbar where the Skagerrak and Kattegat seas collide, the natural phenomenon is beautiful to watch, but the intersecting currents and undertows are violently strong and unpredictable. Swimming at Grenen is strictly forbidden and highly lethal. If you want to swim, only use the designated, calmer beaches on the eastern coast.",
+        "riskBreakdown": {
+            "crimeLevel": 95,
+            "healthEpidemic": 95,
+            "politicalStability": 95,
+            "naturalDisaster": 75
+        },
+        "emergencyNumbers": { "police": "112", "medical": "112", "fire": "112" }
     }
 ]
